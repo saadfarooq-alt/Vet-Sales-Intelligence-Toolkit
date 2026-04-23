@@ -1,0 +1,1001 @@
+sale_id,date,month,quarter,territory,province,city,clinic_id,clinic_name,sales_rep,product_name,product_category,animal_segment,unit_price,quantity,discount_pct,revenue,quota,quota_attainment
+S0862,2024-01-01,January,Q1,Quebec,QC,Montreal,CLN1064,Cohen Farm Supply & Vet,Marc Tremblay,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,15,0.11,3978.3,5321.19,74.8
+S0308,2024-01-02,January,Q1,Ontario East,ON,Ottawa,CLN1008,Miller Animal Hospital,David Park,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,20,0.11,3115.0,3076.28,101.3
+S0573,2024-01-02,January,Q1,Ontario East,ON,Belleville,CLN1006,Rhodes Veterinary Clinic,David Park,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,45,0.14,2118.82,2009.41,105.4
+S0175,2024-01-04,January,Q1,Ontario West,ON,Windsor,CLN1039,Hensley Mixed Practice,James Okafor,Clomicalm 20mg,Behaviour,Companion,67.0,49,0.04,3151.68,2984.24,105.6
+S0682,2024-01-04,January,Q1,Ontario West,ON,London,CLN1037,Calderon Animal Hospital,Emily Chen,Nexgard Spectra M,Parasitology,Companion,38.9,13,0.0,505.7,604.91,83.6
+S0850,2024-01-04,January,Q1,Western Canada,AB,Vancouver,CLN1076,Foster Veterinary Clinic,Priya Sharma,Ingelvac PRRS MLV,Vaccines,Swine,185.0,27,0.07,4645.35,5159.73,90.0
+S0009,2024-01-05,January,Q1,Ontario East,ON,Kingston,CLN1017,Robinson Veterinary Clinic,David Park,Ingelvac PRRS MLV,Vaccines,Swine,185.0,21,0.14,3341.1,4381.65,76.3
+S0017,2024-01-05,January,Q1,Ontario West,ON,Windsor,CLN1034,Dudley Animal Hospital,James Okafor,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,29,0.08,3575.12,3598.76,99.3
+S0427,2024-01-05,January,Q1,Atlantic Canada,NS,St. John's,CLN1100,Valencia Animal Hospital,Connor MacDonald,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,44,0.02,7546.0,8061.43,93.6
+S0705,2024-01-05,January,Q1,Western Canada,AB,Saskatoon,CLN1087,Bright Veterinary Clinic,Ryan Nakamura,Nexgard Spectra L,Parasitology,Companion,44.5,27,0.14,1033.29,1095.19,94.3
+S0298,2024-01-06,January,Q1,Ontario West,ON,Kitchener,CLN1031,Roman Farm Supply & Vet,Emily Chen,Nexgard Spectra M,Parasitology,Companion,38.9,22,0.05,813.01,962.38,84.5
+S0588,2024-01-06,January,Q1,Western Canada,AB,Saskatoon,CLN1083,Richards Animal Hospital,Priya Sharma,Clomicalm 20mg,Behaviour,Companion,67.0,36,0.13,2098.44,2345.53,89.5
+S0657,2024-01-06,January,Q1,Ontario East,ON,Toronto,CLN1018,Lawrence Livestock Practice,David Park,Zactran 150mg/mL,Antibiotics,Cattle,320.0,33,0.01,10454.4,10123.2,103.3
+S0795,2024-01-06,January,Q1,Quebec,QC,Sherbrooke,CLN1054,Zuniga Veterinary Clinic,Marc Tremblay,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,48,0.1,2365.2,2628.64,90.0
+S0921,2024-01-06,January,Q1,Western Canada,AB,Vancouver,CLN1082,Baker Farm Supply & Vet,Priya Sharma,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,4,0.14,1025.12,1097.92,93.4
+S0449,2024-01-07,January,Q1,Western Canada,AB,Calgary,CLN1093,Conner Veterinary Clinic,Ryan Nakamura,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,48,0.08,2417.76,1877.2,128.8
+S0715,2024-01-07,January,Q1,Quebec,QC,Sherbrooke,CLN1059,Martin Mixed Practice,Marc Tremblay,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,34,0.07,4237.08,4929.95,85.9
+S0776,2024-01-07,January,Q1,Quebec,QC,Laval,CLN1063,Hawkins Farm Supply & Vet,Isabelle Roy,Vetmedin 5mg,Cardiology,Companion,89.5,24,0.03,2083.56,2460.07,84.7
+S0294,2024-01-08,January,Q1,Ontario West,ON,Kitchener,CLN1043,Perez Farm Supply & Vet,James Okafor,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,30,0.1,3618.0,4273.43,84.7
+S0329,2024-01-08,January,Q1,Quebec,QC,Montreal,CLN1072,Hahn Mixed Practice,Marc Tremblay,Ingelvac PRRS MLV,Vaccines,Swine,185.0,14,0.13,2253.3,2140.14,105.3
+S0831,2024-01-08,January,Q1,Quebec,QC,Laval,CLN1061,Mayo Mixed Practice,Marc Tremblay,Clomicalm 20mg,Behaviour,Companion,67.0,13,0.03,844.87,840.78,100.5
+S0071,2024-01-09,January,Q1,Quebec,QC,Montreal,CLN1072,Hahn Mixed Practice,Marc Tremblay,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,31,0.1,3738.6,3904.94,95.7
+S0316,2024-01-09,January,Q1,Atlantic Canada,NS,St. John's,CLN1120,Hernandez Animal Hospital,Connor MacDonald,Vetmedin 5mg,Cardiology,Companion,89.5,43,0.06,3617.59,4375.95,82.7
+S0343,2024-01-09,January,Q1,Ontario East,ON,Kingston,CLN1002,Johnson Animal Hospital,Sarah Mitchell,Zactran 150mg/mL,Antibiotics,Cattle,320.0,47,0.04,14438.4,19296.74,74.8
+S0912,2024-01-09,January,Q1,Ontario East,ON,Kingston,CLN1020,Smith Mixed Practice,David Park,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,9,0.02,1543.5,1224.07,126.1
+S0995,2024-01-09,January,Q1,Ontario West,ON,Burlington,CLN1028,Davis Animal Hospital,James Okafor,Nexgard Spectra L,Parasitology,Companion,44.5,19,0.04,811.68,1095.26,74.1
+S0177,2024-01-10,January,Q1,Quebec,QC,Montreal,CLN1072,Hahn Mixed Practice,Isabelle Roy,Vetmedin 10mg,Cardiology,Companion,142.0,26,0.13,3212.04,2490.56,129.0
+S0145,2024-01-11,January,Q1,Ontario East,ON,Ottawa,CLN1016,Gardner Animal Hospital,David Park,Vetmedin 10mg,Cardiology,Companion,142.0,43,0.03,5922.82,6714.68,88.2
+S0372,2024-01-14,January,Q1,Ontario East,ON,Kingston,CLN1015,Santos Farm Supply & Vet,Sarah Mitchell,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,35,0.03,10117.1,12247.47,82.6
+S0827,2024-01-14,January,Q1,Atlantic Canada,NS,St. John's,CLN1120,Hernandez Animal Hospital,Fatima Hassan,Clomicalm 20mg,Behaviour,Companion,67.0,50,0.03,3249.5,2693.6,120.6
+S0531,2024-01-15,January,Q1,Quebec,QC,Sherbrooke,CLN1065,Cameron Animal Hospital,Isabelle Roy,Clomicalm 20mg,Behaviour,Companion,67.0,50,0.13,2914.5,3723.56,78.3
+S0583,2024-01-15,January,Q1,Western Canada,AB,Saskatoon,CLN1087,Bright Veterinary Clinic,Priya Sharma,Clomicalm 20mg,Behaviour,Companion,67.0,40,0.06,2519.2,2431.43,103.6
+S0703,2024-01-15,January,Q1,Atlantic Canada,NS,Fredericton,CLN1097,Ferrell Farm Supply & Vet,Fatima Hassan,Ingelvac PRRS MLV,Vaccines,Swine,185.0,44,0.07,7570.2,8343.09,90.7
+S0980,2024-01-15,January,Q1,Ontario East,ON,Belleville,CLN1006,Rhodes Veterinary Clinic,Sarah Mitchell,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,4,0.14,460.96,394.37,116.9
+S0232,2024-01-16,January,Q1,Western Canada,AB,Saskatoon,CLN1086,Robinson Mixed Practice,Priya Sharma,Nexgard Spectra L,Parasitology,Companion,44.5,33,0.12,1292.28,1496.0,86.4
+S0400,2024-01-16,January,Q1,Quebec,QC,Laval,CLN1063,Hawkins Farm Supply & Vet,Isabelle Roy,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,29,0.07,3613.98,2889.75,125.1
+S0469,2024-01-16,January,Q1,Quebec,QC,Sherbrooke,CLN1066,Parsons Veterinary Clinic,Marc Tremblay,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,20,0.04,3360.0,4517.2,74.4
+S0818,2024-01-16,January,Q1,Ontario West,ON,London,CLN1036,Arnold Mixed Practice,James Okafor,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,17,0.13,2588.25,3323.94,77.9
+S0825,2024-01-16,January,Q1,Quebec,QC,Montreal,CLN1069,Stewart Farm Supply & Vet,Marc Tremblay,Clomicalm 20mg,Behaviour,Companion,67.0,21,0.13,1224.09,1024.95,119.4
+S0852,2024-01-17,January,Q1,Ontario East,ON,Toronto,CLN1024,Moore Mixed Practice,Sarah Mitchell,Vetmedin 5mg,Cardiology,Companion,89.5,42,0.05,3571.05,2989.77,119.4
+S0450,2024-01-19,January,Q1,Ontario West,ON,Kitchener,CLN1032,Blair Farm Supply & Vet,James Okafor,Ingelvac PRRS MLV,Vaccines,Swine,185.0,24,0.06,4173.6,3506.04,119.0
+S0868,2024-01-19,January,Q1,Ontario West,ON,Windsor,CLN1025,Bernard Mixed Practice,Emily Chen,Nexgard Spectra L,Parasitology,Companion,44.5,44,0.07,1820.94,1884.13,96.6
+S0023,2024-01-20,January,Q1,Atlantic Canada,NS,Halifax,CLN1103,Maldonado Livestock Practice,Connor MacDonald,Nexgard Spectra M,Parasitology,Companion,38.9,11,0.12,376.55,306.83,122.7
+S0289,2024-01-20,January,Q1,Ontario West,ON,London,CLN1037,Calderon Animal Hospital,James Okafor,Vetmedin 10mg,Cardiology,Companion,142.0,42,0.09,5427.24,5813.07,93.4
+S0291,2024-01-20,January,Q1,Atlantic Canada,NS,St. John's,CLN1101,Smith Livestock Practice,Fatima Hassan,Clomicalm 20mg,Behaviour,Companion,67.0,48,0.14,2765.76,3611.04,76.6
+S0019,2024-01-21,January,Q1,Quebec,QC,Laval,CLN1071,Clark Animal Hospital,Marc Tremblay,Ingelvac CircoFLEX,Vaccines,Swine,210.0,9,0.01,1871.1,1812.7,103.2
+S0191,2024-01-21,January,Q1,Quebec,QC,Montreal,CLN1058,Daniel Livestock Practice,Marc Tremblay,Nexgard Spectra L,Parasitology,Companion,44.5,46,0.01,2026.53,2305.54,87.9
+S0467,2024-01-21,January,Q1,Ontario East,ON,Belleville,CLN1012,Wagner Mixed Practice,Sarah Mitchell,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,20,0.12,3080.0,3597.83,85.6
+S0576,2024-01-21,January,Q1,Quebec,QC,Sherbrooke,CLN1059,Martin Mixed Practice,Isabelle Roy,Nexgard Spectra M,Parasitology,Companion,38.9,30,0.01,1155.33,1430.19,80.8
+S0189,2024-01-22,January,Q1,Western Canada,AB,Saskatoon,CLN1079,Baker Veterinary Clinic,Priya Sharma,Ingelvac PRRS MLV,Vaccines,Swine,185.0,38,0.08,6467.6,7923.4,81.6
+S0223,2024-01-22,January,Q1,Western Canada,AB,Vancouver,CLN1092,Burton Veterinary Clinic,Priya Sharma,Vetmedin 5mg,Cardiology,Companion,89.5,19,0.03,1649.48,2020.06,81.7
+S0761,2024-01-22,January,Q1,Atlantic Canada,NS,Fredericton,CLN1102,Le Veterinary Clinic,Fatima Hassan,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,8,0.06,2240.96,2007.57,111.6
+S0836,2024-01-22,January,Q1,Quebec,QC,Quebec City,CLN1068,Johnson Mixed Practice,Marc Tremblay,Zactran 150mg/mL,Antibiotics,Cattle,320.0,7,0.07,2083.2,2596.1,80.2
+S0960,2024-01-22,January,Q1,Quebec,QC,Montreal,CLN1069,Stewart Farm Supply & Vet,Isabelle Roy,Vetmedin 5mg,Cardiology,Companion,89.5,3,0.05,255.07,242.99,105.0
+S0679,2024-01-23,January,Q1,Ontario East,ON,Kingston,CLN1017,Robinson Veterinary Clinic,Sarah Mitchell,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,42,0.06,6909.0,6925.65,99.8
+S0978,2024-01-23,January,Q1,Atlantic Canada,NS,Fredericton,CLN1102,Le Veterinary Clinic,Connor MacDonald,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,31,0.07,5045.25,4267.55,118.2
+S0584,2024-01-24,January,Q1,Atlantic Canada,NS,St. John's,CLN1111,Liu Animal Hospital,Connor MacDonald,Ingelvac PRRS MLV,Vaccines,Swine,185.0,32,0.02,5801.6,5782.86,100.3
+S0600,2024-01-24,January,Q1,Ontario West,ON,Burlington,CLN1028,Davis Animal Hospital,Emily Chen,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,46,0.05,2392.57,2881.35,83.0
+S0566,2024-01-25,January,Q1,Atlantic Canada,NS,Fredericton,CLN1102,Le Veterinary Clinic,Connor MacDonald,Ingelvac CircoFLEX,Vaccines,Swine,210.0,41,0.04,8265.6,8851.14,93.4
+S0723,2024-01-25,January,Q1,Quebec,QC,Laval,CLN1067,Perez Mixed Practice,Isabelle Roy,Ingelvac PRRS MLV,Vaccines,Swine,185.0,20,0.04,3552.0,4493.64,79.0
+S0474,2024-01-26,January,Q1,Quebec,QC,Sherbrooke,CLN1057,Jackson Mixed Practice,Marc Tremblay,Vetmedin 10mg,Cardiology,Companion,142.0,22,0.02,3061.52,4027.03,76.0
+S0851,2024-01-26,January,Q1,Ontario West,ON,Kitchener,CLN1032,Blair Farm Supply & Vet,Emily Chen,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,41,0.08,11240.56,13996.2,80.3
+S0015,2024-01-27,January,Q1,Western Canada,AB,Vancouver,CLN1082,Baker Farm Supply & Vet,Priya Sharma,Zactran 150mg/mL,Antibiotics,Cattle,320.0,32,0.04,9830.4,12729.34,77.2
+S0193,2024-01-27,January,Q1,Atlantic Canada,NS,Fredericton,CLN1118,Fowler Animal Hospital,Fatima Hassan,Ingelvac CircoFLEX,Vaccines,Swine,210.0,27,0.12,4989.6,5774.66,86.4
+S0452,2024-01-27,January,Q1,Ontario West,ON,Windsor,CLN1035,Gray Veterinary Clinic,James Okafor,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,24,0.02,7008.96,8088.31,86.7
+S0759,2024-01-27,January,Q1,Quebec,QC,Laval,CLN1067,Perez Mixed Practice,Marc Tremblay,Nexgard Spectra M,Parasitology,Companion,38.9,31,0.1,1085.31,943.39,115.0
+S0924,2024-01-27,January,Q1,Western Canada,AB,Vancouver,CLN1094,Henderson Veterinary Clinic,Priya Sharma,Vetmedin 5mg,Cardiology,Companion,89.5,41,0.07,3412.63,2905.68,117.4
+S0645,2024-01-28,January,Q1,Atlantic Canada,NS,Halifax,CLN1107,Rodriguez Livestock Practice,Fatima Hassan,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,8,0.03,424.86,522.49,81.3
+S0806,2024-01-28,January,Q1,Ontario West,ON,Windsor,CLN1026,Rogers Mixed Practice,Emily Chen,Clomicalm 20mg,Behaviour,Companion,67.0,49,0.11,2921.87,2341.85,124.8
+S0811,2024-01-28,January,Q1,Ontario East,ON,Belleville,CLN1022,Wolfe Mixed Practice,Sarah Mitchell,Nexgard Spectra M,Parasitology,Companion,38.9,13,0.12,445.02,498.77,89.2
+S0119,2024-01-29,January,Q1,Quebec,QC,Sherbrooke,CLN1057,Jackson Mixed Practice,Marc Tremblay,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,20,0.14,2304.8,1792.2,128.6
+S0347,2024-01-29,January,Q1,Western Canada,AB,Vancouver,CLN1084,Hurst Farm Supply & Vet,Ryan Nakamura,Vetmedin 10mg,Cardiology,Companion,142.0,26,0.06,3470.48,3753.74,92.5
+S0442,2024-01-29,January,Q1,Ontario East,ON,Ottawa,CLN1008,Miller Animal Hospital,Sarah Mitchell,Vetmedin 10mg,Cardiology,Companion,142.0,28,0.02,3896.48,4353.84,89.5
+S0482,2024-01-29,January,Q1,Ontario East,ON,Kingston,CLN1021,Shaffer Veterinary Clinic,Sarah Mitchell,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,43,0.04,2260.08,2418.77,93.4
+S1000,2024-01-29,January,Q1,Western Canada,AB,Calgary,CLN1090,Williams Mixed Practice,Ryan Nakamura,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,6,0.09,955.5,909.08,105.1
+S0544,2024-01-30,January,Q1,Ontario West,ON,Windsor,CLN1034,Dudley Animal Hospital,Emily Chen,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,10,0.08,503.7,450.4,111.8
+S0161,2024-01-31,January,Q1,Quebec,QC,Quebec City,CLN1056,Lynch Animal Hospital,Marc Tremblay,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,48,0.06,6046.08,5006.57,120.8
+S0190,2024-02-01,February,Q1,Quebec,QC,Montreal,CLN1058,Daniel Livestock Practice,Marc Tremblay,Nexgard Spectra L,Parasitology,Companion,44.5,39,0.07,1614.01,1356.6,119.0
+S0276,2024-02-01,February,Q1,Ontario West,ON,London,CLN1027,Davis Veterinary Clinic,Emily Chen,Zactran 150mg/mL,Antibiotics,Cattle,320.0,50,0.09,14560.0,15039.95,96.8
+S0222,2024-02-02,February,Q1,Ontario East,ON,Toronto,CLN1023,Peterson Livestock Practice,David Park,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,31,0.09,3780.14,4675.65,80.8
+S0309,2024-02-02,February,Q1,Western Canada,AB,Calgary,CLN1096,James Mixed Practice,Ryan Nakamura,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,5,0.01,1475.1,1411.25,104.5
+S0415,2024-02-02,February,Q1,Ontario East,ON,Toronto,CLN1001,Fowler Veterinary Clinic,Sarah Mitchell,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,30,0.1,3618.0,4227.17,85.6
+S0771,2024-02-02,February,Q1,Atlantic Canada,NS,Fredericton,CLN1114,White Veterinary Clinic,Connor MacDonald,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,24,0.12,6293.76,5622.04,111.9
+S0080,2024-02-03,February,Q1,Ontario West,ON,Burlington,CLN1044,Roberts Animal Hospital,James Okafor,Vetmedin 5mg,Cardiology,Companion,89.5,17,0.14,1308.49,1356.43,96.5
+S0856,2024-02-03,February,Q1,Ontario West,ON,Burlington,CLN1042,Williams Farm Supply & Vet,Emily Chen,Ingelvac CircoFLEX,Vaccines,Swine,210.0,5,0.11,934.5,1173.72,79.6
+S0518,2024-02-04,February,Q1,Ontario West,ON,Windsor,CLN1026,Rogers Mixed Practice,James Okafor,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,17,0.05,4812.7,5709.12,84.3
+S0865,2024-02-04,February,Q1,Ontario West,ON,Burlington,CLN1028,Davis Animal Hospital,James Okafor,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,13,0.1,2047.5,1848.18,110.8
+S0635,2024-02-06,February,Q1,Ontario East,ON,Toronto,CLN1005,Doyle Mixed Practice,Sarah Mitchell,Vetmedin 10mg,Cardiology,Companion,142.0,4,0.03,550.96,496.49,111.0
+S0730,2024-02-06,February,Q1,Atlantic Canada,NS,Moncton,CLN1104,Herrera Livestock Practice,Fatima Hassan,Ingelvac CircoFLEX,Vaccines,Swine,210.0,41,0.09,7835.1,7779.19,100.7
+S0949,2024-02-06,February,Q1,Ontario West,ON,Burlington,CLN1028,Davis Animal Hospital,James Okafor,Ingelvac PRRS MLV,Vaccines,Swine,185.0,46,0.04,8169.6,6298.08,129.7
+S0436,2024-02-07,February,Q1,Quebec,QC,Sherbrooke,CLN1054,Zuniga Veterinary Clinic,Isabelle Roy,Zactran 150mg/mL,Antibiotics,Cattle,320.0,44,0.03,13657.6,14102.96,96.8
+S0700,2024-02-07,February,Q1,Western Canada,AB,Calgary,CLN1074,Edwards Veterinary Clinic,Ryan Nakamura,Nexgard Spectra M,Parasitology,Companion,38.9,12,0.06,438.79,357.12,122.9
+S0231,2024-02-08,February,Q1,Western Canada,AB,Saskatoon,CLN1079,Baker Veterinary Clinic,Priya Sharma,Nexgard Spectra M,Parasitology,Companion,38.9,41,0.15,1355.66,1787.77,75.8
+S0589,2024-02-08,February,Q1,Western Canada,AB,Saskatoon,CLN1083,Richards Animal Hospital,Ryan Nakamura,Zactran 150mg/mL,Antibiotics,Cattle,320.0,31,0.13,8630.4,10974.84,78.6
+S0944,2024-02-08,February,Q1,Atlantic Canada,NS,St. John's,CLN1115,Gaines Mixed Practice,Connor MacDonald,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,12,0.04,1543.68,1590.26,97.1
+S0213,2024-02-10,February,Q1,Western Canada,AB,Calgary,CLN1090,Williams Mixed Practice,Ryan Nakamura,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,31,0.07,3863.22,2909.59,132.8
+S0283,2024-02-10,February,Q1,Atlantic Canada,NS,St. John's,CLN1105,Adams Livestock Practice,Fatima Hassan,Clomicalm 20mg,Behaviour,Companion,67.0,19,0.01,1260.27,1667.57,75.6
+S0728,2024-02-10,February,Q1,Ontario West,ON,Kitchener,CLN1046,Hall Livestock Practice,Emily Chen,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,33,0.07,5370.75,6401.48,83.9
+S0346,2024-02-11,February,Q1,Quebec,QC,Sherbrooke,CLN1059,Martin Mixed Practice,Marc Tremblay,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,15,0.04,1929.6,2405.9,80.2
+S0555,2024-02-11,February,Q1,Western Canada,AB,Edmonton,CLN1073,Walter Livestock Practice,Priya Sharma,Clomicalm 20mg,Behaviour,Companion,67.0,21,0.13,1224.09,1050.53,116.5
+S0358,2024-02-12,February,Q1,Quebec,QC,Quebec City,CLN1049,Reid Mixed Practice,Marc Tremblay,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,19,0.12,4982.56,5868.78,84.9
+S0439,2024-02-12,February,Q1,Quebec,QC,Sherbrooke,CLN1052,Clark Farm Supply & Vet,Marc Tremblay,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,35,0.08,5635.0,4742.46,118.8
+S0681,2024-02-12,February,Q1,Atlantic Canada,NS,Halifax,CLN1103,Maldonado Livestock Practice,Connor MacDonald,Ingelvac CircoFLEX,Vaccines,Swine,210.0,9,0.04,1814.4,2194.54,82.7
+S0363,2024-02-13,February,Q1,Western Canada,AB,Vancouver,CLN1077,Rocha Mixed Practice,Priya Sharma,Ingelvac CircoFLEX,Vaccines,Swine,210.0,1,0.04,201.6,198.11,101.8
+S0382,2024-02-13,February,Q1,Western Canada,AB,Calgary,CLN1089,Davis Farm Supply & Vet,Ryan Nakamura,Nexgard Spectra L,Parasitology,Companion,44.5,2,0.07,82.77,76.75,107.8
+S0472,2024-02-13,February,Q1,Ontario East,ON,Kingston,CLN1017,Robinson Veterinary Clinic,Sarah Mitchell,Ingelvac CircoFLEX,Vaccines,Swine,210.0,24,0.1,4536.0,5953.7,76.2
+S0405,2024-02-14,February,Q1,Western Canada,AB,Calgary,CLN1095,Brown Farm Supply & Vet,Ryan Nakamura,Nexgard Spectra M,Parasitology,Companion,38.9,3,0.07,108.53,104.1,104.3
+S0696,2024-02-14,February,Q1,Ontario East,ON,Belleville,CLN1022,Wolfe Mixed Practice,Sarah Mitchell,Nexgard Spectra L,Parasitology,Companion,44.5,16,0.1,640.8,855.72,74.9
+S0880,2024-02-14,February,Q1,Ontario East,ON,Kingston,CLN1015,Santos Farm Supply & Vet,Sarah Mitchell,Nexgard Spectra M,Parasitology,Companion,38.9,3,0.1,105.03,116.22,90.4
+S0942,2024-02-14,February,Q1,Atlantic Canada,NS,St. John's,CLN1115,Gaines Mixed Practice,Connor MacDonald,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,41,0.02,11973.64,15861.21,75.5
+S0557,2024-02-15,February,Q1,Ontario West,ON,London,CLN1036,Arnold Mixed Practice,James Okafor,Clomicalm 20mg,Behaviour,Companion,67.0,37,0.11,2206.31,2302.83,95.8
+S0906,2024-02-15,February,Q1,Atlantic Canada,NS,Fredericton,CLN1102,Le Veterinary Clinic,Fatima Hassan,Ingelvac CircoFLEX,Vaccines,Swine,210.0,46,0.15,8211.0,7854.3,104.5
+S0919,2024-02-15,February,Q1,Western Canada,AB,Vancouver,CLN1094,Henderson Veterinary Clinic,Priya Sharma,Ingelvac PRRS MLV,Vaccines,Swine,185.0,34,0.01,6227.1,7995.28,77.9
+S0971,2024-02-15,February,Q1,Atlantic Canada,NS,St. John's,CLN1100,Valencia Animal Hospital,Connor MacDonald,Vetmedin 5mg,Cardiology,Companion,89.5,32,0.01,2835.36,2138.81,132.6
+S0974,2024-02-15,February,Q1,Ontario East,ON,Toronto,CLN1023,Peterson Livestock Practice,Sarah Mitchell,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,12,0.11,3182.64,3555.74,89.5
+S0168,2024-02-16,February,Q1,Western Canada,AB,Saskatoon,CLN1085,Ross Farm Supply & Vet,Priya Sharma,Vetmedin 10mg,Cardiology,Companion,142.0,10,0.11,1263.8,1684.75,75.0
+S0188,2024-02-16,February,Q1,Quebec,QC,Montreal,CLN1058,Daniel Livestock Practice,Marc Tremblay,Vetmedin 5mg,Cardiology,Companion,89.5,24,0.12,1890.24,1504.7,125.6
+S0306,2024-02-16,February,Q1,Ontario West,ON,Burlington,CLN1042,Williams Farm Supply & Vet,Emily Chen,Vetmedin 10mg,Cardiology,Companion,142.0,44,0.03,6060.56,6665.94,90.9
+S0574,2024-02-16,February,Q1,Ontario East,ON,Kingston,CLN1002,Johnson Animal Hospital,Sarah Mitchell,Vetmedin 10mg,Cardiology,Companion,142.0,37,0.1,4728.6,3969.6,119.1
+S0593,2024-02-16,February,Q1,Ontario East,ON,Ottawa,CLN1003,Hill Animal Hospital,Sarah Mitchell,Ingelvac CircoFLEX,Vaccines,Swine,210.0,27,0.01,5613.3,6059.33,92.6
+S0690,2024-02-16,February,Q1,Western Canada,AB,Saskatoon,CLN1079,Baker Veterinary Clinic,Ryan Nakamura,Clomicalm 20mg,Behaviour,Companion,67.0,25,0.14,1440.5,1084.95,132.8
+S0160,2024-02-17,February,Q1,Ontario West,ON,Windsor,CLN1048,Ramirez Animal Hospital,James Okafor,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,31,0.01,5370.75,6708.41,80.1
+S0296,2024-02-18,February,Q1,Atlantic Canada,NS,Fredericton,CLN1110,Mckay Mixed Practice,Fatima Hassan,Ingelvac CircoFLEX,Vaccines,Swine,210.0,33,0.05,6583.5,6520.96,101.0
+S0577,2024-02-18,February,Q1,Atlantic Canada,NS,Fredericton,CLN1110,Mckay Mixed Practice,Fatima Hassan,Nexgard Spectra L,Parasitology,Companion,44.5,44,0.05,1860.1,2219.33,83.8
+S0257,2024-02-19,February,Q1,Ontario West,ON,Burlington,CLN1041,Bush Animal Hospital,James Okafor,Ingelvac PRRS MLV,Vaccines,Swine,185.0,8,0.04,1420.8,1276.95,111.3
+S0265,2024-02-19,February,Q1,Atlantic Canada,NS,St. John's,CLN1098,Rice Animal Hospital,Fatima Hassan,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,44,0.09,11931.92,9870.06,120.9
+S0512,2024-02-19,February,Q1,Atlantic Canada,NS,Moncton,CLN1108,Graham Veterinary Clinic,Fatima Hassan,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,4,0.02,1168.16,1364.27,85.6
+S0964,2024-02-19,February,Q1,Ontario East,ON,Kingston,CLN1002,Johnson Animal Hospital,Sarah Mitchell,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,4,0.14,602.0,747.95,80.5
+S0084,2024-02-20,February,Q1,Quebec,QC,Montreal,CLN1055,Wong Veterinary Clinic,Isabelle Roy,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,40,0.01,11800.8,15648.63,75.4
+S0143,2024-02-20,February,Q1,Ontario West,ON,Windsor,CLN1048,Ramirez Animal Hospital,James Okafor,Ingelvac PRRS MLV,Vaccines,Swine,185.0,29,0.14,4613.9,5828.6,79.2
+S0211,2024-02-20,February,Q1,Ontario West,ON,Kitchener,CLN1031,Roman Farm Supply & Vet,Emily Chen,Vetmedin 10mg,Cardiology,Companion,142.0,24,0.03,3305.76,3111.42,106.2
+S0939,2024-02-20,February,Q1,Quebec,QC,Laval,CLN1071,Clark Animal Hospital,Marc Tremblay,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,1,0.12,154.0,116.61,132.1
+S0993,2024-02-20,February,Q1,Ontario East,ON,Toronto,CLN1005,Doyle Mixed Practice,David Park,Zactran 150mg/mL,Antibiotics,Cattle,320.0,26,0.07,7737.6,9508.04,81.4
+S0112,2024-02-21,February,Q1,Quebec,QC,Montreal,CLN1064,Cohen Farm Supply & Vet,Marc Tremblay,Clomicalm 20mg,Behaviour,Companion,67.0,33,0.14,1901.46,1804.86,105.4
+S0118,2024-02-21,February,Q1,Western Canada,AB,Calgary,CLN1096,James Mixed Practice,Ryan Nakamura,Ingelvac CircoFLEX,Vaccines,Swine,210.0,7,0.11,1308.3,1533.77,85.3
+S0429,2024-02-21,February,Q1,Atlantic Canada,NS,Fredericton,CLN1118,Fowler Animal Hospital,Fatima Hassan,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,44,0.07,12194.16,10735.09,113.6
+S0521,2024-02-21,February,Q1,Quebec,QC,Sherbrooke,CLN1054,Zuniga Veterinary Clinic,Marc Tremblay,Clomicalm 20mg,Behaviour,Companion,67.0,37,0.09,2255.89,2718.41,83.0
+S0404,2024-02-22,February,Q1,Atlantic Canada,NS,Halifax,CLN1106,Davidson Veterinary Clinic,Connor MacDonald,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,29,0.08,3575.12,4804.48,74.4
+S0470,2024-02-22,February,Q1,Quebec,QC,Sherbrooke,CLN1052,Clark Farm Supply & Vet,Isabelle Roy,Zactran 150mg/mL,Antibiotics,Cattle,320.0,48,0.08,14131.2,11401.55,123.9
+S0541,2024-02-22,February,Q1,Quebec,QC,Sherbrooke,CLN1060,Gray Mixed Practice,Isabelle Roy,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,34,0.12,5236.0,5174.69,101.2
+S0570,2024-02-23,February,Q1,Ontario East,ON,Kingston,CLN1013,Johnson Veterinary Clinic,David Park,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,39,0.11,10343.58,10356.98,99.9
+S0603,2024-02-23,February,Q1,Quebec,QC,Montreal,CLN1062,Bowman Veterinary Clinic,Marc Tremblay,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,38,0.03,4939.24,6120.44,80.7
+S0256,2024-02-24,February,Q1,Western Canada,AB,Vancouver,CLN1094,Henderson Veterinary Clinic,Priya Sharma,Ingelvac CircoFLEX,Vaccines,Swine,210.0,9,0.11,1682.1,1781.32,94.4
+S0709,2024-02-24,February,Q1,Ontario West,ON,London,CLN1027,Davis Veterinary Clinic,James Okafor,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,16,0.13,762.12,734.39,103.8
+S0764,2024-02-24,February,Q1,Ontario East,ON,Ottawa,CLN1008,Miller Animal Hospital,Sarah Mitchell,Nexgard Spectra L,Parasitology,Companion,44.5,42,0.02,1831.62,1963.15,93.3
+S0774,2024-02-24,February,Q1,Western Canada,AB,Saskatoon,CLN1085,Ross Farm Supply & Vet,Ryan Nakamura,Vetmedin 5mg,Cardiology,Companion,89.5,9,0.03,781.33,600.66,130.1
+S0151,2024-02-25,February,Q1,Ontario East,ON,Kingston,CLN1015,Santos Farm Supply & Vet,Sarah Mitchell,Ingelvac PRRS MLV,Vaccines,Swine,185.0,29,0.12,4721.2,4994.76,94.5
+S0148,2024-02-26,February,Q1,Ontario East,ON,Toronto,CLN1001,Fowler Veterinary Clinic,David Park,Clomicalm 20mg,Behaviour,Companion,67.0,9,0.08,554.76,681.86,81.4
+S0489,2024-02-26,February,Q1,Ontario East,ON,Ottawa,CLN1008,Miller Animal Hospital,Sarah Mitchell,Clomicalm 20mg,Behaviour,Companion,67.0,38,0.11,2265.94,1892.04,119.8
+S0982,2024-02-26,February,Q1,Quebec,QC,Sherbrooke,CLN1054,Zuniga Veterinary Clinic,Marc Tremblay,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,44,0.13,5129.52,4555.21,112.6
+S0293,2024-02-27,February,Q1,Quebec,QC,Sherbrooke,CLN1059,Martin Mixed Practice,Isabelle Roy,Clomicalm 20mg,Behaviour,Companion,67.0,33,0.07,2056.23,1780.05,115.5
+S0520,2024-02-27,February,Q1,Quebec,QC,Sherbrooke,CLN1059,Martin Mixed Practice,Marc Tremblay,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,40,0.09,4877.6,5945.85,82.0
+S0840,2024-02-27,February,Q1,Atlantic Canada,NS,Halifax,CLN1116,Harrell Veterinary Clinic,Connor MacDonald,Ingelvac PRRS MLV,Vaccines,Swine,185.0,42,0.07,7226.1,8552.73,84.5
+S0977,2024-02-27,February,Q1,Ontario West,ON,Windsor,CLN1029,Abbott Veterinary Clinic,Emily Chen,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,43,0.03,7299.25,5706.86,127.9
+S0058,2024-02-28,February,Q1,Atlantic Canada,NS,Moncton,CLN1108,Graham Veterinary Clinic,Connor MacDonald,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,10,0.04,2860.8,2958.46,96.7
+S0628,2024-02-28,February,Q1,Western Canada,AB,Saskatoon,CLN1079,Baker Veterinary Clinic,Ryan Nakamura,Vetmedin 5mg,Cardiology,Companion,89.5,44,0.13,3426.06,3353.51,102.2
+S0668,2024-02-28,February,Q1,Ontario West,ON,Kitchener,CLN1047,Garcia Animal Hospital,James Okafor,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,15,0.06,2467.5,2339.52,105.5
+S0394,2024-02-29,February,Q1,Atlantic Canada,NS,Fredericton,CLN1118,Fowler Animal Hospital,Connor MacDonald,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,9,0.05,1496.25,1336.37,112.0
+S0609,2024-02-29,February,Q1,Western Canada,AB,Vancouver,CLN1084,Hurst Farm Supply & Vet,Ryan Nakamura,Zactran 150mg/mL,Antibiotics,Cattle,320.0,35,0.1,10080.0,9509.76,106.0
+S0445,2024-03-01,March,Q1,Ontario West,ON,Windsor,CLN1048,Ramirez Animal Hospital,James Okafor,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,50,0.13,5829.0,6935.12,84.1
+S0975,2024-03-01,March,Q1,Western Canada,AB,Saskatoon,CLN1081,Hoffman Mixed Practice,Priya Sharma,Nexgard Spectra L,Parasitology,Companion,44.5,27,0.0,1201.5,1071.0,112.2
+S0062,2024-03-02,March,Q1,Ontario West,ON,Kitchener,CLN1032,Blair Farm Supply & Vet,James Okafor,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,50,0.05,6365.0,7386.94,86.2
+S0074,2024-03-02,March,Q1,Ontario West,ON,Kitchener,CLN1043,Perez Farm Supply & Vet,Emily Chen,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,30,0.04,3859.2,3476.53,111.0
+S0465,2024-03-02,March,Q1,Ontario East,ON,Ottawa,CLN1014,Gonzalez Livestock Practice,Sarah Mitchell,Vetmedin 10mg,Cardiology,Companion,142.0,11,0.07,1452.66,1363.21,106.6
+S0466,2024-03-02,March,Q1,Quebec,QC,Montreal,CLN1069,Stewart Farm Supply & Vet,Isabelle Roy,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,29,0.05,1508.36,1371.11,110.0
+S0246,2024-03-04,March,Q1,Western Canada,AB,Vancouver,CLN1082,Baker Farm Supply & Vet,Ryan Nakamura,Clomicalm 20mg,Behaviour,Companion,67.0,28,0.08,1725.92,2193.52,78.7
+S0925,2024-03-05,March,Q1,Western Canada,AB,Saskatoon,CLN1085,Ross Farm Supply & Vet,Priya Sharma,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,40,0.0,5360.0,5578.99,96.1
+S0647,2024-03-06,March,Q1,Ontario East,ON,Kingston,CLN1013,Johnson Veterinary Clinic,Sarah Mitchell,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,38,0.07,4735.56,4491.73,105.4
+S0986,2024-03-06,March,Q1,Western Canada,AB,Calgary,CLN1093,Conner Veterinary Clinic,Ryan Nakamura,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,23,0.15,3421.25,2981.03,114.8
+S0462,2024-03-07,March,Q1,Western Canada,AB,Vancouver,CLN1082,Baker Farm Supply & Vet,Priya Sharma,Vetmedin 10mg,Cardiology,Companion,142.0,38,0.09,4910.36,4964.32,98.9
+S0963,2024-03-07,March,Q1,Quebec,QC,Laval,CLN1063,Hawkins Farm Supply & Vet,Marc Tremblay,Ingelvac PRRS MLV,Vaccines,Swine,185.0,40,0.01,7326.0,8577.12,85.4
+S0423,2024-03-08,March,Q1,Western Canada,AB,Vancouver,CLN1084,Hurst Farm Supply & Vet,Ryan Nakamura,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,7,0.0,938.0,971.85,96.5
+S0564,2024-03-08,March,Q1,Ontario West,ON,Kitchener,CLN1046,Hall Livestock Practice,James Okafor,Clomicalm 20mg,Behaviour,Companion,67.0,26,0.0,1742.0,1540.96,113.0
+S0581,2024-03-08,March,Q1,Western Canada,AB,Calgary,CLN1089,Davis Farm Supply & Vet,Priya Sharma,Ingelvac CircoFLEX,Vaccines,Swine,210.0,42,0.13,7673.4,6522.91,117.6
+S0737,2024-03-08,March,Q1,Ontario West,ON,London,CLN1040,Ray Farm Supply & Vet,James Okafor,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,48,0.04,2522.88,2840.48,88.8
+S0798,2024-03-08,March,Q1,Quebec,QC,Montreal,CLN1058,Daniel Livestock Practice,Marc Tremblay,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,28,0.04,1471.68,1451.95,101.4
+S0262,2024-03-09,March,Q1,Quebec,QC,Montreal,CLN1064,Cohen Farm Supply & Vet,Isabelle Roy,Nexgard Spectra M,Parasitology,Companion,38.9,35,0.0,1361.5,1108.94,122.8
+S0301,2024-03-09,March,Q1,Western Canada,AB,Calgary,CLN1089,Davis Farm Supply & Vet,Ryan Nakamura,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,19,0.06,3125.5,2758.28,113.3
+S0461,2024-03-09,March,Q1,Quebec,QC,Quebec City,CLN1053,Adams Animal Hospital,Isabelle Roy,Ingelvac PRRS MLV,Vaccines,Swine,185.0,48,0.01,8791.2,7097.54,123.9
+S0601,2024-03-09,March,Q1,Atlantic Canada,NS,St. John's,CLN1119,Lynch Livestock Practice,Connor MacDonald,Ingelvac PRRS MLV,Vaccines,Swine,185.0,30,0.1,4995.0,6611.95,75.5
+S0766,2024-03-09,March,Q1,Atlantic Canada,NS,Moncton,CLN1104,Herrera Livestock Practice,Fatima Hassan,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,13,0.0,1742.0,1701.34,102.4
+S0310,2024-03-10,March,Q1,Quebec,QC,Quebec City,CLN1070,Adams Animal Hospital,Marc Tremblay,Vetmedin 10mg,Cardiology,Companion,142.0,31,0.0,4402.0,4381.4,100.5
+S0739,2024-03-10,March,Q1,Atlantic Canada,NS,St. John's,CLN1111,Liu Animal Hospital,Fatima Hassan,Ingelvac PRRS MLV,Vaccines,Swine,185.0,35,0.14,5568.5,6009.12,92.7
+S0800,2024-03-10,March,Q1,Ontario East,ON,Belleville,CLN1011,Robinson Animal Hospital,David Park,Zactran 150mg/mL,Antibiotics,Cattle,320.0,28,0.12,7884.8,6530.39,120.7
+S0823,2024-03-10,March,Q1,Western Canada,AB,Vancouver,CLN1088,Hicks Animal Hospital,Ryan Nakamura,Clomicalm 20mg,Behaviour,Companion,67.0,20,0.1,1206.0,1554.76,77.6
+S0395,2024-03-11,March,Q1,Ontario East,ON,Toronto,CLN1024,Moore Mixed Practice,David Park,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,10,0.08,1232.8,1233.96,99.9
+S0819,2024-03-11,March,Q1,Quebec,QC,Montreal,CLN1072,Hahn Mixed Practice,Isabelle Roy,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,10,0.05,520.12,512.69,101.4
+S0913,2024-03-11,March,Q1,Ontario East,ON,Toronto,CLN1019,Pacheco Farm Supply & Vet,David Park,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,28,0.15,4165.0,3463.05,120.3
+S0241,2024-03-12,March,Q1,Western Canada,AB,Vancouver,CLN1092,Burton Veterinary Clinic,Ryan Nakamura,Nexgard Spectra L,Parasitology,Companion,44.5,33,0.03,1424.44,1910.29,74.6
+S0268,2024-03-12,March,Q1,Atlantic Canada,NS,Halifax,CLN1103,Maldonado Livestock Practice,Fatima Hassan,Zactran 150mg/mL,Antibiotics,Cattle,320.0,30,0.02,9408.0,12097.55,77.8
+S0364,2024-03-12,March,Q1,Western Canada,AB,Calgary,CLN1093,Conner Veterinary Clinic,Ryan Nakamura,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,34,0.03,9828.04,9616.14,102.2
+S0903,2024-03-12,March,Q1,Ontario West,ON,Burlington,CLN1042,Williams Farm Supply & Vet,Emily Chen,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,43,0.01,7449.75,6560.0,113.6
+S0089,2024-03-13,March,Q1,Quebec,QC,Montreal,CLN1055,Wong Veterinary Clinic,Marc Tremblay,Zactran 150mg/mL,Antibiotics,Cattle,320.0,15,0.1,4320.0,5594.6,77.2
+S0459,2024-03-13,March,Q1,Ontario East,ON,Ottawa,CLN1014,Gonzalez Livestock Practice,Sarah Mitchell,Zactran 150mg/mL,Antibiotics,Cattle,320.0,16,0.06,4812.8,6385.19,75.4
+S0918,2024-03-13,March,Q1,Quebec,QC,Montreal,CLN1062,Bowman Veterinary Clinic,Isabelle Roy,Vetmedin 10mg,Cardiology,Companion,142.0,38,0.07,5018.28,5842.78,85.9
+S0962,2024-03-13,March,Q1,Atlantic Canada,NS,St. John's,CLN1112,Baker Animal Hospital,Connor MacDonald,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,38,0.03,4939.24,3917.9,126.1
+S0968,2024-03-13,March,Q1,Atlantic Canada,NS,St. John's,CLN1098,Rice Animal Hospital,Connor MacDonald,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,12,0.05,3397.2,2794.02,121.6
+S0113,2024-03-14,March,Q1,Atlantic Canada,NS,St. John's,CLN1112,Baker Animal Hospital,Fatima Hassan,Vetmedin 10mg,Cardiology,Companion,142.0,34,0.14,4152.08,3152.29,131.7
+S0351,2024-03-14,March,Q1,Atlantic Canada,NS,Halifax,CLN1116,Harrell Veterinary Clinic,Connor MacDonald,Clomicalm 20mg,Behaviour,Companion,67.0,21,0.0,1407.0,1230.13,114.4
+S0611,2024-03-15,March,Q1,Quebec,QC,Sherbrooke,CLN1054,Zuniga Veterinary Clinic,Isabelle Roy,Ingelvac CircoFLEX,Vaccines,Swine,210.0,1,0.08,193.2,147.83,130.7
+S0933,2024-03-15,March,Q1,Western Canada,AB,Calgary,CLN1096,James Mixed Practice,Ryan Nakamura,Ingelvac CircoFLEX,Vaccines,Swine,210.0,44,0.11,8223.6,8509.4,96.6
+S0037,2024-03-16,March,Q1,Ontario West,ON,Kitchener,CLN1043,Perez Farm Supply & Vet,James Okafor,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,44,0.05,2288.55,2823.93,81.0
+S0039,2024-03-16,March,Q1,Quebec,QC,Sherbrooke,CLN1054,Zuniga Veterinary Clinic,Marc Tremblay,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,45,0.06,5668.2,5610.34,101.0
+S0081,2024-03-17,March,Q1,Quebec,QC,Sherbrooke,CLN1052,Clark Farm Supply & Vet,Isabelle Roy,Vetmedin 10mg,Cardiology,Companion,142.0,37,0.09,4781.14,3739.64,127.9
+S0476,2024-03-17,March,Q1,Ontario East,ON,Toronto,CLN1023,Peterson Livestock Practice,David Park,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,12,0.04,630.72,641.82,98.3
+S0111,2024-03-18,March,Q1,Western Canada,AB,Vancouver,CLN1091,Rodriguez Mixed Practice,Priya Sharma,Ingelvac CircoFLEX,Vaccines,Swine,210.0,43,0.12,7946.4,9068.52,87.6
+S0428,2024-03-18,March,Q1,Western Canada,AB,Saskatoon,CLN1079,Baker Veterinary Clinic,Ryan Nakamura,Ingelvac PRRS MLV,Vaccines,Swine,185.0,23,0.11,3786.95,4267.32,88.7
+S0750,2024-03-18,March,Q1,Quebec,QC,Montreal,CLN1058,Daniel Livestock Practice,Isabelle Roy,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,40,0.07,4984.8,4697.61,106.1
+S0103,2024-03-19,March,Q1,Ontario East,ON,Belleville,CLN1012,Wagner Mixed Practice,Sarah Mitchell,Vetmedin 10mg,Cardiology,Companion,142.0,30,0.14,3663.6,4171.47,87.8
+S0649,2024-03-19,March,Q1,Quebec,QC,Laval,CLN1063,Hawkins Farm Supply & Vet,Isabelle Roy,Nexgard Spectra L,Parasitology,Companion,44.5,40,0.1,1602.0,1868.05,85.8
+S0772,2024-03-19,March,Q1,Western Canada,AB,Saskatoon,CLN1085,Ross Farm Supply & Vet,Priya Sharma,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,34,0.1,1675.35,2026.24,82.7
+S0929,2024-03-19,March,Q1,Atlantic Canada,NS,Halifax,CLN1103,Maldonado Livestock Practice,Connor MacDonald,Nexgard Spectra L,Parasitology,Companion,44.5,6,0.15,226.95,251.31,90.3
+S0170,2024-03-21,March,Q1,Western Canada,AB,Calgary,CLN1093,Conner Veterinary Clinic,Priya Sharma,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,39,0.01,11505.78,8992.52,127.9
+S0240,2024-03-21,March,Q1,Ontario West,ON,Windsor,CLN1045,Miller Animal Hospital,James Okafor,Zactran 150mg/mL,Antibiotics,Cattle,320.0,35,0.04,10752.0,9999.08,107.5
+S0504,2024-03-21,March,Q1,Western Canada,AB,Vancouver,CLN1091,Rodriguez Mixed Practice,Ryan Nakamura,Ingelvac CircoFLEX,Vaccines,Swine,210.0,42,0.02,8643.6,11097.1,77.9
+S0667,2024-03-21,March,Q1,Ontario West,ON,London,CLN1030,Munoz Veterinary Clinic,James Okafor,Zactran 150mg/mL,Antibiotics,Cattle,320.0,42,0.04,12902.4,10839.88,119.0
+S0258,2024-03-22,March,Q1,Ontario East,ON,Toronto,CLN1007,Mcclain Veterinary Clinic,David Park,Ingelvac CircoFLEX,Vaccines,Swine,210.0,40,0.06,7896.0,10482.82,75.3
+S0096,2024-03-23,March,Q1,Ontario East,ON,Belleville,CLN1012,Wagner Mixed Practice,David Park,Nexgard Spectra L,Parasitology,Companion,44.5,27,0.05,1141.42,1315.01,86.8
+S0208,2024-03-23,March,Q1,Atlantic Canada,NS,St. John's,CLN1120,Hernandez Animal Hospital,Connor MacDonald,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,34,0.13,3963.72,3650.74,108.6
+S0572,2024-03-23,March,Q1,Ontario West,ON,Windsor,CLN1026,Rogers Mixed Practice,Emily Chen,Zactran 150mg/mL,Antibiotics,Cattle,320.0,13,0.05,3952.0,3935.61,100.4
+S0021,2024-03-24,March,Q1,Atlantic Canada,NS,Fredericton,CLN1114,White Veterinary Clinic,Fatima Hassan,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,48,0.02,14017.92,18334.44,76.5
+S0443,2024-03-24,March,Q1,Ontario West,ON,London,CLN1040,Ray Farm Supply & Vet,James Okafor,Vetmedin 10mg,Cardiology,Companion,142.0,1,0.11,126.38,147.98,85.4
+S0202,2024-03-25,March,Q1,Quebec,QC,Quebec City,CLN1049,Reid Mixed Practice,Marc Tremblay,Clomicalm 20mg,Behaviour,Companion,67.0,12,0.12,707.52,857.98,82.5
+S0305,2024-03-25,March,Q1,Ontario East,ON,Kingston,CLN1015,Santos Farm Supply & Vet,Sarah Mitchell,Zactran 150mg/mL,Antibiotics,Cattle,320.0,33,0.03,10243.2,10980.67,93.3
+S0421,2024-03-25,March,Q1,Ontario East,ON,Belleville,CLN1012,Wagner Mixed Practice,David Park,Nexgard Spectra M,Parasitology,Companion,38.9,6,0.06,219.4,283.53,77.4
+S0666,2024-03-25,March,Q1,Quebec,QC,Laval,CLN1063,Hawkins Farm Supply & Vet,Isabelle Roy,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,1,0.08,274.16,228.48,120.0
+S0378,2024-03-26,March,Q1,Atlantic Canada,NS,Fredericton,CLN1118,Fowler Animal Hospital,Connor MacDonald,Vetmedin 10mg,Cardiology,Companion,142.0,50,0.04,6816.0,7830.33,87.0
+S0444,2024-03-26,March,Q1,Quebec,QC,Montreal,CLN1064,Cohen Farm Supply & Vet,Isabelle Roy,Zactran 150mg/mL,Antibiotics,Cattle,320.0,34,0.12,9574.4,11321.34,84.6
+S0516,2024-03-26,March,Q1,Ontario East,ON,Toronto,CLN1005,Doyle Mixed Practice,Sarah Mitchell,Vetmedin 10mg,Cardiology,Companion,142.0,49,0.07,6470.94,8538.0,75.8
+S0760,2024-03-26,March,Q1,Atlantic Canada,NS,St. John's,CLN1111,Liu Animal Hospital,Connor MacDonald,Vetmedin 10mg,Cardiology,Companion,142.0,16,0.09,2067.52,1953.2,105.9
+S0181,2024-03-27,March,Q1,Quebec,QC,Sherbrooke,CLN1052,Clark Farm Supply & Vet,Marc Tremblay,Ingelvac CircoFLEX,Vaccines,Swine,210.0,20,0.11,3738.0,3300.44,113.3
+S0401,2024-03-27,March,Q1,Atlantic Canada,NS,Fredericton,CLN1102,Le Veterinary Clinic,Connor MacDonald,Nexgard Spectra M,Parasitology,Companion,38.9,3,0.04,112.03,120.16,93.2
+S0408,2024-03-27,March,Q1,Atlantic Canada,NS,Moncton,CLN1104,Herrera Livestock Practice,Connor MacDonald,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,23,0.08,6305.68,6987.42,90.2
+S0238,2024-03-29,March,Q1,Ontario West,ON,London,CLN1037,Calderon Animal Hospital,Emily Chen,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,8,0.02,429.24,341.0,125.9
+S0483,2024-03-29,March,Q1,Atlantic Canada,NS,St. John's,CLN1098,Rice Animal Hospital,Connor MacDonald,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,25,0.05,7077.5,8871.88,79.8
+S0538,2024-03-29,March,Q1,Quebec,QC,Quebec City,CLN1053,Adams Animal Hospital,Marc Tremblay,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,1,0.07,162.75,134.98,120.6
+S0792,2024-03-29,March,Q1,Western Canada,AB,Edmonton,CLN1073,Walter Livestock Practice,Ryan Nakamura,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,5,0.11,596.3,730.91,81.6
+S0910,2024-03-29,March,Q1,Ontario West,ON,Burlington,CLN1041,Bush Animal Hospital,Emily Chen,Ingelvac CircoFLEX,Vaccines,Swine,210.0,25,0.07,4882.5,4280.63,114.1
+S0094,2024-03-30,March,Q1,Western Canada,AB,Vancouver,CLN1076,Foster Veterinary Clinic,Ryan Nakamura,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,18,0.09,2866.5,3462.35,82.8
+S0321,2024-03-30,March,Q1,Ontario West,ON,Windsor,CLN1029,Abbott Veterinary Clinic,Emily Chen,Nexgard Spectra M,Parasitology,Companion,38.9,18,0.01,693.2,914.41,75.8
+S0652,2024-03-30,March,Q1,Quebec,QC,Sherbrooke,CLN1060,Gray Mixed Practice,Isabelle Roy,Nexgard Spectra L,Parasitology,Companion,44.5,50,0.05,2113.75,2284.97,92.5
+S0693,2024-03-30,March,Q1,Western Canada,AB,Saskatoon,CLN1079,Baker Veterinary Clinic,Priya Sharma,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,39,0.01,5173.74,6281.77,82.4
+S0714,2024-03-30,March,Q1,Quebec,QC,Quebec City,CLN1070,Adams Animal Hospital,Marc Tremblay,Zactran 150mg/mL,Antibiotics,Cattle,320.0,23,0.06,6918.4,8037.82,86.1
+S0867,2024-03-30,March,Q1,Ontario West,ON,Kitchener,CLN1043,Perez Farm Supply & Vet,Emily Chen,Ingelvac CircoFLEX,Vaccines,Swine,210.0,47,0.09,8981.7,11910.34,75.4
+S0781,2024-04-01,April,Q2,Ontario West,ON,Windsor,CLN1025,Bernard Mixed Practice,James Okafor,Zactran 150mg/mL,Antibiotics,Cattle,320.0,43,0.04,13209.6,14863.38,88.9
+S0853,2024-04-01,April,Q2,Western Canada,AB,Saskatoon,CLN1086,Robinson Mixed Practice,Priya Sharma,Nexgard Spectra L,Parasitology,Companion,44.5,6,0.01,264.33,264.38,100.0
+S0166,2024-04-02,April,Q2,Atlantic Canada,NS,Fredericton,CLN1099,Maddox Mixed Practice,Connor MacDonald,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,43,0.12,11276.32,10266.74,109.8
+S0228,2024-04-02,April,Q2,Ontario West,ON,Windsor,CLN1035,Gray Veterinary Clinic,James Okafor,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,28,0.01,3714.48,4128.54,90.0
+S0671,2024-04-02,April,Q2,Quebec,QC,Sherbrooke,CLN1066,Parsons Veterinary Clinic,Marc Tremblay,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,10,0.01,2950.2,2669.8,110.5
+S0847,2024-04-02,April,Q2,Ontario West,ON,London,CLN1040,Ray Farm Supply & Vet,Emily Chen,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,50,0.14,5762.0,5319.87,108.3
+S0914,2024-04-02,April,Q2,Western Canada,AB,Saskatoon,CLN1083,Richards Animal Hospital,Priya Sharma,Ingelvac PRRS MLV,Vaccines,Swine,185.0,45,0.09,7575.75,7616.83,99.5
+S0928,2024-04-02,April,Q2,Quebec,QC,Montreal,CLN1058,Daniel Livestock Practice,Isabelle Roy,Clomicalm 20mg,Behaviour,Companion,67.0,17,0.12,1002.32,893.79,112.1
+S0674,2024-04-03,April,Q2,Ontario East,ON,Belleville,CLN1022,Wolfe Mixed Practice,Sarah Mitchell,Ingelvac CircoFLEX,Vaccines,Swine,210.0,39,0.02,8026.2,8825.51,90.9
+S0770,2024-04-04,April,Q2,Quebec,QC,Quebec City,CLN1070,Adams Animal Hospital,Isabelle Roy,Ingelvac PRRS MLV,Vaccines,Swine,185.0,1,0.12,162.8,171.52,94.9
+S0943,2024-04-04,April,Q2,Atlantic Canada,NS,Fredericton,CLN1110,Mckay Mixed Practice,Connor MacDonald,Ingelvac CircoFLEX,Vaccines,Swine,210.0,43,0.11,8036.7,9151.74,87.8
+S0997,2024-04-04,April,Q2,Ontario East,ON,Toronto,CLN1004,Walker Mixed Practice,David Park,Ingelvac PRRS MLV,Vaccines,Swine,185.0,50,0.02,9065.0,10623.1,85.3
+S0387,2024-04-05,April,Q2,Quebec,QC,Montreal,CLN1072,Hahn Mixed Practice,Isabelle Roy,Ingelvac PRRS MLV,Vaccines,Swine,185.0,15,0.12,2442.0,2754.22,88.7
+S0814,2024-04-05,April,Q2,Quebec,QC,Quebec City,CLN1049,Reid Mixed Practice,Marc Tremblay,Nexgard Spectra L,Parasitology,Companion,44.5,32,0.13,1238.88,1324.28,93.6
+S0315,2024-04-06,April,Q2,Quebec,QC,Montreal,CLN1069,Stewart Farm Supply & Vet,Isabelle Roy,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,16,0.07,814.68,686.83,118.6
+S0144,2024-04-07,April,Q2,Western Canada,AB,Vancouver,CLN1088,Hicks Animal Hospital,Priya Sharma,Zactran 150mg/mL,Antibiotics,Cattle,320.0,42,0.05,12768.0,12626.07,101.1
+S0803,2024-04-07,April,Q2,Atlantic Canada,NS,St. John's,CLN1119,Lynch Livestock Practice,Connor MacDonald,Vetmedin 10mg,Cardiology,Companion,142.0,43,0.06,5739.64,5562.63,103.2
+S0956,2024-04-07,April,Q2,Western Canada,AB,Saskatoon,CLN1083,Richards Animal Hospital,Ryan Nakamura,Clomicalm 20mg,Behaviour,Companion,67.0,36,0.01,2387.88,2341.31,102.0
+S0032,2024-04-08,April,Q2,Western Canada,AB,Saskatoon,CLN1086,Robinson Mixed Practice,Priya Sharma,Nexgard Spectra L,Parasitology,Companion,44.5,26,0.1,1041.3,1127.36,92.4
+S0088,2024-04-11,April,Q2,Ontario East,ON,Ottawa,CLN1010,Johnson Mixed Practice,Sarah Mitchell,Nexgard Spectra M,Parasitology,Companion,38.9,41,0.09,1451.36,1788.57,81.1
+S0266,2024-04-11,April,Q2,Quebec,QC,Sherbrooke,CLN1051,Wood Mixed Practice,Isabelle Roy,Nexgard Spectra L,Parasitology,Companion,44.5,36,0.14,1377.72,1657.37,83.1
+S0057,2024-04-12,April,Q2,Ontario West,ON,Windsor,CLN1029,Abbott Veterinary Clinic,James Okafor,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,3,0.11,467.25,616.66,75.8
+S0206,2024-04-12,April,Q2,Atlantic Canada,NS,Fredericton,CLN1099,Maddox Mixed Practice,Fatima Hassan,Ingelvac CircoFLEX,Vaccines,Swine,210.0,33,0.08,6375.6,8478.02,75.2
+S0607,2024-04-12,April,Q2,Ontario West,ON,Windsor,CLN1039,Hensley Mixed Practice,Emily Chen,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,48,0.14,5531.52,6248.13,88.5
+S0947,2024-04-12,April,Q2,Ontario East,ON,Ottawa,CLN1008,Miller Animal Hospital,David Park,Nexgard Spectra M,Parasitology,Companion,38.9,12,0.07,434.12,453.67,95.7
+S0487,2024-04-13,April,Q2,Ontario West,ON,Windsor,CLN1029,Abbott Veterinary Clinic,James Okafor,Zactran 150mg/mL,Antibiotics,Cattle,320.0,31,0.0,9920.0,12903.32,76.9
+S0676,2024-04-13,April,Q2,Western Canada,AB,Vancouver,CLN1076,Foster Veterinary Clinic,Ryan Nakamura,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,25,0.06,1286.62,1048.78,122.7
+S0174,2024-04-14,April,Q2,Ontario West,ON,London,CLN1040,Ray Farm Supply & Vet,James Okafor,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,26,0.15,1209.97,947.25,127.7
+S0808,2024-04-14,April,Q2,Quebec,QC,Montreal,CLN1058,Daniel Livestock Practice,Isabelle Roy,Vetmedin 5mg,Cardiology,Companion,89.5,22,0.03,1909.93,2048.98,93.2
+S0832,2024-04-14,April,Q2,Atlantic Canada,NS,St. John's,CLN1119,Lynch Livestock Practice,Fatima Hassan,Ingelvac CircoFLEX,Vaccines,Swine,210.0,15,0.11,2803.5,3764.95,74.5
+S0407,2024-04-15,April,Q2,Atlantic Canada,NS,St. John's,CLN1111,Liu Animal Hospital,Fatima Hassan,Clomicalm 20mg,Behaviour,Companion,67.0,40,0.02,2626.4,2295.4,114.4
+S0863,2024-04-16,April,Q2,Ontario East,ON,Ottawa,CLN1016,Gardner Animal Hospital,Sarah Mitchell,Ingelvac PRRS MLV,Vaccines,Swine,185.0,41,0.12,6674.8,7959.57,83.9
+S0054,2024-04-18,April,Q2,Quebec,QC,Montreal,CLN1055,Wong Veterinary Clinic,Marc Tremblay,Ingelvac PRRS MLV,Vaccines,Swine,185.0,12,0.01,2197.8,2148.27,102.3
+S0967,2024-04-19,April,Q2,Quebec,QC,Sherbrooke,CLN1052,Clark Farm Supply & Vet,Isabelle Roy,Vetmedin 10mg,Cardiology,Companion,142.0,44,0.09,5685.68,4732.75,120.1
+S0540,2024-04-21,April,Q2,Western Canada,AB,Vancouver,CLN1091,Rodriguez Mixed Practice,Priya Sharma,Ingelvac CircoFLEX,Vaccines,Swine,210.0,25,0.13,4567.5,4683.51,97.5
+S0849,2024-04-21,April,Q2,Quebec,QC,Montreal,CLN1064,Cohen Farm Supply & Vet,Isabelle Roy,Zactran 150mg/mL,Antibiotics,Cattle,320.0,1,0.09,291.2,304.62,95.6
+S0050,2024-04-22,April,Q2,Atlantic Canada,NS,Fredericton,CLN1110,Mckay Mixed Practice,Fatima Hassan,Zactran 150mg/mL,Antibiotics,Cattle,320.0,48,0.11,13670.4,16813.51,81.3
+S0480,2024-04-22,April,Q2,Ontario West,ON,Windsor,CLN1045,Miller Animal Hospital,Emily Chen,Ingelvac CircoFLEX,Vaccines,Swine,210.0,18,0.03,3666.6,3451.47,106.2
+S0704,2024-04-22,April,Q2,Quebec,QC,Montreal,CLN1062,Bowman Veterinary Clinic,Marc Tremblay,Nexgard Spectra M,Parasitology,Companion,38.9,5,0.06,182.83,223.64,81.8
+S0209,2024-04-23,April,Q2,Ontario West,ON,Windsor,CLN1035,Gray Veterinary Clinic,Emily Chen,Zactran 150mg/mL,Antibiotics,Cattle,320.0,10,0.12,2816.0,2266.96,124.2
+S0471,2024-04-23,April,Q2,Atlantic Canada,NS,Halifax,CLN1103,Maldonado Livestock Practice,Connor MacDonald,Vetmedin 10mg,Cardiology,Companion,142.0,1,0.01,140.58,171.31,82.1
+S0596,2024-04-23,April,Q2,Quebec,QC,Laval,CLN1061,Mayo Mixed Practice,Isabelle Roy,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,29,0.02,3808.28,4591.23,82.9
+S0650,2024-04-23,April,Q2,Western Canada,AB,Edmonton,CLN1073,Walter Livestock Practice,Priya Sharma,Nexgard Spectra L,Parasitology,Companion,44.5,28,0.03,1208.62,1133.6,106.6
+S0691,2024-04-23,April,Q2,Atlantic Canada,NS,Halifax,CLN1106,Davidson Veterinary Clinic,Connor MacDonald,Ingelvac PRRS MLV,Vaccines,Swine,185.0,39,0.07,6709.95,5290.45,126.8
+S0313,2024-04-24,April,Q2,Ontario East,ON,Ottawa,CLN1016,Gardner Animal Hospital,Sarah Mitchell,Zactran 150mg/mL,Antibiotics,Cattle,320.0,26,0.08,7654.4,9083.59,84.3
+S0550,2024-04-24,April,Q2,Atlantic Canada,NS,St. John's,CLN1098,Rice Animal Hospital,Connor MacDonald,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,22,0.1,3465.0,3060.82,113.2
+S0134,2024-04-25,April,Q2,Western Canada,AB,Calgary,CLN1096,James Mixed Practice,Priya Sharma,Vetmedin 10mg,Cardiology,Companion,142.0,30,0.14,3663.6,3057.11,119.8
+S0199,2024-04-25,April,Q2,Ontario West,ON,London,CLN1040,Ray Farm Supply & Vet,James Okafor,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,22,0.14,1035.87,1079.13,96.0
+S0247,2024-04-25,April,Q2,Quebec,QC,Laval,CLN1067,Perez Mixed Practice,Marc Tremblay,Nexgard Spectra M,Parasitology,Companion,38.9,11,0.02,419.34,549.69,76.3
+S0511,2024-04-25,April,Q2,Ontario West,ON,Windsor,CLN1048,Ramirez Animal Hospital,James Okafor,Ingelvac PRRS MLV,Vaccines,Swine,185.0,3,0.04,532.8,548.27,97.2
+S0560,2024-04-25,April,Q2,Atlantic Canada,NS,Fredericton,CLN1097,Ferrell Farm Supply & Vet,Connor MacDonald,Vetmedin 5mg,Cardiology,Companion,89.5,44,0.0,3938.0,4686.86,84.0
+S0117,2024-04-26,April,Q2,Ontario East,ON,Toronto,CLN1005,Doyle Mixed Practice,Sarah Mitchell,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,41,0.1,2020.28,1863.56,108.4
+S0527,2024-04-26,April,Q2,Ontario West,ON,London,CLN1040,Ray Farm Supply & Vet,Emily Chen,Ingelvac PRRS MLV,Vaccines,Swine,185.0,45,0.1,7492.5,9991.23,75.0
+S0820,2024-04-26,April,Q2,Ontario East,ON,Belleville,CLN1012,Wagner Mixed Practice,David Park,Zactran 150mg/mL,Antibiotics,Cattle,320.0,44,0.09,12812.8,14418.43,88.9
+S0349,2024-04-27,April,Q2,Atlantic Canada,NS,St. John's,CLN1101,Smith Livestock Practice,Fatima Hassan,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,7,0.13,1814.82,2361.97,76.8
+S0575,2024-04-28,April,Q2,Atlantic Canada,NS,St. John's,CLN1100,Valencia Animal Hospital,Connor MacDonald,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,47,0.02,6172.04,5576.66,110.7
+S0813,2024-04-28,April,Q2,Ontario West,ON,Kitchener,CLN1047,Garcia Animal Hospital,James Okafor,Vetmedin 5mg,Cardiology,Companion,89.5,19,0.13,1479.43,1686.03,87.7
+S0828,2024-04-28,April,Q2,Atlantic Canada,NS,St. John's,CLN1098,Rice Animal Hospital,Fatima Hassan,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,37,0.09,10033.66,11115.45,90.3
+S0481,2024-04-29,April,Q2,Ontario East,ON,Toronto,CLN1004,Walker Mixed Practice,David Park,Vetmedin 5mg,Cardiology,Companion,89.5,31,0.08,2552.54,3088.84,82.6
+S0805,2024-04-29,April,Q2,Western Canada,AB,Saskatoon,CLN1079,Baker Veterinary Clinic,Priya Sharma,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,10,0.07,2771.4,3615.37,76.7
+S0733,2024-04-30,April,Q2,Quebec,QC,Laval,CLN1067,Perez Mixed Practice,Isabelle Roy,Ingelvac CircoFLEX,Vaccines,Swine,210.0,11,0.03,2240.7,1711.58,130.9
+S0525,2024-05-01,May,Q2,Western Canada,AB,Calgary,CLN1089,Davis Farm Supply & Vet,Priya Sharma,Vetmedin 5mg,Cardiology,Companion,89.5,26,0.13,2024.49,1921.03,105.4
+S0874,2024-05-01,May,Q2,Western Canada,AB,Vancouver,CLN1091,Rodriguez Mixed Practice,Priya Sharma,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,3,0.04,385.92,309.54,124.7
+S0085,2024-05-02,May,Q2,Atlantic Canada,NS,St. John's,CLN1098,Rice Animal Hospital,Connor MacDonald,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,14,0.04,2352.0,1878.57,125.2
+S0109,2024-05-02,May,Q2,Atlantic Canada,NS,St. John's,CLN1098,Rice Animal Hospital,Fatima Hassan,Ingelvac PRRS MLV,Vaccines,Swine,185.0,21,0.13,3379.95,4523.94,74.7
+S0433,2024-05-02,May,Q2,Ontario West,ON,London,CLN1027,Davis Veterinary Clinic,James Okafor,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,26,0.04,3344.64,2617.99,127.8
+S0441,2024-05-02,May,Q2,Quebec,QC,Sherbrooke,CLN1051,Wood Mixed Practice,Marc Tremblay,Nexgard Spectra M,Parasitology,Companion,38.9,45,0.07,1627.96,2152.26,75.6
+S0973,2024-05-02,May,Q2,Ontario East,ON,Kingston,CLN1017,Robinson Veterinary Clinic,Sarah Mitchell,Clomicalm 20mg,Behaviour,Companion,67.0,41,0.04,2637.12,2690.53,98.0
+S0344,2024-05-03,May,Q2,Quebec,QC,Sherbrooke,CLN1065,Cameron Animal Hospital,Isabelle Roy,Clomicalm 20mg,Behaviour,Companion,67.0,7,0.14,403.34,429.41,93.9
+S0285,2024-05-04,May,Q2,Ontario West,ON,Windsor,CLN1035,Gray Veterinary Clinic,Emily Chen,Clomicalm 20mg,Behaviour,Companion,67.0,7,0.09,426.79,470.36,90.7
+S0330,2024-05-04,May,Q2,Ontario West,ON,Burlington,CLN1028,Davis Animal Hospital,James Okafor,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,8,0.11,954.08,1147.38,83.2
+S0702,2024-05-04,May,Q2,Atlantic Canada,NS,St. John's,CLN1105,Adams Livestock Practice,Fatima Hassan,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,29,0.14,3341.96,3635.72,91.9
+S0969,2024-05-04,May,Q2,Atlantic Canada,NS,Fredericton,CLN1097,Ferrell Farm Supply & Vet,Fatima Hassan,Clomicalm 20mg,Behaviour,Companion,67.0,45,0.06,2834.1,2406.16,117.8
+S0456,2024-05-05,May,Q2,Western Canada,AB,Vancouver,CLN1076,Foster Veterinary Clinic,Priya Sharma,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,47,0.14,2212.99,2669.51,82.9
+S0411,2024-05-06,May,Q2,Atlantic Canada,NS,St. John's,CLN1111,Liu Animal Hospital,Connor MacDonald,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,9,0.04,1157.76,1362.49,85.0
+S0762,2024-05-07,May,Q2,Western Canada,AB,Edmonton,CLN1075,Rios Farm Supply & Vet,Priya Sharma,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,39,0.02,5121.48,6209.68,82.5
+S0129,2024-05-08,May,Q2,Atlantic Canada,NS,St. John's,CLN1100,Valencia Animal Hospital,Connor MacDonald,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,23,0.03,6648.38,5744.73,115.7
+S0646,2024-05-08,May,Q2,Atlantic Canada,NS,Fredericton,CLN1109,Chavez Animal Hospital,Fatima Hassan,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,36,0.01,6237.0,7191.33,86.7
+S0940,2024-05-08,May,Q2,Quebec,QC,Quebec City,CLN1068,Johnson Mixed Practice,Marc Tremblay,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,29,0.05,4821.25,5713.91,84.4
+S0224,2024-05-09,May,Q2,Ontario West,ON,Burlington,CLN1041,Bush Animal Hospital,Emily Chen,Zactran 150mg/mL,Antibiotics,Cattle,320.0,26,0.15,7072.0,7608.19,93.0
+S0374,2024-05-09,May,Q2,Ontario East,ON,Toronto,CLN1009,Henderson Mixed Practice,David Park,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,32,0.02,5488.0,5113.17,107.3
+S0122,2024-05-10,May,Q2,Western Canada,AB,Vancouver,CLN1088,Hicks Animal Hospital,Ryan Nakamura,Ingelvac PRRS MLV,Vaccines,Swine,185.0,38,0.02,6889.4,7073.28,97.4
+S0159,2024-05-10,May,Q2,Quebec,QC,Sherbrooke,CLN1052,Clark Farm Supply & Vet,Isabelle Roy,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,7,0.05,891.1,835.42,106.7
+S0786,2024-05-10,May,Q2,Western Canada,AB,Calgary,CLN1078,Ellis Veterinary Clinic,Ryan Nakamura,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,35,0.03,10117.1,12235.87,82.7
+S0810,2024-05-10,May,Q2,Western Canada,AB,Calgary,CLN1090,Williams Mixed Practice,Ryan Nakamura,Ingelvac CircoFLEX,Vaccines,Swine,210.0,38,0.14,6862.8,7316.29,93.8
+S0336,2024-05-11,May,Q2,Atlantic Canada,NS,Halifax,CLN1107,Rodriguez Livestock Practice,Connor MacDonald,Ingelvac PRRS MLV,Vaccines,Swine,185.0,36,0.1,5994.0,6958.48,86.1
+S0498,2024-05-11,May,Q2,Quebec,QC,Montreal,CLN1058,Daniel Livestock Practice,Marc Tremblay,Nexgard Spectra M,Parasitology,Companion,38.9,14,0.04,522.82,413.38,126.5
+S0926,2024-05-11,May,Q2,Quebec,QC,Sherbrooke,CLN1065,Cameron Animal Hospital,Marc Tremblay,Nexgard Spectra M,Parasitology,Companion,38.9,17,0.02,648.07,595.31,108.9
+S0535,2024-05-12,May,Q2,Ontario East,ON,Toronto,CLN1023,Peterson Livestock Practice,David Park,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,36,0.05,10191.6,8643.58,117.9
+S0716,2024-05-12,May,Q2,Western Canada,AB,Saskatoon,CLN1087,Bright Veterinary Clinic,Ryan Nakamura,Ingelvac CircoFLEX,Vaccines,Swine,210.0,38,0.02,7820.4,7562.02,103.4
+S0684,2024-05-13,May,Q2,Quebec,QC,Quebec City,CLN1053,Adams Animal Hospital,Isabelle Roy,Vetmedin 10mg,Cardiology,Companion,142.0,10,0.06,1334.8,1469.91,90.8
+S0769,2024-05-14,May,Q2,Ontario West,ON,London,CLN1036,Arnold Mixed Practice,James Okafor,Vetmedin 10mg,Cardiology,Companion,142.0,34,0.02,4731.44,4387.95,107.8
+S0799,2024-05-14,May,Q2,Ontario West,ON,Burlington,CLN1044,Roberts Animal Hospital,James Okafor,Ingelvac PRRS MLV,Vaccines,Swine,185.0,37,0.11,6092.05,6572.66,92.7
+S0001,2024-05-15,May,Q2,Atlantic Canada,NS,St. John's,CLN1111,Liu Animal Hospital,Fatima Hassan,Vetmedin 5mg,Cardiology,Companion,89.5,11,0.06,925.43,1241.17,74.6
+S0027,2024-05-15,May,Q2,Ontario West,ON,Kitchener,CLN1043,Perez Farm Supply & Vet,James Okafor,Vetmedin 10mg,Cardiology,Companion,142.0,17,0.03,2341.58,3108.5,75.3
+S0135,2024-05-15,May,Q2,Atlantic Canada,NS,St. John's,CLN1111,Liu Animal Hospital,Fatima Hassan,Zactran 150mg/mL,Antibiotics,Cattle,320.0,24,0.01,7603.2,7502.42,101.3
+S0708,2024-05-15,May,Q2,Ontario East,ON,Toronto,CLN1024,Moore Mixed Practice,Sarah Mitchell,Ingelvac PRRS MLV,Vaccines,Swine,185.0,48,0.03,8613.6,10261.02,83.9
+S0790,2024-05-15,May,Q2,Atlantic Canada,NS,Fredericton,CLN1118,Fowler Animal Hospital,Connor MacDonald,Vetmedin 10mg,Cardiology,Companion,142.0,3,0.07,396.18,334.24,118.5
+S0931,2024-05-15,May,Q2,Ontario East,ON,Belleville,CLN1022,Wolfe Mixed Practice,Sarah Mitchell,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,47,0.13,12185.22,9536.1,127.8
+S0327,2024-05-17,May,Q2,Atlantic Canada,NS,Fredericton,CLN1109,Chavez Animal Hospital,Fatima Hassan,Vetmedin 10mg,Cardiology,Companion,142.0,35,0.11,4423.3,3823.01,115.7
+S0707,2024-05-17,May,Q2,Ontario East,ON,Ottawa,CLN1010,Johnson Mixed Practice,Sarah Mitchell,Ingelvac PRRS MLV,Vaccines,Swine,185.0,21,0.05,3690.75,4748.48,77.7
+S0999,2024-05-18,May,Q2,Ontario East,ON,Ottawa,CLN1010,Johnson Mixed Practice,David Park,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,22,0.08,2712.16,2516.76,107.8
+S0045,2024-05-19,May,Q2,Western Canada,AB,Saskatoon,CLN1081,Hoffman Mixed Practice,Ryan Nakamura,Nexgard Spectra M,Parasitology,Companion,38.9,29,0.01,1116.82,1029.08,108.5
+S0091,2024-05-19,May,Q2,Quebec,QC,Sherbrooke,CLN1057,Jackson Mixed Practice,Marc Tremblay,Ingelvac PRRS MLV,Vaccines,Swine,185.0,45,0.05,7908.75,7841.57,100.9
+S0248,2024-05-20,May,Q2,Ontario West,ON,Windsor,CLN1045,Miller Animal Hospital,Emily Chen,Vetmedin 10mg,Cardiology,Companion,142.0,17,0.03,2341.58,3099.81,75.5
+S0281,2024-05-20,May,Q2,Quebec,QC,Laval,CLN1063,Hawkins Farm Supply & Vet,Isabelle Roy,Ingelvac PRRS MLV,Vaccines,Swine,185.0,23,0.08,3914.6,5130.83,76.3
+S0420,2024-05-20,May,Q2,Ontario West,ON,Windsor,CLN1026,Rogers Mixed Practice,James Okafor,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,20,0.02,3430.0,4492.05,76.4
+S0883,2024-05-20,May,Q2,Quebec,QC,Montreal,CLN1069,Stewart Farm Supply & Vet,Isabelle Roy,Ingelvac PRRS MLV,Vaccines,Swine,185.0,43,0.02,7795.9,6545.38,119.1
+S0069,2024-05-21,May,Q2,Ontario West,ON,Burlington,CLN1028,Davis Animal Hospital,Emily Chen,Nexgard Spectra M,Parasitology,Companion,38.9,22,0.04,821.57,910.05,90.3
+S0365,2024-05-21,May,Q2,Ontario West,ON,Windsor,CLN1035,Gray Veterinary Clinic,Emily Chen,Nexgard Spectra M,Parasitology,Companion,38.9,32,0.02,1219.9,1037.31,117.6
+S0410,2024-05-21,May,Q2,Atlantic Canada,NS,St. John's,CLN1105,Adams Livestock Practice,Connor MacDonald,Clomicalm 20mg,Behaviour,Companion,67.0,49,0.12,2889.04,3759.4,76.8
+S0543,2024-05-21,May,Q2,Ontario East,ON,Ottawa,CLN1014,Gonzalez Livestock Practice,David Park,Vetmedin 10mg,Cardiology,Companion,142.0,22,0.15,2655.4,3012.17,88.2
+S0789,2024-05-21,May,Q2,Ontario West,ON,Windsor,CLN1029,Abbott Veterinary Clinic,James Okafor,Nexgard Spectra L,Parasitology,Companion,44.5,2,0.12,78.32,103.07,76.0
+S0882,2024-05-21,May,Q2,Ontario East,ON,Ottawa,CLN1003,Hill Animal Hospital,David Park,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,14,0.05,2327.5,2014.51,115.5
+S0025,2024-05-22,May,Q2,Atlantic Canada,NS,Halifax,CLN1106,Davidson Veterinary Clinic,Connor MacDonald,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,2,0.1,98.55,97.47,101.1
+S0350,2024-05-23,May,Q2,Ontario West,ON,Burlington,CLN1028,Davis Animal Hospital,Emily Chen,Nexgard Spectra M,Parasitology,Companion,38.9,3,0.14,100.36,116.48,86.2
+S0712,2024-05-23,May,Q2,Atlantic Canada,NS,St. John's,CLN1112,Baker Animal Hospital,Fatima Hassan,Ingelvac PRRS MLV,Vaccines,Swine,185.0,12,0.15,1887.0,2452.35,76.9
+S0261,2024-05-24,May,Q2,Quebec,QC,Sherbrooke,CLN1065,Cameron Animal Hospital,Isabelle Roy,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,14,0.09,697.51,543.5,128.3
+S0194,2024-05-25,May,Q2,Atlantic Canada,NS,Fredericton,CLN1102,Le Veterinary Clinic,Fatima Hassan,Vetmedin 10mg,Cardiology,Companion,142.0,22,0.01,3092.76,3578.41,86.4
+S0292,2024-05-25,May,Q2,Ontario East,ON,Kingston,CLN1002,Johnson Animal Hospital,David Park,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,39,0.02,11389.56,15259.69,74.6
+S0727,2024-05-25,May,Q2,Western Canada,AB,Calgary,CLN1078,Ellis Veterinary Clinic,Ryan Nakamura,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,37,0.1,9923.4,10648.43,93.2
+S0787,2024-05-25,May,Q2,Ontario West,ON,Kitchener,CLN1047,Garcia Animal Hospital,Emily Chen,Ingelvac PRRS MLV,Vaccines,Swine,185.0,26,0.0,4810.0,3707.54,129.7
+S0128,2024-05-26,May,Q2,Atlantic Canada,NS,St. John's,CLN1100,Valencia Animal Hospital,Connor MacDonald,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,48,0.07,13302.72,17193.67,77.4
+S0612,2024-05-26,May,Q2,Ontario East,ON,Toronto,CLN1007,Mcclain Veterinary Clinic,Sarah Mitchell,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,18,0.11,877.1,742.52,118.1
+S0838,2024-05-26,May,Q2,Quebec,QC,Laval,CLN1050,Diaz Mixed Practice,Marc Tremblay,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,19,0.07,967.43,1238.93,78.1
+S0090,2024-05-27,May,Q2,Ontario East,ON,Ottawa,CLN1010,Johnson Mixed Practice,Sarah Mitchell,Clomicalm 20mg,Behaviour,Companion,67.0,20,0.09,1219.4,1517.6,80.4
+S0123,2024-05-27,May,Q2,Quebec,QC,Sherbrooke,CLN1059,Martin Mixed Practice,Isabelle Roy,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,1,0.13,152.25,156.69,97.2
+S0638,2024-05-28,May,Q2,Ontario East,ON,Toronto,CLN1009,Henderson Mixed Practice,Sarah Mitchell,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,5,0.05,636.5,669.41,95.1
+S0656,2024-05-28,May,Q2,Quebec,QC,Laval,CLN1061,Mayo Mixed Practice,Marc Tremblay,Nexgard Spectra L,Parasitology,Companion,44.5,26,0.03,1122.29,1361.66,82.4
+S0955,2024-05-28,May,Q2,Ontario East,ON,Belleville,CLN1012,Wagner Mixed Practice,David Park,Zactran 150mg/mL,Antibiotics,Cattle,320.0,22,0.01,6969.6,7149.3,97.5
+S0508,2024-05-29,May,Q2,Atlantic Canada,NS,Halifax,CLN1106,Davidson Veterinary Clinic,Fatima Hassan,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,7,0.0,383.25,326.72,117.3
+S0501,2024-05-30,May,Q2,Atlantic Canada,NS,St. John's,CLN1101,Smith Livestock Practice,Connor MacDonald,Clomicalm 20mg,Behaviour,Companion,67.0,29,0.01,1923.57,2418.81,79.5
+S0507,2024-05-30,May,Q2,Western Canada,AB,Calgary,CLN1074,Edwards Veterinary Clinic,Priya Sharma,Clomicalm 20mg,Behaviour,Companion,67.0,4,0.05,254.6,256.27,99.3
+S0907,2024-05-30,May,Q2,Western Canada,AB,Edmonton,CLN1075,Rios Farm Supply & Vet,Ryan Nakamura,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,33,0.06,9243.96,7640.44,121.0
+S0126,2024-05-31,May,Q2,Atlantic Canada,NS,Fredericton,CLN1110,Mckay Mixed Practice,Fatima Hassan,Vetmedin 10mg,Cardiology,Companion,142.0,16,0.06,2135.68,2061.73,103.6
+S0131,2024-05-31,May,Q2,Atlantic Canada,NS,St. John's,CLN1101,Smith Livestock Practice,Fatima Hassan,Vetmedin 5mg,Cardiology,Companion,89.5,38,0.05,3230.95,2677.96,120.6
+S0133,2024-05-31,May,Q2,Quebec,QC,Quebec City,CLN1068,Johnson Mixed Practice,Isabelle Roy,Clomicalm 20mg,Behaviour,Companion,67.0,17,0.14,979.54,1289.58,76.0
+S0393,2024-06-01,June,Q2,Ontario West,ON,Kitchener,CLN1046,Hall Livestock Practice,Emily Chen,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,12,0.12,3146.88,3693.16,85.2
+S0124,2024-06-02,June,Q2,Western Canada,AB,Saskatoon,CLN1087,Bright Veterinary Clinic,Ryan Nakamura,Vetmedin 10mg,Cardiology,Companion,142.0,29,0.14,3541.48,4754.76,74.5
+S0269,2024-06-02,June,Q2,Ontario West,ON,Burlington,CLN1042,Williams Farm Supply & Vet,Emily Chen,Clomicalm 20mg,Behaviour,Companion,67.0,26,0.15,1480.7,1767.35,83.8
+S0270,2024-06-02,June,Q2,Western Canada,AB,Vancouver,CLN1076,Foster Veterinary Clinic,Priya Sharma,Zactran 150mg/mL,Antibiotics,Cattle,320.0,33,0.08,9715.2,11417.73,85.1
+S0323,2024-06-02,June,Q2,Western Canada,AB,Saskatoon,CLN1086,Robinson Mixed Practice,Priya Sharma,Zactran 150mg/mL,Antibiotics,Cattle,320.0,21,0.1,6048.0,6017.49,100.5
+S0788,2024-06-02,June,Q2,Western Canada,AB,Vancouver,CLN1077,Rocha Mixed Practice,Ryan Nakamura,Zactran 150mg/mL,Antibiotics,Cattle,320.0,9,0.15,2448.0,2279.35,107.4
+S0855,2024-06-02,June,Q2,Ontario East,ON,Toronto,CLN1023,Peterson Livestock Practice,David Park,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,38,0.05,4837.4,3732.07,129.6
+S0033,2024-06-03,June,Q2,Quebec,QC,Sherbrooke,CLN1054,Zuniga Veterinary Clinic,Isabelle Roy,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,48,0.14,7224.0,8085.89,89.3
+S0077,2024-06-03,June,Q2,Western Canada,AB,Vancouver,CLN1077,Rocha Mixed Practice,Priya Sharma,Vetmedin 10mg,Cardiology,Companion,142.0,13,0.04,1772.16,1712.84,103.5
+S0432,2024-06-03,June,Q2,Western Canada,AB,Vancouver,CLN1077,Rocha Mixed Practice,Priya Sharma,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,2,0.13,233.16,266.98,87.3
+S0896,2024-06-03,June,Q2,Ontario East,ON,Ottawa,CLN1014,Gonzalez Livestock Practice,David Park,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,7,0.05,891.1,1015.56,87.7
+S0186,2024-06-04,June,Q2,Atlantic Canada,NS,St. John's,CLN1111,Liu Animal Hospital,Fatima Hassan,Clomicalm 20mg,Behaviour,Companion,67.0,29,0.01,1923.57,1953.05,98.5
+S0526,2024-06-04,June,Q2,Ontario East,ON,Toronto,CLN1007,Mcclain Veterinary Clinic,David Park,Nexgard Spectra M,Parasitology,Companion,38.9,24,0.0,933.6,1158.07,80.6
+S0779,2024-06-04,June,Q2,Atlantic Canada,NS,Fredericton,CLN1102,Le Veterinary Clinic,Connor MacDonald,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,18,0.08,4934.88,5875.37,84.0
+S0923,2024-06-04,June,Q2,Atlantic Canada,NS,Halifax,CLN1103,Maldonado Livestock Practice,Fatima Hassan,Nexgard Spectra M,Parasitology,Companion,38.9,11,0.01,423.62,552.28,76.7
+S0024,2024-06-05,June,Q2,Atlantic Canada,NS,Fredericton,CLN1110,Mckay Mixed Practice,Fatima Hassan,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,13,0.12,626.34,642.74,97.4
+S0229,2024-06-05,June,Q2,Quebec,QC,Quebec City,CLN1070,Adams Animal Hospital,Isabelle Roy,Nexgard Spectra L,Parasitology,Companion,44.5,7,0.01,308.38,353.57,87.2
+S0561,2024-06-05,June,Q2,Western Canada,AB,Calgary,CLN1089,Davis Farm Supply & Vet,Priya Sharma,Nexgard Spectra M,Parasitology,Companion,38.9,9,0.02,343.1,360.94,95.1
+S0807,2024-06-05,June,Q2,Ontario West,ON,Kitchener,CLN1032,Blair Farm Supply & Vet,James Okafor,Nexgard Spectra M,Parasitology,Companion,38.9,1,0.05,36.95,45.54,81.1
+S0299,2024-06-06,June,Q2,Ontario West,ON,Windsor,CLN1034,Dudley Animal Hospital,Emily Chen,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,16,0.01,2122.56,1742.48,121.8
+S0458,2024-06-06,June,Q2,Atlantic Canada,NS,Moncton,CLN1113,Mason Livestock Practice,Connor MacDonald,Nexgard Spectra L,Parasitology,Companion,44.5,1,0.11,39.61,38.65,102.5
+S0493,2024-06-06,June,Q2,Atlantic Canada,NS,Fredericton,CLN1114,White Veterinary Clinic,Fatima Hassan,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,43,0.09,2142.37,1832.18,116.9
+S0873,2024-06-06,June,Q2,Western Canada,AB,Saskatoon,CLN1081,Hoffman Mixed Practice,Ryan Nakamura,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,39,0.06,10924.68,12094.88,90.3
+S0901,2024-06-06,June,Q2,Western Canada,AB,Vancouver,CLN1077,Rocha Mixed Practice,Priya Sharma,Nexgard Spectra L,Parasitology,Companion,44.5,36,0.01,1585.98,1613.15,98.3
+S0031,2024-06-07,June,Q2,Western Canada,AB,Vancouver,CLN1080,Wright Animal Hospital,Priya Sharma,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,8,0.11,1246.0,1159.02,107.5
+S0130,2024-06-07,June,Q2,Western Canada,AB,Saskatoon,CLN1087,Bright Veterinary Clinic,Ryan Nakamura,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,7,0.14,1053.5,1198.68,87.9
+S0060,2024-06-08,June,Q2,Western Canada,AB,Calgary,CLN1078,Ellis Veterinary Clinic,Ryan Nakamura,Clomicalm 20mg,Behaviour,Companion,67.0,20,0.02,1313.2,1005.13,130.6
+S0169,2024-06-08,June,Q2,Western Canada,AB,Calgary,CLN1096,James Mixed Practice,Ryan Nakamura,Ingelvac CircoFLEX,Vaccines,Swine,210.0,27,0.07,5273.1,4452.85,118.4
+S0300,2024-06-08,June,Q2,Ontario East,ON,Kingston,CLN1021,Shaffer Veterinary Clinic,David Park,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,33,0.14,4966.5,6370.43,78.0
+S0881,2024-06-08,June,Q2,Ontario West,ON,Kitchener,CLN1043,Perez Farm Supply & Vet,Emily Chen,Vetmedin 5mg,Cardiology,Companion,89.5,7,0.08,576.38,660.18,87.3
+S0235,2024-06-09,June,Q2,Ontario West,ON,Windsor,CLN1048,Ramirez Animal Hospital,Emily Chen,Vetmedin 10mg,Cardiology,Companion,142.0,37,0.02,5148.92,4995.33,103.1
+S0938,2024-06-09,June,Q2,Western Canada,AB,Vancouver,CLN1076,Foster Veterinary Clinic,Ryan Nakamura,Zactran 150mg/mL,Antibiotics,Cattle,320.0,22,0.1,6336.0,8527.81,74.3
+S0397,2024-06-10,June,Q2,Atlantic Canada,NS,St. John's,CLN1120,Hernandez Animal Hospital,Connor MacDonald,Zactran 150mg/mL,Antibiotics,Cattle,320.0,11,0.07,3273.6,2730.76,119.9
+S0430,2024-06-10,June,Q2,Ontario East,ON,Toronto,CLN1018,Lawrence Livestock Practice,Sarah Mitchell,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,47,0.06,13165.64,17483.3,75.3
+S0683,2024-06-10,June,Q2,Western Canada,AB,Calgary,CLN1074,Edwards Veterinary Clinic,Ryan Nakamura,Zactran 150mg/mL,Antibiotics,Cattle,320.0,1,0.06,300.8,262.67,114.5
+S0784,2024-06-10,June,Q2,Ontario West,ON,Burlington,CLN1044,Roberts Animal Hospital,James Okafor,Zactran 150mg/mL,Antibiotics,Cattle,320.0,39,0.07,11606.4,11158.33,104.0
+S0648,2024-06-11,June,Q2,Western Canada,AB,Saskatoon,CLN1086,Robinson Mixed Practice,Ryan Nakamura,Vetmedin 10mg,Cardiology,Companion,142.0,19,0.09,2455.18,3167.36,77.5
+S0255,2024-06-12,June,Q2,Quebec,QC,Montreal,CLN1062,Bowman Veterinary Clinic,Isabelle Roy,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,22,0.09,1096.1,1027.65,106.7
+S0384,2024-06-12,June,Q2,Quebec,QC,Montreal,CLN1062,Bowman Veterinary Clinic,Isabelle Roy,Ingelvac PRRS MLV,Vaccines,Swine,185.0,7,0.07,1204.35,1406.75,85.6
+S0451,2024-06-12,June,Q2,Quebec,QC,Laval,CLN1071,Clark Animal Hospital,Isabelle Roy,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,21,0.04,1103.76,1434.35,77.0
+S0288,2024-06-13,June,Q2,Atlantic Canada,NS,St. John's,CLN1120,Hernandez Animal Hospital,Fatima Hassan,Ingelvac PRRS MLV,Vaccines,Swine,185.0,42,0.03,7536.9,10011.63,75.3
+S0559,2024-06-13,June,Q2,Ontario East,ON,Toronto,CLN1001,Fowler Veterinary Clinic,Sarah Mitchell,Zactran 150mg/mL,Antibiotics,Cattle,320.0,13,0.11,3702.4,4887.32,75.8
+S0630,2024-06-13,June,Q2,Quebec,QC,Sherbrooke,CLN1066,Parsons Veterinary Clinic,Isabelle Roy,Ingelvac PRRS MLV,Vaccines,Swine,185.0,3,0.04,532.8,607.88,87.6
+S0066,2024-06-14,June,Q2,Ontario West,ON,Windsor,CLN1035,Gray Veterinary Clinic,Emily Chen,Ingelvac PRRS MLV,Vaccines,Swine,185.0,28,0.12,4558.4,5039.24,90.5
+S0092,2024-06-14,June,Q2,Quebec,QC,Sherbrooke,CLN1065,Cameron Animal Hospital,Isabelle Roy,Ingelvac PRRS MLV,Vaccines,Swine,185.0,6,0.09,1010.1,1296.62,77.9
+S0185,2024-06-14,June,Q2,Atlantic Canada,NS,St. John's,CLN1098,Rice Animal Hospital,Fatima Hassan,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,37,0.1,5827.5,7820.03,74.5
+S0416,2024-06-14,June,Q2,Atlantic Canada,NS,Fredericton,CLN1102,Le Veterinary Clinic,Fatima Hassan,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,28,0.12,1349.04,1412.21,95.5
+S0488,2024-06-14,June,Q2,Atlantic Canada,NS,Moncton,CLN1104,Herrera Livestock Practice,Connor MacDonald,Nexgard Spectra L,Parasitology,Companion,44.5,46,0.03,1985.59,2445.16,81.2
+S0785,2024-06-14,June,Q2,Quebec,QC,Laval,CLN1071,Clark Animal Hospital,Isabelle Roy,Nexgard Spectra L,Parasitology,Companion,44.5,27,0.11,1069.34,1078.27,99.2
+S0945,2024-06-14,June,Q2,Western Canada,AB,Vancouver,CLN1082,Baker Farm Supply & Vet,Priya Sharma,Nexgard Spectra M,Parasitology,Companion,38.9,50,0.06,1828.3,2362.23,77.4
+S0738,2024-06-15,June,Q2,Quebec,QC,Quebec City,CLN1068,Johnson Mixed Practice,Marc Tremblay,Vetmedin 5mg,Cardiology,Companion,89.5,3,0.1,241.65,305.98,79.0
+S0893,2024-06-15,June,Q2,Quebec,QC,Sherbrooke,CLN1051,Wood Mixed Practice,Marc Tremblay,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,43,0.05,5473.9,6932.56,79.0
+S0981,2024-06-15,June,Q2,Quebec,QC,Laval,CLN1063,Hawkins Farm Supply & Vet,Marc Tremblay,Vetmedin 10mg,Cardiology,Companion,142.0,16,0.11,2022.08,2235.66,90.4
+S0440,2024-06-16,June,Q2,Ontario West,ON,London,CLN1040,Ray Farm Supply & Vet,James Okafor,Zactran 150mg/mL,Antibiotics,Cattle,320.0,14,0.15,3808.0,3211.01,118.6
+S0463,2024-06-16,June,Q2,Ontario West,ON,Kitchener,CLN1031,Roman Farm Supply & Vet,Emily Chen,Nexgard Spectra M,Parasitology,Companion,38.9,21,0.14,702.53,692.53,101.4
+S0030,2024-06-18,June,Q2,Ontario East,ON,Toronto,CLN1001,Fowler Veterinary Clinic,Sarah Mitchell,Nexgard Spectra L,Parasitology,Companion,44.5,28,0.01,1233.54,1416.77,87.1
+S0379,2024-06-18,June,Q2,Western Canada,AB,Saskatoon,CLN1083,Richards Animal Hospital,Ryan Nakamura,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,42,0.1,11264.4,11149.17,101.0
+S0386,2024-06-18,June,Q2,Ontario East,ON,Ottawa,CLN1014,Gonzalez Livestock Practice,Sarah Mitchell,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,16,0.08,1972.48,2132.54,92.5
+S0621,2024-06-18,June,Q2,Ontario West,ON,London,CLN1036,Arnold Mixed Practice,Emily Chen,Clomicalm 20mg,Behaviour,Companion,67.0,11,0.09,670.67,605.62,110.7
+S0625,2024-06-18,June,Q2,Quebec,QC,Quebec City,CLN1070,Adams Animal Hospital,Isabelle Roy,Vetmedin 10mg,Cardiology,Companion,142.0,23,0.03,3168.02,2781.56,113.9
+S0634,2024-06-18,June,Q2,Western Canada,AB,Saskatoon,CLN1083,Richards Animal Hospital,Ryan Nakamura,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,44,0.02,5778.08,5925.62,97.5
+S0753,2024-06-18,June,Q2,Quebec,QC,Sherbrooke,CLN1054,Zuniga Veterinary Clinic,Isabelle Roy,Ingelvac PRRS MLV,Vaccines,Swine,185.0,24,0.07,4129.2,5057.67,81.6
+S0871,2024-06-18,June,Q2,Ontario West,ON,Windsor,CLN1039,Hensley Mixed Practice,Emily Chen,Zactran 150mg/mL,Antibiotics,Cattle,320.0,35,0.0,11200.0,12280.11,91.2
+S0267,2024-06-19,June,Q2,Western Canada,AB,Calgary,CLN1078,Ellis Veterinary Clinic,Priya Sharma,Zactran 150mg/mL,Antibiotics,Cattle,320.0,3,0.01,950.4,790.94,120.2
+S0946,2024-06-19,June,Q2,Ontario West,ON,London,CLN1033,Herrera Farm Supply & Vet,James Okafor,Vetmedin 10mg,Cardiology,Companion,142.0,18,0.12,2249.28,2203.57,102.1
+S0497,2024-06-20,June,Q2,Ontario West,ON,Burlington,CLN1041,Bush Animal Hospital,James Okafor,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,6,0.12,924.0,1064.46,86.8
+S0845,2024-06-20,June,Q2,Western Canada,AB,Saskatoon,CLN1079,Baker Veterinary Clinic,Ryan Nakamura,Ingelvac CircoFLEX,Vaccines,Swine,210.0,36,0.06,7106.4,8605.54,82.6
+S0250,2024-06-21,June,Q2,Western Canada,AB,Edmonton,CLN1075,Rios Farm Supply & Vet,Ryan Nakamura,Clomicalm 20mg,Behaviour,Companion,67.0,43,0.09,2621.71,3385.15,77.4
+S0106,2024-06-23,June,Q2,Western Canada,AB,Calgary,CLN1096,James Mixed Practice,Ryan Nakamura,Vetmedin 10mg,Cardiology,Companion,142.0,18,0.12,2249.28,2840.05,79.2
+S0594,2024-06-23,June,Q2,Atlantic Canada,NS,Fredericton,CLN1102,Le Veterinary Clinic,Fatima Hassan,Zactran 150mg/mL,Antibiotics,Cattle,320.0,36,0.03,11174.4,12882.79,86.7
+S0424,2024-06-24,June,Q2,Western Canada,AB,Vancouver,CLN1076,Foster Veterinary Clinic,Ryan Nakamura,Zactran 150mg/mL,Antibiotics,Cattle,320.0,44,0.07,13094.4,9884.14,132.5
+S0579,2024-06-24,June,Q2,Atlantic Canada,NS,St. John's,CLN1115,Gaines Mixed Practice,Fatima Hassan,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,18,0.13,4666.68,3760.27,124.1
+S0706,2024-06-24,June,Q2,Western Canada,AB,Calgary,CLN1090,Williams Mixed Practice,Priya Sharma,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,19,0.01,1029.85,1188.67,86.6
+S0752,2024-06-24,June,Q2,Western Canada,AB,Vancouver,CLN1094,Henderson Veterinary Clinic,Ryan Nakamura,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,6,0.02,321.93,336.79,95.6
+S0172,2024-06-25,June,Q2,Western Canada,AB,Calgary,CLN1078,Ellis Veterinary Clinic,Priya Sharma,Ingelvac CircoFLEX,Vaccines,Swine,210.0,18,0.03,3666.6,3877.09,94.6
+S0643,2024-06-25,June,Q2,Western Canada,AB,Vancouver,CLN1077,Rocha Mixed Practice,Priya Sharma,Zactran 150mg/mL,Antibiotics,Cattle,320.0,36,0.14,9907.2,9241.58,107.2
+S0665,2024-06-25,June,Q2,Ontario West,ON,London,CLN1033,Herrera Farm Supply & Vet,Emily Chen,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,34,0.06,1749.81,2170.36,80.6
+S0496,2024-06-26,June,Q2,Ontario West,ON,Windsor,CLN1029,Abbott Veterinary Clinic,James Okafor,Ingelvac PRRS MLV,Vaccines,Swine,185.0,10,0.05,1757.5,1400.17,125.5
+S0765,2024-06-26,June,Q2,Ontario East,ON,Kingston,CLN1017,Robinson Veterinary Clinic,David Park,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,21,0.15,977.29,1195.36,81.8
+S0010,2024-06-27,June,Q2,Quebec,QC,Sherbrooke,CLN1059,Martin Mixed Practice,Marc Tremblay,Vetmedin 10mg,Cardiology,Companion,142.0,35,0.03,4820.9,4382.78,110.0
+S0312,2024-06-27,June,Q2,Quebec,QC,Quebec City,CLN1049,Reid Mixed Practice,Marc Tremblay,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,43,0.13,6546.75,5432.45,120.5
+S0392,2024-06-27,June,Q2,Western Canada,AB,Vancouver,CLN1082,Baker Farm Supply & Vet,Priya Sharma,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,25,0.09,6779.5,7472.38,90.7
+S0056,2024-06-28,June,Q2,Ontario West,ON,London,CLN1033,Herrera Farm Supply & Vet,James Okafor,Ingelvac PRRS MLV,Vaccines,Swine,185.0,2,0.11,329.3,257.27,128.0
+S0182,2024-06-28,June,Q2,Ontario East,ON,Ottawa,CLN1010,Johnson Mixed Practice,Sarah Mitchell,Zactran 150mg/mL,Antibiotics,Cattle,320.0,33,0.03,10243.2,12453.04,82.3
+S0195,2024-06-28,June,Q2,Ontario West,ON,London,CLN1033,Herrera Farm Supply & Vet,James Okafor,Nexgard Spectra L,Parasitology,Companion,44.5,6,0.09,242.97,202.85,119.8
+S0406,2024-06-28,June,Q2,Quebec,QC,Sherbrooke,CLN1057,Jackson Mixed Practice,Marc Tremblay,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,14,0.12,674.52,743.83,90.7
+S0804,2024-06-28,June,Q2,Ontario West,ON,Burlington,CLN1042,Williams Farm Supply & Vet,Emily Chen,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,42,0.0,12516.0,11676.07,107.2
+S0884,2024-06-28,June,Q2,Ontario East,ON,Kingston,CLN1015,Santos Farm Supply & Vet,Sarah Mitchell,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,36,0.08,9869.76,8625.64,114.4
+S0217,2024-06-29,June,Q2,Ontario East,ON,Ottawa,CLN1003,Hill Animal Hospital,Sarah Mitchell,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,10,0.04,1286.4,966.01,133.2
+S0230,2024-06-29,June,Q2,Quebec,QC,Montreal,CLN1058,Daniel Livestock Practice,Isabelle Roy,Clomicalm 20mg,Behaviour,Companion,67.0,45,0.07,2803.95,2855.2,98.2
+S0337,2024-06-29,June,Q2,Atlantic Canada,NS,St. John's,CLN1098,Rice Animal Hospital,Fatima Hassan,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,42,0.11,5008.92,5141.64,97.4
+S0922,2024-06-29,June,Q2,Quebec,QC,Laval,CLN1061,Mayo Mixed Practice,Isabelle Roy,Zactran 150mg/mL,Antibiotics,Cattle,320.0,31,0.09,9027.2,8565.99,105.4
+S0578,2024-07-02,July,Q3,Atlantic Canada,NS,Fredericton,CLN1109,Chavez Animal Hospital,Connor MacDonald,Vetmedin 5mg,Cardiology,Companion,89.5,9,0.1,724.95,617.88,117.3
+S0908,2024-07-02,July,Q3,Ontario East,ON,Ottawa,CLN1008,Miller Animal Hospital,David Park,Zactran 150mg/mL,Antibiotics,Cattle,320.0,4,0.0,1280.0,1390.1,92.1
+S0218,2024-07-03,July,Q3,Ontario West,ON,Kitchener,CLN1031,Roman Farm Supply & Vet,Emily Chen,Clomicalm 20mg,Behaviour,Companion,67.0,43,0.1,2592.9,2759.08,94.0
+S0360,2024-07-03,July,Q3,Ontario West,ON,Burlington,CLN1041,Bush Animal Hospital,Emily Chen,Vetmedin 10mg,Cardiology,Companion,142.0,6,0.0,852.0,796.59,107.0
+S0532,2024-07-03,July,Q3,Ontario East,ON,Toronto,CLN1023,Peterson Livestock Practice,Sarah Mitchell,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,4,0.04,210.24,215.26,97.7
+S0064,2024-07-04,July,Q3,Western Canada,AB,Saskatoon,CLN1083,Richards Animal Hospital,Priya Sharma,Vetmedin 5mg,Cardiology,Companion,89.5,27,0.12,2126.52,1729.55,123.0
+S0198,2024-07-04,July,Q3,Atlantic Canada,NS,Halifax,CLN1117,Evans Veterinary Clinic,Connor MacDonald,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,43,0.06,7073.5,6840.76,103.4
+S0371,2024-07-05,July,Q3,Western Canada,AB,Calgary,CLN1074,Edwards Veterinary Clinic,Ryan Nakamura,Nexgard Spectra L,Parasitology,Companion,44.5,25,0.04,1068.0,1304.58,81.9
+S0718,2024-07-05,July,Q3,Ontario East,ON,Toronto,CLN1024,Moore Mixed Practice,David Park,Ingelvac CircoFLEX,Vaccines,Swine,210.0,14,0.06,2763.6,3319.96,83.2
+S0892,2024-07-05,July,Q3,Quebec,QC,Laval,CLN1061,Mayo Mixed Practice,Marc Tremblay,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,10,0.13,476.32,533.56,89.3
+S0132,2024-07-06,July,Q3,Ontario West,ON,Burlington,CLN1042,Williams Farm Supply & Vet,Emily Chen,Clomicalm 20mg,Behaviour,Companion,67.0,13,0.02,853.58,916.44,93.1
+S0233,2024-07-06,July,Q3,Ontario East,ON,Toronto,CLN1019,Pacheco Farm Supply & Vet,David Park,Vetmedin 5mg,Cardiology,Companion,89.5,9,0.01,797.44,970.57,82.2
+S0390,2024-07-06,July,Q3,Atlantic Canada,NS,Moncton,CLN1104,Herrera Livestock Practice,Connor MacDonald,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,7,0.12,1835.68,1968.09,93.3
+S0717,2024-07-06,July,Q3,Ontario East,ON,Toronto,CLN1024,Moore Mixed Practice,David Park,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,18,0.07,916.51,1024.52,89.5
+S0454,2024-07-07,July,Q3,Atlantic Canada,NS,St. John's,CLN1111,Liu Animal Hospital,Fatima Hassan,Nexgard Spectra M,Parasitology,Companion,38.9,21,0.01,808.73,828.18,97.7
+S0455,2024-07-07,July,Q3,Ontario West,ON,Windsor,CLN1026,Rogers Mixed Practice,Emily Chen,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,20,0.11,5304.4,4750.36,111.7
+S0778,2024-07-07,July,Q3,Atlantic Canada,NS,Halifax,CLN1103,Maldonado Livestock Practice,Connor MacDonald,Nexgard Spectra L,Parasitology,Companion,44.5,36,0.11,1425.78,1831.07,77.9
+S0234,2024-07-08,July,Q3,Ontario West,ON,Kitchener,CLN1047,Garcia Animal Hospital,Emily Chen,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,3,0.09,813.54,941.62,86.4
+S0660,2024-07-08,July,Q3,Ontario West,ON,Kitchener,CLN1046,Hall Livestock Practice,James Okafor,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,49,0.07,2494.96,1965.32,126.9
+S0686,2024-07-08,July,Q3,Atlantic Canada,NS,Fredericton,CLN1097,Ferrell Farm Supply & Vet,Connor MacDonald,Ingelvac CircoFLEX,Vaccines,Swine,210.0,36,0.12,6652.8,6915.46,96.2
+S0192,2024-07-09,July,Q3,Ontario West,ON,Kitchener,CLN1032,Blair Farm Supply & Vet,Emily Chen,Ingelvac PRRS MLV,Vaccines,Swine,185.0,34,0.08,5786.8,4891.28,118.3
+S0210,2024-07-10,July,Q3,Atlantic Canada,NS,St. John's,CLN1105,Adams Livestock Practice,Fatima Hassan,Nexgard Spectra L,Parasitology,Companion,44.5,2,0.06,83.66,82.65,101.2
+S0219,2024-07-10,July,Q3,Ontario East,ON,Toronto,CLN1009,Henderson Mixed Practice,Sarah Mitchell,Ingelvac CircoFLEX,Vaccines,Swine,210.0,31,0.01,6444.9,6329.72,101.8
+S0629,2024-07-10,July,Q3,Quebec,QC,Laval,CLN1050,Diaz Mixed Practice,Isabelle Roy,Zactran 150mg/mL,Antibiotics,Cattle,320.0,47,0.04,14438.4,18723.74,77.1
+S0875,2024-07-10,July,Q3,Ontario West,ON,Windsor,CLN1048,Ramirez Animal Hospital,Emily Chen,Nexgard Spectra M,Parasitology,Companion,38.9,14,0.08,501.03,428.38,117.0
+S0502,2024-07-11,July,Q3,Ontario East,ON,Ottawa,CLN1003,Hill Animal Hospital,David Park,Nexgard Spectra M,Parasitology,Companion,38.9,7,0.01,269.58,229.7,117.4
+S0663,2024-07-11,July,Q3,Quebec,QC,Laval,CLN1067,Perez Mixed Practice,Isabelle Roy,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,17,0.09,2072.98,2263.89,91.6
+S0872,2024-07-11,July,Q3,Atlantic Canada,NS,Halifax,CLN1103,Maldonado Livestock Practice,Fatima Hassan,Vetmedin 10mg,Cardiology,Companion,142.0,10,0.04,1363.2,1047.9,130.1
+S0970,2024-07-11,July,Q3,Atlantic Canada,NS,St. John's,CLN1119,Lynch Livestock Practice,Connor MacDonald,Clomicalm 20mg,Behaviour,Companion,67.0,7,0.12,412.72,466.09,88.5
+S0983,2024-07-11,July,Q3,Ontario West,ON,Burlington,CLN1042,Williams Farm Supply & Vet,James Okafor,Vetmedin 10mg,Cardiology,Companion,142.0,16,0.11,2022.08,2571.95,78.6
+S0311,2024-07-12,July,Q3,Atlantic Canada,NS,Fredericton,CLN1099,Maddox Mixed Practice,Fatima Hassan,Nexgard Spectra L,Parasitology,Companion,44.5,25,0.07,1034.62,1345.28,76.9
+S0746,2024-07-12,July,Q3,Quebec,QC,Sherbrooke,CLN1051,Wood Mixed Practice,Marc Tremblay,Clomicalm 20mg,Behaviour,Companion,67.0,46,0.11,2742.98,2698.64,101.6
+S0331,2024-07-13,July,Q3,Western Canada,AB,Calgary,CLN1090,Williams Mixed Practice,Ryan Nakamura,Ingelvac CircoFLEX,Vaccines,Swine,210.0,16,0.08,3091.2,3756.76,82.3
+S0834,2024-07-13,July,Q3,Atlantic Canada,NS,Fredericton,CLN1114,White Veterinary Clinic,Connor MacDonald,Ingelvac CircoFLEX,Vaccines,Swine,210.0,26,0.12,4804.8,5356.19,89.7
+S0902,2024-07-13,July,Q3,Quebec,QC,Sherbrooke,CLN1052,Clark Farm Supply & Vet,Marc Tremblay,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,7,0.1,1877.4,2079.86,90.3
+S0426,2024-07-14,July,Q3,Ontario East,ON,Belleville,CLN1012,Wagner Mixed Practice,Sarah Mitchell,Vetmedin 10mg,Cardiology,Companion,142.0,21,0.06,2803.08,2605.61,107.6
+S0510,2024-07-14,July,Q3,Ontario West,ON,Windsor,CLN1034,Dudley Animal Hospital,James Okafor,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,35,0.06,5757.5,5599.82,102.8
+S0639,2024-07-14,July,Q3,Atlantic Canada,NS,St. John's,CLN1101,Smith Livestock Practice,Fatima Hassan,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,6,0.04,1716.48,2241.75,76.6
+S0125,2024-07-15,July,Q3,Western Canada,AB,Vancouver,CLN1082,Baker Farm Supply & Vet,Priya Sharma,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,17,0.07,2118.54,1972.94,107.4
+S0297,2024-07-15,July,Q3,Ontario East,ON,Toronto,CLN1024,Moore Mixed Practice,Sarah Mitchell,Ingelvac PRRS MLV,Vaccines,Swine,185.0,21,0.14,3341.1,2519.52,132.6
+S0425,2024-07-15,July,Q3,Atlantic Canada,NS,St. John's,CLN1105,Adams Livestock Practice,Connor MacDonald,Ingelvac CircoFLEX,Vaccines,Swine,210.0,45,0.02,9261.0,7339.31,126.2
+S0558,2024-07-15,July,Q3,Ontario East,ON,Kingston,CLN1017,Robinson Veterinary Clinic,David Park,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,28,0.06,4606.0,6122.28,75.2
+S0887,2024-07-15,July,Q3,Ontario East,ON,Toronto,CLN1007,Mcclain Veterinary Clinic,Sarah Mitchell,Vetmedin 5mg,Cardiology,Companion,89.5,31,0.14,2386.07,1861.79,128.2
+S0580,2024-07-16,July,Q3,Ontario East,ON,Toronto,CLN1024,Moore Mixed Practice,Sarah Mitchell,Ingelvac CircoFLEX,Vaccines,Swine,210.0,26,0.14,4695.6,4287.55,109.5
+S0780,2024-07-16,July,Q3,Ontario East,ON,Ottawa,CLN1010,Johnson Mixed Practice,Sarah Mitchell,Zactran 150mg/mL,Antibiotics,Cattle,320.0,7,0.02,2195.2,1950.68,112.5
+S0661,2024-07-17,July,Q3,Ontario West,ON,London,CLN1030,Munoz Veterinary Clinic,James Okafor,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,14,0.08,2254.0,2760.87,81.6
+S0049,2024-07-18,July,Q3,Ontario East,ON,Ottawa,CLN1003,Hill Animal Hospital,David Park,Ingelvac PRRS MLV,Vaccines,Swine,185.0,1,0.14,159.1,147.83,107.6
+S0352,2024-07-18,July,Q3,Atlantic Canada,NS,Fredericton,CLN1097,Ferrell Farm Supply & Vet,Fatima Hassan,Vetmedin 10mg,Cardiology,Companion,142.0,20,0.02,2783.2,2488.97,111.8
+S0359,2024-07-18,July,Q3,Ontario West,ON,Windsor,CLN1035,Gray Veterinary Clinic,James Okafor,Ingelvac CircoFLEX,Vaccines,Swine,210.0,46,0.12,8500.8,7162.49,118.7
+S0736,2024-07-18,July,Q3,Quebec,QC,Quebec City,CLN1068,Johnson Mixed Practice,Marc Tremblay,Vetmedin 10mg,Cardiology,Companion,142.0,17,0.09,2196.74,1758.68,124.9
+S0904,2024-07-18,July,Q3,Atlantic Canada,NS,Fredericton,CLN1114,White Veterinary Clinic,Connor MacDonald,Clomicalm 20mg,Behaviour,Companion,67.0,43,0.02,2823.38,3017.5,93.6
+S0640,2024-07-19,July,Q3,Quebec,QC,Sherbrooke,CLN1051,Wood Mixed Practice,Marc Tremblay,Ingelvac PRRS MLV,Vaccines,Swine,185.0,11,0.08,1872.2,1557.35,120.2
+S0951,2024-07-19,July,Q3,Ontario East,ON,Toronto,CLN1001,Fowler Veterinary Clinic,Sarah Mitchell,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,25,0.04,4200.0,4914.14,85.5
+S0260,2024-07-20,July,Q3,Quebec,QC,Sherbrooke,CLN1066,Parsons Veterinary Clinic,Isabelle Roy,Ingelvac PRRS MLV,Vaccines,Swine,185.0,20,0.07,3441.0,2766.67,124.4
+S0506,2024-07-20,July,Q3,Western Canada,AB,Calgary,CLN1093,Conner Veterinary Clinic,Priya Sharma,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,19,0.04,3192.0,2577.7,123.8
+S0599,2024-07-20,July,Q3,Ontario East,ON,Ottawa,CLN1014,Gonzalez Livestock Practice,David Park,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,13,0.03,3757.78,4915.66,76.4
+S0797,2024-07-20,July,Q3,Ontario East,ON,Kingston,CLN1020,Smith Mixed Practice,David Park,Zactran 150mg/mL,Antibiotics,Cattle,320.0,45,0.03,13968.0,10899.4,128.2
+S0008,2024-07-21,July,Q3,Ontario West,ON,Burlington,CLN1041,Bush Animal Hospital,Emily Chen,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,43,0.11,2095.28,1871.53,112.0
+S0282,2024-07-21,July,Q3,Ontario West,ON,London,CLN1037,Calderon Animal Hospital,James Okafor,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,44,0.08,12063.04,15530.64,77.7
+S0367,2024-07-21,July,Q3,Quebec,QC,Montreal,CLN1064,Cohen Farm Supply & Vet,Marc Tremblay,Ingelvac PRRS MLV,Vaccines,Swine,185.0,7,0.02,1269.1,956.98,132.6
+S0468,2024-07-21,July,Q3,Ontario West,ON,Burlington,CLN1028,Davis Animal Hospital,Emily Chen,Clomicalm 20mg,Behaviour,Companion,67.0,6,0.11,357.78,476.22,75.1
+S0290,2024-07-22,July,Q3,Atlantic Canada,NS,Halifax,CLN1117,Evans Veterinary Clinic,Connor MacDonald,Ingelvac CircoFLEX,Vaccines,Swine,210.0,12,0.14,2167.2,1672.65,129.6
+S0355,2024-07-22,July,Q3,Ontario West,ON,London,CLN1030,Munoz Veterinary Clinic,James Okafor,Nexgard Spectra L,Parasitology,Companion,44.5,39,0.12,1527.24,2020.41,75.6
+S0437,2024-07-22,July,Q3,Ontario East,ON,Ottawa,CLN1003,Hill Animal Hospital,Sarah Mitchell,Vetmedin 5mg,Cardiology,Companion,89.5,17,0.03,1475.86,1923.85,76.7
+S0685,2024-07-22,July,Q3,Atlantic Canada,NS,Fredericton,CLN1110,Mckay Mixed Practice,Fatima Hassan,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,24,0.09,6508.32,8754.21,74.3
+S0687,2024-07-22,July,Q3,Quebec,QC,Montreal,CLN1072,Hahn Mixed Practice,Isabelle Roy,Nexgard Spectra M,Parasitology,Companion,38.9,20,0.09,707.98,859.85,82.3
+S0734,2024-07-22,July,Q3,Western Canada,AB,Saskatoon,CLN1085,Ross Farm Supply & Vet,Priya Sharma,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,45,0.11,5366.7,4703.07,114.1
+S0735,2024-07-22,July,Q3,Ontario East,ON,Ottawa,CLN1014,Gonzalez Livestock Practice,Sarah Mitchell,Vetmedin 10mg,Cardiology,Companion,142.0,31,0.08,4049.84,3101.44,130.6
+S0791,2024-07-23,July,Q3,Ontario West,ON,Kitchener,CLN1047,Garcia Animal Hospital,James Okafor,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,17,0.12,819.06,659.46,124.2
+S0263,2024-07-24,July,Q3,Atlantic Canada,NS,Moncton,CLN1113,Mason Livestock Practice,Fatima Hassan,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,24,0.11,2862.24,2775.12,103.1
+S0692,2024-07-24,July,Q3,Ontario West,ON,Windsor,CLN1048,Ramirez Animal Hospital,James Okafor,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,3,0.11,795.66,1041.05,76.4
+S0098,2024-07-25,July,Q3,Ontario East,ON,Toronto,CLN1005,Doyle Mixed Practice,David Park,Vetmedin 10mg,Cardiology,Companion,142.0,21,0.04,2862.72,2346.15,122.0
+S0413,2024-07-25,July,Q3,Quebec,QC,Quebec City,CLN1049,Reid Mixed Practice,Isabelle Roy,Vetmedin 10mg,Cardiology,Companion,142.0,41,0.12,5123.36,6206.08,82.6
+S0699,2024-07-25,July,Q3,Ontario West,ON,Windsor,CLN1045,Miller Animal Hospital,Emily Chen,Nexgard Spectra M,Parasitology,Companion,38.9,15,0.09,530.99,460.22,115.4
+S0345,2024-07-26,July,Q3,Ontario West,ON,Windsor,CLN1025,Bernard Mixed Practice,Emily Chen,Nexgard Spectra L,Parasitology,Companion,44.5,18,0.12,704.88,562.08,125.4
+S0102,2024-07-27,July,Q3,Western Canada,AB,Calgary,CLN1078,Ellis Veterinary Clinic,Ryan Nakamura,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,11,0.05,1400.3,1061.71,131.9
+S0994,2024-07-27,July,Q3,Quebec,QC,Montreal,CLN1058,Daniel Livestock Practice,Isabelle Roy,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,6,0.08,302.22,228.92,132.0
+S0554,2024-07-28,July,Q3,Ontario West,ON,Windsor,CLN1039,Hensley Mixed Practice,Emily Chen,Vetmedin 5mg,Cardiology,Companion,89.5,10,0.02,877.1,763.23,114.9
+S0598,2024-07-28,July,Q3,Ontario West,ON,Windsor,CLN1048,Ramirez Animal Hospital,James Okafor,Vetmedin 5mg,Cardiology,Companion,89.5,11,0.07,915.58,1138.16,80.4
+S0022,2024-07-29,July,Q3,Atlantic Canada,NS,Halifax,CLN1103,Maldonado Livestock Practice,Connor MacDonald,Ingelvac CircoFLEX,Vaccines,Swine,210.0,2,0.03,407.4,531.53,76.6
+S0342,2024-07-29,July,Q3,Western Canada,AB,Saskatoon,CLN1086,Robinson Mixed Practice,Priya Sharma,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,32,0.0,5600.0,5988.23,93.5
+S0669,2024-07-29,July,Q3,Quebec,QC,Montreal,CLN1062,Bowman Veterinary Clinic,Isabelle Roy,Ingelvac PRRS MLV,Vaccines,Swine,185.0,14,0.09,2356.9,2682.99,87.8
+S0748,2024-07-30,July,Q3,Atlantic Canada,NS,Moncton,CLN1104,Herrera Livestock Practice,Fatima Hassan,Nexgard Spectra M,Parasitology,Companion,38.9,42,0.11,1454.08,1796.2,81.0
+S0047,2024-07-31,July,Q3,Ontario East,ON,Kingston,CLN1020,Smith Mixed Practice,Sarah Mitchell,Vetmedin 10mg,Cardiology,Companion,142.0,27,0.06,3603.96,3876.3,93.0
+S0254,2024-07-31,July,Q3,Quebec,QC,Sherbrooke,CLN1052,Clark Farm Supply & Vet,Isabelle Roy,Ingelvac PRRS MLV,Vaccines,Swine,185.0,5,0.1,832.5,703.34,118.4
+S0412,2024-07-31,July,Q3,Atlantic Canada,NS,St. John's,CLN1098,Rice Animal Hospital,Fatima Hassan,Ingelvac PRRS MLV,Vaccines,Swine,185.0,10,0.09,1683.5,1534.06,109.7
+S0624,2024-07-31,July,Q3,Ontario West,ON,Burlington,CLN1041,Bush Animal Hospital,James Okafor,Clomicalm 20mg,Behaviour,Companion,67.0,34,0.01,2255.22,2374.94,95.0
+S0528,2024-08-01,August,Q3,Ontario East,ON,Toronto,CLN1018,Lawrence Livestock Practice,David Park,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,29,0.12,3419.68,3223.12,106.1
+S0911,2024-08-01,August,Q3,Quebec,QC,Laval,CLN1061,Mayo Mixed Practice,Marc Tremblay,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,36,0.06,1852.74,2417.25,76.6
+S0215,2024-08-02,August,Q3,Quebec,QC,Montreal,CLN1055,Wong Veterinary Clinic,Marc Tremblay,Nexgard Spectra M,Parasitology,Companion,38.9,16,0.05,591.28,460.4,128.4
+S0376,2024-08-02,August,Q3,Quebec,QC,Montreal,CLN1062,Bowman Veterinary Clinic,Isabelle Roy,Zactran 150mg/mL,Antibiotics,Cattle,320.0,33,0.14,9081.6,11549.8,78.6
+S0499,2024-08-02,August,Q3,Atlantic Canada,NS,St. John's,CLN1101,Smith Livestock Practice,Connor MacDonald,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,1,0.01,132.66,134.38,98.7
+S0846,2024-08-02,August,Q3,Western Canada,AB,Edmonton,CLN1073,Walter Livestock Practice,Ryan Nakamura,Clomicalm 20mg,Behaviour,Companion,67.0,10,0.03,649.9,765.08,84.9
+S0987,2024-08-02,August,Q3,Ontario East,ON,Toronto,CLN1005,Doyle Mixed Practice,Sarah Mitchell,Nexgard Spectra M,Parasitology,Companion,38.9,9,0.02,343.1,353.16,97.2
+S0055,2024-08-03,August,Q3,Quebec,QC,Sherbrooke,CLN1059,Martin Mixed Practice,Isabelle Roy,Nexgard Spectra L,Parasitology,Companion,44.5,49,0.13,1897.04,1739.5,109.1
+S0162,2024-08-04,August,Q3,Western Canada,AB,Vancouver,CLN1076,Foster Veterinary Clinic,Priya Sharma,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,8,0.06,1316.0,1676.8,78.5
+S0314,2024-08-05,August,Q3,Atlantic Canada,NS,Halifax,CLN1107,Rodriguez Livestock Practice,Connor MacDonald,Vetmedin 5mg,Cardiology,Companion,89.5,20,0.07,1664.7,1966.77,84.6
+S0915,2024-08-05,August,Q3,Quebec,QC,Sherbrooke,CLN1059,Martin Mixed Practice,Isabelle Roy,Zactran 150mg/mL,Antibiotics,Cattle,320.0,29,0.06,8723.2,7723.91,112.9
+S0475,2024-08-06,August,Q3,Ontario East,ON,Belleville,CLN1022,Wolfe Mixed Practice,David Park,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,26,0.07,3240.12,3174.14,102.1
+S0419,2024-08-07,August,Q3,Ontario East,ON,Ottawa,CLN1003,Hill Animal Hospital,Sarah Mitchell,Clomicalm 20mg,Behaviour,Companion,67.0,29,0.07,1806.99,2430.59,74.3
+S0422,2024-08-07,August,Q3,Ontario East,ON,Toronto,CLN1007,Mcclain Veterinary Clinic,David Park,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,20,0.11,3115.0,3747.78,83.1
+S0620,2024-08-07,August,Q3,Ontario East,ON,Ottawa,CLN1010,Johnson Mixed Practice,Sarah Mitchell,Clomicalm 20mg,Behaviour,Companion,67.0,48,0.08,2958.72,2888.65,102.4
+S0990,2024-08-07,August,Q3,Quebec,QC,Laval,CLN1063,Hawkins Farm Supply & Vet,Marc Tremblay,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,31,0.13,8037.06,7374.02,109.0
+S0948,2024-08-08,August,Q3,Western Canada,AB,Saskatoon,CLN1079,Baker Veterinary Clinic,Priya Sharma,Clomicalm 20mg,Behaviour,Companion,67.0,42,0.07,2617.02,2188.68,119.6
+S0636,2024-08-09,August,Q3,Western Canada,AB,Calgary,CLN1074,Edwards Veterinary Clinic,Ryan Nakamura,Nexgard Spectra M,Parasitology,Companion,38.9,27,0.06,987.28,1113.78,88.6
+S0720,2024-08-09,August,Q3,Western Canada,AB,Vancouver,CLN1088,Hicks Animal Hospital,Ryan Nakamura,Vetmedin 10mg,Cardiology,Companion,142.0,47,0.04,6407.04,5711.77,112.2
+S0935,2024-08-09,August,Q3,Ontario West,ON,Burlington,CLN1041,Bush Animal Hospital,James Okafor,Vetmedin 10mg,Cardiology,Companion,142.0,35,0.1,4473.0,5920.96,75.5
+S0517,2024-08-10,August,Q3,Ontario West,ON,Burlington,CLN1028,Davis Animal Hospital,James Okafor,Clomicalm 20mg,Behaviour,Companion,67.0,3,0.06,188.94,253.74,74.5
+S0633,2024-08-10,August,Q3,Quebec,QC,Montreal,CLN1055,Wong Veterinary Clinic,Marc Tremblay,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,35,0.12,1686.3,2153.71,78.3
+S0794,2024-08-10,August,Q3,Quebec,QC,Quebec City,CLN1049,Reid Mixed Practice,Marc Tremblay,Vetmedin 5mg,Cardiology,Companion,89.5,50,0.05,4251.25,5432.57,78.3
+S0028,2024-08-11,August,Q3,Ontario East,ON,Toronto,CLN1005,Doyle Mixed Practice,Sarah Mitchell,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,28,0.05,7926.8,9685.42,81.8
+S0029,2024-08-11,August,Q3,Western Canada,AB,Calgary,CLN1078,Ellis Veterinary Clinic,Ryan Nakamura,Ingelvac CircoFLEX,Vaccines,Swine,210.0,37,0.03,7536.9,5853.4,128.8
+S0354,2024-08-11,August,Q3,Western Canada,AB,Calgary,CLN1093,Conner Veterinary Clinic,Ryan Nakamura,Zactran 150mg/mL,Antibiotics,Cattle,320.0,48,0.15,13056.0,10212.64,127.8
+S0491,2024-08-11,August,Q3,Ontario East,ON,Kingston,CLN1013,Johnson Veterinary Clinic,David Park,Nexgard Spectra M,Parasitology,Companion,38.9,21,0.02,800.56,676.07,118.4
+S0745,2024-08-11,August,Q3,Ontario West,ON,London,CLN1030,Munoz Veterinary Clinic,James Okafor,Zactran 150mg/mL,Antibiotics,Cattle,320.0,24,0.03,7449.6,9530.25,78.2
+S0952,2024-08-11,August,Q3,Western Canada,AB,Calgary,CLN1074,Edwards Veterinary Clinic,Ryan Nakamura,Zactran 150mg/mL,Antibiotics,Cattle,320.0,46,0.14,12659.2,13221.37,95.7
+S0984,2024-08-11,August,Q3,Atlantic Canada,NS,St. John's,CLN1115,Gaines Mixed Practice,Connor MacDonald,Vetmedin 10mg,Cardiology,Companion,142.0,31,0.09,4005.82,3134.97,127.8
+S0751,2024-08-12,August,Q3,Ontario East,ON,Toronto,CLN1007,Mcclain Veterinary Clinic,Sarah Mitchell,Clomicalm 20mg,Behaviour,Companion,67.0,7,0.04,450.24,371.46,121.2
+S0079,2024-08-13,August,Q3,Ontario East,ON,Kingston,CLN1017,Robinson Veterinary Clinic,David Park,Vetmedin 10mg,Cardiology,Companion,142.0,1,0.09,129.22,133.31,96.9
+S0226,2024-08-13,August,Q3,Ontario West,ON,Kitchener,CLN1043,Perez Farm Supply & Vet,Emily Chen,Vetmedin 10mg,Cardiology,Companion,142.0,24,0.07,3169.44,3137.79,101.0
+S0042,2024-08-14,August,Q3,Ontario East,ON,Toronto,CLN1018,Lawrence Livestock Practice,David Park,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,34,0.15,5057.5,5600.03,90.3
+S0617,2024-08-14,August,Q3,Ontario West,ON,Burlington,CLN1041,Bush Animal Hospital,James Okafor,Vetmedin 5mg,Cardiology,Companion,89.5,48,0.04,4124.16,4628.7,89.1
+S0741,2024-08-14,August,Q3,Quebec,QC,Quebec City,CLN1056,Lynch Animal Hospital,Isabelle Roy,Nexgard Spectra L,Parasitology,Companion,44.5,31,0.08,1269.14,1564.63,81.1
+S0154,2024-08-15,August,Q3,Atlantic Canada,NS,Fredericton,CLN1109,Chavez Animal Hospital,Fatima Hassan,Ingelvac CircoFLEX,Vaccines,Swine,210.0,44,0.02,9055.2,10661.96,84.9
+S0203,2024-08-15,August,Q3,Western Canada,AB,Calgary,CLN1093,Conner Veterinary Clinic,Priya Sharma,Vetmedin 5mg,Cardiology,Companion,89.5,27,0.05,2295.67,2712.91,84.6
+S0886,2024-08-15,August,Q3,Ontario West,ON,Kitchener,CLN1032,Blair Farm Supply & Vet,James Okafor,Vetmedin 10mg,Cardiology,Companion,142.0,20,0.09,2584.4,2463.56,104.9
+S0534,2024-08-16,August,Q3,Atlantic Canada,NS,St. John's,CLN1119,Lynch Livestock Practice,Connor MacDonald,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,2,0.04,336.0,350.54,95.9
+S0658,2024-08-16,August,Q3,Western Canada,AB,Saskatoon,CLN1085,Ross Farm Supply & Vet,Ryan Nakamura,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,44,0.02,12849.76,13601.24,94.5
+S0264,2024-08-18,August,Q3,Ontario East,ON,Toronto,CLN1007,Mcclain Veterinary Clinic,Sarah Mitchell,Nexgard Spectra L,Parasitology,Companion,44.5,36,0.04,1537.92,1509.94,101.9
+S0326,2024-08-18,August,Q3,Ontario East,ON,Toronto,CLN1018,Lawrence Livestock Practice,David Park,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,17,0.03,902.83,1027.44,87.9
+S0388,2024-08-18,August,Q3,Western Canada,AB,Vancouver,CLN1082,Baker Farm Supply & Vet,Priya Sharma,Ingelvac CircoFLEX,Vaccines,Swine,210.0,2,0.11,373.8,478.41,78.1
+S0843,2024-08-18,August,Q3,Atlantic Canada,NS,Fredericton,CLN1102,Le Veterinary Clinic,Connor MacDonald,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,47,0.02,6172.04,5051.81,122.2
+S0556,2024-08-19,August,Q3,Quebec,QC,Laval,CLN1063,Hawkins Farm Supply & Vet,Isabelle Roy,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,12,0.05,1995.0,1565.69,127.4
+S0605,2024-08-19,August,Q3,Atlantic Canada,NS,St. John's,CLN1098,Rice Animal Hospital,Connor MacDonald,Nexgard Spectra M,Parasitology,Companion,38.9,26,0.14,869.8,1158.83,75.1
+S0087,2024-08-20,August,Q3,Ontario West,ON,Kitchener,CLN1038,Montgomery Livestock Practice,James Okafor,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,19,0.11,925.82,1084.87,85.3
+S0158,2024-08-20,August,Q3,Western Canada,AB,Calgary,CLN1093,Conner Veterinary Clinic,Ryan Nakamura,Ingelvac CircoFLEX,Vaccines,Swine,210.0,29,0.13,5298.3,5289.23,100.2
+S0841,2024-08-20,August,Q3,Ontario East,ON,Toronto,CLN1024,Moore Mixed Practice,Sarah Mitchell,Ingelvac CircoFLEX,Vaccines,Swine,210.0,27,0.05,5386.5,4120.39,130.7
+S0979,2024-08-20,August,Q3,Ontario East,ON,Toronto,CLN1007,Mcclain Veterinary Clinic,David Park,Nexgard Spectra M,Parasitology,Companion,38.9,14,0.07,506.48,481.45,105.2
+S0038,2024-08-21,August,Q3,Ontario East,ON,Toronto,CLN1004,Walker Mixed Practice,Sarah Mitchell,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,31,0.09,1544.5,1870.53,82.6
+S0041,2024-08-21,August,Q3,Quebec,QC,Laval,CLN1067,Perez Mixed Practice,Isabelle Roy,Vetmedin 5mg,Cardiology,Companion,89.5,36,0.04,3093.12,3894.24,79.4
+S0833,2024-08-22,August,Q3,Ontario East,ON,Toronto,CLN1009,Henderson Mixed Practice,Sarah Mitchell,Ingelvac PRRS MLV,Vaccines,Swine,185.0,40,0.07,6882.0,6503.06,105.8
+S0848,2024-08-22,August,Q3,Ontario East,ON,Ottawa,CLN1016,Gardner Animal Hospital,Sarah Mitchell,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,1,0.09,49.82,44.93,110.9
+S0985,2024-08-22,August,Q3,Ontario East,ON,Toronto,CLN1019,Pacheco Farm Supply & Vet,Sarah Mitchell,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,30,0.03,8671.8,8447.12,102.7
+S0418,2024-08-23,August,Q3,Atlantic Canada,NS,St. John's,CLN1101,Smith Livestock Practice,Fatima Hassan,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,49,0.01,8489.25,6874.13,123.5
+S0756,2024-08-23,August,Q3,Ontario West,ON,Kitchener,CLN1032,Blair Farm Supply & Vet,Emily Chen,Ingelvac PRRS MLV,Vaccines,Swine,185.0,16,0.11,2634.4,2028.77,129.9
+S0187,2024-08-24,August,Q3,Atlantic Canada,NS,Fredericton,CLN1102,Le Veterinary Clinic,Fatima Hassan,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,4,0.05,1132.4,899.71,125.9
+S0205,2024-08-24,August,Q3,Atlantic Canada,NS,Halifax,CLN1116,Harrell Veterinary Clinic,Connor MacDonald,Nexgard Spectra L,Parasitology,Companion,44.5,44,0.14,1683.88,2257.52,74.6
+S0894,2024-08-24,August,Q3,Quebec,QC,Sherbrooke,CLN1059,Martin Mixed Practice,Isabelle Roy,Vetmedin 5mg,Cardiology,Companion,89.5,5,0.07,416.17,399.88,104.1
+S0067,2024-08-25,August,Q3,Atlantic Canada,NS,Fredericton,CLN1110,Mckay Mixed Practice,Connor MacDonald,Vetmedin 10mg,Cardiology,Companion,142.0,18,0.13,2223.72,1993.16,111.6
+S0551,2024-08-25,August,Q3,Western Canada,AB,Calgary,CLN1096,James Mixed Practice,Priya Sharma,Ingelvac CircoFLEX,Vaccines,Swine,210.0,22,0.06,4342.8,4782.91,90.8
+S0332,2024-08-26,August,Q3,Quebec,QC,Sherbrooke,CLN1060,Gray Mixed Practice,Isabelle Roy,Nexgard Spectra M,Parasitology,Companion,38.9,17,0.05,628.23,803.94,78.1
+S0453,2024-08-26,August,Q3,Ontario East,ON,Toronto,CLN1023,Peterson Livestock Practice,Sarah Mitchell,Zactran 150mg/mL,Antibiotics,Cattle,320.0,3,0.14,825.6,653.34,126.4
+S0891,2024-08-26,August,Q3,Quebec,QC,Sherbrooke,CLN1060,Gray Mixed Practice,Marc Tremblay,Ingelvac PRRS MLV,Vaccines,Swine,185.0,20,0.1,3330.0,3916.51,85.0
+S0768,2024-08-27,August,Q3,Quebec,QC,Laval,CLN1063,Hawkins Farm Supply & Vet,Marc Tremblay,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,12,0.08,3289.92,3106.37,105.9
+S0777,2024-08-27,August,Q3,Atlantic Canada,NS,St. John's,CLN1120,Hernandez Animal Hospital,Connor MacDonald,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,32,0.14,4816.0,6016.37,80.0
+S0086,2024-08-28,August,Q3,Ontario East,ON,Toronto,CLN1023,Peterson Livestock Practice,Sarah Mitchell,Clomicalm 20mg,Behaviour,Companion,67.0,1,0.06,62.98,73.28,85.9
+S0204,2024-08-28,August,Q3,Western Canada,AB,Saskatoon,CLN1079,Baker Veterinary Clinic,Priya Sharma,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,29,0.04,3730.56,3333.26,111.9
+S0754,2024-08-28,August,Q3,Ontario East,ON,Belleville,CLN1011,Robinson Animal Hospital,Sarah Mitchell,Vetmedin 5mg,Cardiology,Companion,89.5,18,0.12,1417.68,1123.98,126.1
+S0104,2024-08-29,August,Q3,Quebec,QC,Montreal,CLN1064,Cohen Farm Supply & Vet,Isabelle Roy,Zactran 150mg/mL,Antibiotics,Cattle,320.0,46,0.04,14131.2,17675.79,79.9
+S0212,2024-08-29,August,Q3,Atlantic Canada,NS,Moncton,CLN1108,Graham Veterinary Clinic,Fatima Hassan,Clomicalm 20mg,Behaviour,Companion,67.0,9,0.01,596.97,776.32,76.9
+S0286,2024-08-29,August,Q3,Ontario East,ON,Toronto,CLN1007,Mcclain Veterinary Clinic,Sarah Mitchell,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,15,0.01,2598.75,2593.5,100.2
+S0035,2024-08-30,August,Q3,Western Canada,AB,Vancouver,CLN1084,Hurst Farm Supply & Vet,Priya Sharma,Ingelvac PRRS MLV,Vaccines,Swine,185.0,29,0.07,4989.45,4381.84,113.9
+S0110,2024-08-30,August,Q3,Western Canada,AB,Calgary,CLN1074,Edwards Veterinary Clinic,Priya Sharma,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,50,0.06,2573.25,2421.19,106.3
+S0721,2024-08-30,August,Q3,Atlantic Canada,NS,Fredericton,CLN1110,Mckay Mixed Practice,Fatima Hassan,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,10,0.12,481.8,574.85,83.8
+S0043,2024-08-31,August,Q3,Western Canada,AB,Saskatoon,CLN1079,Baker Veterinary Clinic,Priya Sharma,Zactran 150mg/mL,Antibiotics,Cattle,320.0,29,0.13,8073.6,9657.59,83.6
+S0514,2024-08-31,August,Q3,Ontario East,ON,Ottawa,CLN1008,Miller Animal Hospital,David Park,Zactran 150mg/mL,Antibiotics,Cattle,320.0,27,0.14,7430.4,8635.91,86.0
+S0626,2024-08-31,August,Q3,Ontario West,ON,Kitchener,CLN1043,Perez Farm Supply & Vet,Emily Chen,Nexgard Spectra M,Parasitology,Companion,38.9,14,0.14,468.36,525.02,89.2
+S0724,2024-08-31,August,Q3,Quebec,QC,Sherbrooke,CLN1051,Wood Mixed Practice,Marc Tremblay,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,11,0.01,1459.26,1806.99,80.8
+S0932,2024-08-31,August,Q3,Atlantic Canada,NS,Fredericton,CLN1097,Ferrell Farm Supply & Vet,Connor MacDonald,Vetmedin 5mg,Cardiology,Companion,89.5,11,0.07,915.58,948.3,96.5
+S0277,2024-09-01,September,Q3,Western Canada,AB,Vancouver,CLN1091,Rodriguez Mixed Practice,Ryan Nakamura,Zactran 150mg/mL,Antibiotics,Cattle,320.0,14,0.08,4121.6,5559.52,74.1
+S0713,2024-09-01,September,Q3,Quebec,QC,Sherbrooke,CLN1051,Wood Mixed Practice,Marc Tremblay,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,9,0.01,2655.18,3264.71,81.3
+S0153,2024-09-02,September,Q3,Quebec,QC,Laval,CLN1067,Perez Mixed Practice,Isabelle Roy,Ingelvac PRRS MLV,Vaccines,Swine,185.0,42,0.14,6682.2,5255.52,127.1
+S0243,2024-09-02,September,Q3,Ontario East,ON,Kingston,CLN1017,Robinson Veterinary Clinic,Sarah Mitchell,Vetmedin 10mg,Cardiology,Companion,142.0,20,0.06,2669.6,3150.56,84.7
+S0369,2024-09-02,September,Q3,Western Canada,AB,Vancouver,CLN1077,Rocha Mixed Practice,Ryan Nakamura,Nexgard Spectra M,Parasitology,Companion,38.9,21,0.09,743.38,867.65,85.7
+S0477,2024-09-02,September,Q3,Ontario East,ON,Toronto,CLN1005,Doyle Mixed Practice,Sarah Mitchell,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,19,0.07,3092.25,3957.05,78.1
+S0500,2024-09-02,September,Q3,Ontario East,ON,Belleville,CLN1022,Wolfe Mixed Practice,David Park,Ingelvac PRRS MLV,Vaccines,Swine,185.0,25,0.05,4393.75,4284.82,102.5
+S0651,2024-09-02,September,Q3,Western Canada,AB,Vancouver,CLN1092,Burton Veterinary Clinic,Priya Sharma,Nexgard Spectra M,Parasitology,Companion,38.9,24,0.02,914.93,1088.57,84.0
+S0673,2024-09-03,September,Q3,Atlantic Canada,NS,Halifax,CLN1106,Davidson Veterinary Clinic,Fatima Hassan,Vetmedin 10mg,Cardiology,Companion,142.0,14,0.07,1848.84,2487.92,74.3
+S0953,2024-09-03,September,Q3,Quebec,QC,Sherbrooke,CLN1052,Clark Farm Supply & Vet,Marc Tremblay,Zactran 150mg/mL,Antibiotics,Cattle,320.0,15,0.0,4800.0,6347.97,75.6
+S0503,2024-09-04,September,Q3,Ontario East,ON,Kingston,CLN1021,Shaffer Veterinary Clinic,Sarah Mitchell,Zactran 150mg/mL,Antibiotics,Cattle,320.0,6,0.05,1824.0,2446.29,74.6
+S0659,2024-09-04,September,Q3,Ontario East,ON,Kingston,CLN1021,Shaffer Veterinary Clinic,Sarah Mitchell,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,37,0.1,9923.4,13204.49,75.2
+S0876,2024-09-04,September,Q3,Atlantic Canada,NS,St. John's,CLN1101,Smith Livestock Practice,Connor MacDonald,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,6,0.07,305.5,233.7,130.7
+S0044,2024-09-05,September,Q3,Quebec,QC,Montreal,CLN1058,Daniel Livestock Practice,Isabelle Roy,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,41,0.04,2154.96,2621.73,82.2
+S0171,2024-09-05,September,Q3,Atlantic Canada,NS,Fredericton,CLN1097,Ferrell Farm Supply & Vet,Connor MacDonald,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,6,0.04,1008.0,1156.34,87.2
+S0398,2024-09-05,September,Q3,Atlantic Canada,NS,Moncton,CLN1108,Graham Veterinary Clinic,Fatima Hassan,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,4,0.13,1037.04,1370.04,75.7
+S0417,2024-09-05,September,Q3,Atlantic Canada,NS,Halifax,CLN1107,Rodriguez Livestock Practice,Fatima Hassan,Nexgard Spectra L,Parasitology,Companion,44.5,36,0.09,1457.82,1588.56,91.8
+S0479,2024-09-05,September,Q3,Ontario West,ON,Kitchener,CLN1032,Blair Farm Supply & Vet,James Okafor,Ingelvac CircoFLEX,Vaccines,Swine,210.0,46,0.05,9177.0,9880.97,92.9
+S0529,2024-09-05,September,Q3,Western Canada,AB,Calgary,CLN1078,Ellis Veterinary Clinic,Ryan Nakamura,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,29,0.03,1540.12,1916.5,80.4
+S0068,2024-09-06,September,Q3,Western Canada,AB,Edmonton,CLN1073,Walter Livestock Practice,Priya Sharma,Nexgard Spectra L,Parasitology,Companion,44.5,2,0.07,82.77,78.22,105.8
+S0070,2024-09-07,September,Q3,Quebec,QC,Montreal,CLN1072,Hahn Mixed Practice,Marc Tremblay,Zactran 150mg/mL,Antibiotics,Cattle,320.0,13,0.01,4118.4,4868.13,84.6
+S0563,2024-09-07,September,Q3,Western Canada,AB,Vancouver,CLN1077,Rocha Mixed Practice,Priya Sharma,Ingelvac CircoFLEX,Vaccines,Swine,210.0,44,0.15,7854.0,7505.59,104.6
+S0095,2024-09-08,September,Q3,Quebec,QC,Laval,CLN1061,Mayo Mixed Practice,Isabelle Roy,Nexgard Spectra M,Parasitology,Companion,38.9,12,0.15,396.78,401.36,98.9
+S0356,2024-09-08,September,Q3,Atlantic Canada,NS,St. John's,CLN1100,Valencia Animal Hospital,Fatima Hassan,Vetmedin 5mg,Cardiology,Companion,89.5,41,0.04,3522.72,4740.0,74.3
+S0370,2024-09-08,September,Q3,Ontario West,ON,Burlington,CLN1041,Bush Animal Hospital,James Okafor,Ingelvac CircoFLEX,Vaccines,Swine,210.0,21,0.04,4233.6,4940.5,85.7
+S0743,2024-09-08,September,Q3,Atlantic Canada,NS,St. John's,CLN1105,Adams Livestock Practice,Connor MacDonald,Nexgard Spectra L,Parasitology,Companion,44.5,19,0.07,786.31,593.66,132.5
+S0830,2024-09-08,September,Q3,Atlantic Canada,NS,Fredericton,CLN1109,Chavez Animal Hospital,Fatima Hassan,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,42,0.06,5290.32,6672.56,79.3
+S0139,2024-09-09,September,Q3,Ontario West,ON,Windsor,CLN1039,Hensley Mixed Practice,Emily Chen,Vetmedin 10mg,Cardiology,Companion,142.0,9,0.01,1265.22,977.16,129.5
+S0485,2024-09-09,September,Q3,Ontario East,ON,Toronto,CLN1004,Walker Mixed Practice,David Park,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,37,0.02,10805.48,14252.66,75.8
+S0861,2024-09-11,September,Q3,Ontario West,ON,Kitchener,CLN1046,Hall Livestock Practice,James Okafor,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,37,0.07,10254.18,12176.95,84.2
+S0965,2024-09-11,September,Q3,Quebec,QC,Sherbrooke,CLN1059,Martin Mixed Practice,Marc Tremblay,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,5,0.12,1311.2,1067.05,122.9
+S0259,2024-09-12,September,Q3,Atlantic Canada,NS,St. John's,CLN1105,Adams Livestock Practice,Fatima Hassan,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,47,0.05,13305.7,16071.59,82.8
+S0959,2024-09-12,September,Q3,Ontario West,ON,Kitchener,CLN1031,Roman Farm Supply & Vet,Emily Chen,Ingelvac CircoFLEX,Vaccines,Swine,210.0,5,0.12,924.0,1049.71,88.0
+S0176,2024-09-13,September,Q3,Quebec,QC,Montreal,CLN1064,Cohen Farm Supply & Vet,Isabelle Roy,Clomicalm 20mg,Behaviour,Companion,67.0,9,0.06,566.82,664.43,85.3
+S0817,2024-09-13,September,Q3,Ontario West,ON,Kitchener,CLN1046,Hall Livestock Practice,Emily Chen,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,20,0.04,3360.0,4492.14,74.8
+S0916,2024-09-13,September,Q3,Western Canada,AB,Calgary,CLN1078,Ellis Veterinary Clinic,Ryan Nakamura,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,32,0.13,8296.32,7400.73,112.1
+S0004,2024-09-14,September,Q3,Western Canada,AB,Calgary,CLN1095,Brown Farm Supply & Vet,Ryan Nakamura,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,21,0.01,2785.86,3065.86,90.9
+S0829,2024-09-14,September,Q3,Western Canada,AB,Vancouver,CLN1088,Hicks Animal Hospital,Ryan Nakamura,Nexgard Spectra L,Parasitology,Companion,44.5,6,0.1,240.3,248.94,96.5
+S0783,2024-09-15,September,Q3,Quebec,QC,Sherbrooke,CLN1059,Martin Mixed Practice,Isabelle Roy,Vetmedin 10mg,Cardiology,Companion,142.0,11,0.12,1374.56,1484.5,92.6
+S0992,2024-09-15,September,Q3,Ontario East,ON,Kingston,CLN1020,Smith Mixed Practice,Sarah Mitchell,Ingelvac CircoFLEX,Vaccines,Swine,210.0,3,0.01,623.7,643.9,96.9
+S0063,2024-09-16,September,Q3,Atlantic Canada,NS,Fredericton,CLN1102,Le Veterinary Clinic,Connor MacDonald,Nexgard Spectra L,Parasitology,Companion,44.5,35,0.06,1464.05,1423.56,102.8
+S0163,2024-09-16,September,Q3,Atlantic Canada,NS,St. John's,CLN1112,Baker Animal Hospital,Connor MacDonald,Nexgard Spectra M,Parasitology,Companion,38.9,39,0.05,1441.24,1170.52,123.1
+S0590,2024-09-16,September,Q3,Atlantic Canada,NS,Fredericton,CLN1097,Ferrell Farm Supply & Vet,Fatima Hassan,Nexgard Spectra L,Parasitology,Companion,44.5,16,0.05,676.4,620.19,109.1
+S0976,2024-09-16,September,Q3,Quebec,QC,Quebec City,CLN1068,Johnson Mixed Practice,Marc Tremblay,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,24,0.13,6222.24,8350.68,74.5
+S0105,2024-09-17,September,Q3,Ontario West,ON,Kitchener,CLN1032,Blair Farm Supply & Vet,Emily Chen,Zactran 150mg/mL,Antibiotics,Cattle,320.0,10,0.06,3008.0,3919.79,76.7
+S0895,2024-09-17,September,Q3,Atlantic Canada,NS,Fredericton,CLN1109,Chavez Animal Hospital,Connor MacDonald,Nexgard Spectra M,Parasitology,Companion,38.9,50,0.05,1847.75,2022.93,91.3
+S0402,2024-09-18,September,Q3,Atlantic Canada,NS,St. John's,CLN1100,Valencia Animal Hospital,Fatima Hassan,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,48,0.12,12587.52,13181.5,95.5
+S0844,2024-09-18,September,Q3,Western Canada,AB,Vancouver,CLN1082,Baker Farm Supply & Vet,Priya Sharma,Vetmedin 10mg,Cardiology,Companion,142.0,34,0.11,4296.92,5096.68,84.3
+S0606,2024-09-19,September,Q3,Atlantic Canada,NS,Moncton,CLN1104,Herrera Livestock Practice,Connor MacDonald,Clomicalm 20mg,Behaviour,Companion,67.0,27,0.09,1646.19,2110.19,78.0
+S0664,2024-09-21,September,Q3,Western Canada,AB,Vancouver,CLN1084,Hurst Farm Supply & Vet,Priya Sharma,Nexgard Spectra L,Parasitology,Companion,44.5,38,0.1,1521.9,1904.33,79.9
+S0839,2024-09-21,September,Q3,Quebec,QC,Sherbrooke,CLN1060,Gray Mixed Practice,Marc Tremblay,Ingelvac CircoFLEX,Vaccines,Swine,210.0,19,0.09,3630.9,2842.01,127.8
+S0878,2024-09-21,September,Q3,Ontario West,ON,London,CLN1040,Ray Farm Supply & Vet,Emily Chen,Clomicalm 20mg,Behaviour,Companion,67.0,50,0.13,2914.5,3623.55,80.4
+S0099,2024-09-22,September,Q3,Atlantic Canada,NS,St. John's,CLN1111,Liu Animal Hospital,Connor MacDonald,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,35,0.07,5696.25,4457.44,127.8
+S0227,2024-09-22,September,Q3,Atlantic Canada,NS,St. John's,CLN1115,Gaines Mixed Practice,Fatima Hassan,Nexgard Spectra L,Parasitology,Companion,44.5,12,0.07,496.62,520.71,95.4
+S0236,2024-09-22,September,Q3,Western Canada,AB,Vancouver,CLN1084,Hurst Farm Supply & Vet,Priya Sharma,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,8,0.0,438.0,377.39,116.1
+S0380,2024-09-22,September,Q3,Atlantic Canada,NS,Fredericton,CLN1102,Le Veterinary Clinic,Fatima Hassan,Vetmedin 10mg,Cardiology,Companion,142.0,1,0.01,140.58,124.16,113.2
+S0694,2024-09-22,September,Q3,Western Canada,AB,Vancouver,CLN1082,Baker Farm Supply & Vet,Priya Sharma,Ingelvac PRRS MLV,Vaccines,Swine,185.0,1,0.03,179.45,205.31,87.4
+S0697,2024-09-22,September,Q3,Ontario West,ON,London,CLN1036,Arnold Mixed Practice,Emily Chen,Nexgard Spectra L,Parasitology,Companion,44.5,43,0.06,1798.69,1981.52,90.8
+S0320,2024-09-23,September,Q3,Ontario West,ON,Burlington,CLN1041,Bush Animal Hospital,Emily Chen,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,20,0.13,952.65,1277.9,74.5
+S0383,2024-09-23,September,Q3,Ontario East,ON,Kingston,CLN1015,Santos Farm Supply & Vet,Sarah Mitchell,Nexgard Spectra L,Parasitology,Companion,44.5,20,0.05,845.5,1031.99,81.9
+S0460,2024-09-23,September,Q3,Western Canada,AB,Vancouver,CLN1092,Burton Veterinary Clinic,Priya Sharma,Vetmedin 10mg,Cardiology,Companion,142.0,3,0.14,366.36,472.01,77.6
+S0519,2024-09-23,September,Q3,Ontario East,ON,Belleville,CLN1012,Wagner Mixed Practice,David Park,Zactran 150mg/mL,Antibiotics,Cattle,320.0,26,0.08,7654.4,9674.97,79.1
+S0562,2024-09-23,September,Q3,Ontario East,ON,Belleville,CLN1022,Wolfe Mixed Practice,Sarah Mitchell,Vetmedin 5mg,Cardiology,Companion,89.5,20,0.14,1539.4,1575.66,97.7
+S0870,2024-09-23,September,Q3,Atlantic Canada,NS,St. John's,CLN1115,Gaines Mixed Practice,Fatima Hassan,Ingelvac PRRS MLV,Vaccines,Swine,185.0,27,0.14,4295.7,3366.17,127.6
+S0007,2024-09-24,September,Q3,Western Canada,AB,Vancouver,CLN1077,Rocha Mixed Practice,Ryan Nakamura,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,6,0.06,1680.72,1849.13,90.9
+S0597,2024-09-24,September,Q3,Ontario East,ON,Toronto,CLN1001,Fowler Veterinary Clinic,David Park,Nexgard Spectra L,Parasitology,Companion,44.5,41,0.14,1569.07,1451.69,108.1
+S0742,2024-09-24,September,Q3,Ontario West,ON,London,CLN1040,Ray Farm Supply & Vet,Emily Chen,Ingelvac CircoFLEX,Vaccines,Swine,210.0,17,0.02,3498.6,2646.11,132.2
+S0773,2024-09-24,September,Q3,Western Canada,AB,Saskatoon,CLN1079,Baker Veterinary Clinic,Priya Sharma,Nexgard Spectra L,Parasitology,Companion,44.5,27,0.1,1081.35,882.68,122.5
+S0879,2024-09-24,September,Q3,Western Canada,AB,Saskatoon,CLN1087,Bright Veterinary Clinic,Ryan Nakamura,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,47,0.01,2547.52,2503.07,101.8
+S0989,2024-09-24,September,Q3,Western Canada,AB,Saskatoon,CLN1079,Baker Veterinary Clinic,Ryan Nakamura,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,36,0.13,9333.36,7484.28,124.7
+S0076,2024-09-25,September,Q3,Ontario East,ON,Toronto,CLN1024,Moore Mixed Practice,Sarah Mitchell,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,48,0.07,2444.04,2895.58,84.4
+S0585,2024-09-25,September,Q3,Ontario East,ON,Toronto,CLN1009,Henderson Mixed Practice,David Park,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,21,0.0,3675.0,4670.92,78.7
+S0877,2024-09-25,September,Q3,Atlantic Canada,NS,Halifax,CLN1116,Harrell Veterinary Clinic,Connor MacDonald,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,22,0.14,1035.87,1232.13,84.1
+S0150,2024-09-26,September,Q3,Ontario West,ON,Burlington,CLN1042,Williams Farm Supply & Vet,James Okafor,Clomicalm 20mg,Behaviour,Companion,67.0,17,0.01,1127.61,1347.53,83.7
+S0478,2024-09-26,September,Q3,Ontario East,ON,Ottawa,CLN1008,Miller Animal Hospital,Sarah Mitchell,Nexgard Spectra M,Parasitology,Companion,38.9,25,0.02,953.05,828.84,115.0
+S0857,2024-09-26,September,Q3,Ontario West,ON,Kitchener,CLN1038,Montgomery Livestock Practice,Emily Chen,Clomicalm 20mg,Behaviour,Companion,67.0,8,0.1,482.4,441.23,109.3
+S0214,2024-09-27,September,Q3,Ontario East,ON,Ottawa,CLN1003,Hill Animal Hospital,David Park,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,10,0.08,503.7,597.56,84.3
+S0391,2024-09-27,September,Q3,Ontario West,ON,Burlington,CLN1042,Williams Farm Supply & Vet,James Okafor,Ingelvac PRRS MLV,Vaccines,Swine,185.0,8,0.04,1420.8,1800.98,78.9
+S0434,2024-09-27,September,Q3,Quebec,QC,Montreal,CLN1064,Cohen Farm Supply & Vet,Isabelle Roy,Vetmedin 10mg,Cardiology,Companion,142.0,16,0.07,2112.96,2337.69,90.4
+S0325,2024-09-28,September,Q3,Ontario East,ON,Toronto,CLN1019,Pacheco Farm Supply & Vet,David Park,Vetmedin 5mg,Cardiology,Companion,89.5,36,0.06,3028.68,3028.39,100.0
+S0553,2024-09-28,September,Q3,Ontario East,ON,Ottawa,CLN1010,Johnson Mixed Practice,David Park,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,33,0.02,1770.62,2051.12,86.3
+S0815,2024-09-28,September,Q3,Ontario West,ON,Windsor,CLN1026,Rogers Mixed Practice,Emily Chen,Zactran 150mg/mL,Antibiotics,Cattle,320.0,46,0.0,14720.0,13224.97,111.3
+S0115,2024-09-30,September,Q3,Western Canada,AB,Calgary,CLN1089,Davis Farm Supply & Vet,Priya Sharma,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,6,0.13,913.5,1152.29,79.3
+S0631,2024-09-30,September,Q3,Quebec,QC,Sherbrooke,CLN1066,Parsons Veterinary Clinic,Marc Tremblay,Vetmedin 10mg,Cardiology,Companion,142.0,11,0.15,1327.7,1611.82,82.4
+S0026,2024-10-01,October,Q4,Atlantic Canada,NS,St. John's,CLN1111,Liu Animal Hospital,Connor MacDonald,Nexgard Spectra M,Parasitology,Companion,38.9,23,0.1,805.23,797.02,101.0
+S0216,2024-10-01,October,Q4,Western Canada,AB,Vancouver,CLN1082,Baker Farm Supply & Vet,Priya Sharma,Vetmedin 10mg,Cardiology,Companion,142.0,8,0.13,988.32,1037.63,95.2
+S0522,2024-10-01,October,Q4,Atlantic Canada,NS,St. John's,CLN1119,Lynch Livestock Practice,Connor MacDonald,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,50,0.02,14602.0,13458.02,108.5
+S0835,2024-10-01,October,Q4,Western Canada,AB,Calgary,CLN1093,Conner Veterinary Clinic,Priya Sharma,Ingelvac CircoFLEX,Vaccines,Swine,210.0,40,0.14,7224.0,7896.99,91.5
+S0869,2024-10-01,October,Q4,Western Canada,AB,Saskatoon,CLN1083,Richards Animal Hospital,Ryan Nakamura,Ingelvac PRRS MLV,Vaccines,Swine,185.0,10,0.09,1683.5,2163.69,77.8
+S0284,2024-10-02,October,Q4,Ontario West,ON,Windsor,CLN1045,Miller Animal Hospital,Emily Chen,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,17,0.11,2647.75,2325.76,113.8
+S0701,2024-10-02,October,Q4,Quebec,QC,Sherbrooke,CLN1065,Cameron Animal Hospital,Isabelle Roy,Nexgard Spectra L,Parasitology,Companion,44.5,8,0.12,313.28,414.79,75.5
+S0200,2024-10-03,October,Q4,Ontario East,ON,Toronto,CLN1018,Lawrence Livestock Practice,Sarah Mitchell,Vetmedin 10mg,Cardiology,Companion,142.0,19,0.13,2347.26,1902.89,123.4
+S0318,2024-10-03,October,Q4,Western Canada,AB,Vancouver,CLN1091,Rodriguez Mixed Practice,Ryan Nakamura,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,48,0.01,2601.72,2636.52,98.7
+S0655,2024-10-03,October,Q4,Quebec,QC,Sherbrooke,CLN1052,Clark Farm Supply & Vet,Marc Tremblay,Vetmedin 5mg,Cardiology,Companion,89.5,36,0.04,3093.12,3978.96,77.7
+S0116,2024-10-04,October,Q4,Quebec,QC,Quebec City,CLN1049,Reid Mixed Practice,Isabelle Roy,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,46,0.13,7003.5,7303.03,95.9
+S0338,2024-10-04,October,Q4,Ontario East,ON,Belleville,CLN1022,Wolfe Mixed Practice,Sarah Mitchell,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,35,0.07,4361.7,5670.82,76.9
+S0403,2024-10-04,October,Q4,Ontario East,ON,Kingston,CLN1015,Santos Farm Supply & Vet,Sarah Mitchell,Nexgard Spectra M,Parasitology,Companion,38.9,50,0.08,1789.4,2405.91,74.4
+S0613,2024-10-04,October,Q4,Western Canada,AB,Vancouver,CLN1088,Hicks Animal Hospital,Priya Sharma,Clomicalm 20mg,Behaviour,Companion,67.0,4,0.1,241.2,223.61,107.9
+S0710,2024-10-04,October,Q4,Ontario East,ON,Ottawa,CLN1016,Gardner Animal Hospital,Sarah Mitchell,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,43,0.07,6998.25,5276.5,132.6
+S0822,2024-10-04,October,Q4,Ontario West,ON,Kitchener,CLN1043,Perez Farm Supply & Vet,Emily Chen,Zactran 150mg/mL,Antibiotics,Cattle,320.0,9,0.03,2793.6,2327.48,120.0
+S0011,2024-10-05,October,Q4,Atlantic Canada,NS,Moncton,CLN1113,Mason Livestock Practice,Connor MacDonald,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,24,0.04,1261.44,1277.73,98.7
+S0278,2024-10-06,October,Q4,Quebec,QC,Quebec City,CLN1068,Johnson Mixed Practice,Isabelle Roy,Nexgard Spectra L,Parasitology,Companion,44.5,12,0.07,496.62,531.32,93.5
+S0897,2024-10-07,October,Q4,Quebec,QC,Montreal,CLN1069,Stewart Farm Supply & Vet,Isabelle Roy,Ingelvac CircoFLEX,Vaccines,Swine,210.0,38,0.06,7501.2,8420.28,89.1
+S0073,2024-10-08,October,Q4,Ontario West,ON,Windsor,CLN1048,Ramirez Animal Hospital,Emily Chen,Zactran 150mg/mL,Antibiotics,Cattle,320.0,34,0.05,10336.0,13932.71,74.2
+S0097,2024-10-08,October,Q4,Ontario West,ON,Kitchener,CLN1043,Perez Farm Supply & Vet,Emily Chen,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,32,0.04,4116.48,5421.88,75.9
+S0100,2024-10-08,October,Q4,Ontario West,ON,Kitchener,CLN1047,Garcia Animal Hospital,Emily Chen,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,29,0.11,4516.75,3939.22,114.7
+S0689,2024-10-08,October,Q4,Ontario East,ON,Kingston,CLN1021,Shaffer Veterinary Clinic,Sarah Mitchell,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,33,0.06,1698.34,1618.62,104.9
+S0758,2024-10-08,October,Q4,Ontario West,ON,London,CLN1040,Ray Farm Supply & Vet,Emily Chen,Clomicalm 20mg,Behaviour,Companion,67.0,41,0.11,2444.83,2926.06,83.6
+S0108,2024-10-09,October,Q4,Western Canada,AB,Saskatoon,CLN1085,Ross Farm Supply & Vet,Priya Sharma,Clomicalm 20mg,Behaviour,Companion,67.0,29,0.08,1787.56,1710.83,104.5
+S0157,2024-10-09,October,Q4,Quebec,QC,Quebec City,CLN1056,Lynch Animal Hospital,Marc Tremblay,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,8,0.13,932.64,1063.72,87.7
+S0242,2024-10-09,October,Q4,Ontario West,ON,Kitchener,CLN1031,Roman Farm Supply & Vet,Emily Chen,Vetmedin 5mg,Cardiology,Companion,89.5,24,0.08,1976.16,1919.54,102.9
+S0245,2024-10-09,October,Q4,Ontario East,ON,Ottawa,CLN1010,Johnson Mixed Practice,David Park,Ingelvac PRRS MLV,Vaccines,Swine,185.0,44,0.08,7488.8,6193.24,120.9
+S0012,2024-10-10,October,Q4,Western Canada,AB,Vancouver,CLN1091,Rodriguez Mixed Practice,Priya Sharma,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,42,0.08,11514.72,13250.19,86.9
+S0013,2024-10-10,October,Q4,Ontario West,ON,Windsor,CLN1039,Hensley Mixed Practice,James Okafor,Clomicalm 20mg,Behaviour,Companion,67.0,17,0.02,1116.22,908.85,122.8
+S0146,2024-10-10,October,Q4,Ontario East,ON,Toronto,CLN1007,Mcclain Veterinary Clinic,David Park,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,9,0.12,433.62,378.6,114.5
+S0207,2024-10-10,October,Q4,Atlantic Canada,NS,Halifax,CLN1103,Maldonado Livestock Practice,Connor MacDonald,Nexgard Spectra M,Parasitology,Companion,38.9,4,0.1,140.04,178.48,78.5
+S0505,2024-10-10,October,Q4,Ontario East,ON,Toronto,CLN1007,Mcclain Veterinary Clinic,Sarah Mitchell,Nexgard Spectra L,Parasitology,Companion,44.5,14,0.15,529.55,527.2,100.4
+S0513,2024-10-10,October,Q4,Ontario East,ON,Belleville,CLN1011,Robinson Animal Hospital,David Park,Zactran 150mg/mL,Antibiotics,Cattle,320.0,27,0.15,7344.0,8106.57,90.6
+S0002,2024-10-11,October,Q4,Atlantic Canada,NS,St. John's,CLN1119,Lynch Livestock Practice,Fatima Hassan,Nexgard Spectra M,Parasitology,Companion,38.9,28,0.1,980.28,1164.87,84.2
+S0164,2024-10-11,October,Q4,Ontario West,ON,Burlington,CLN1028,Davis Animal Hospital,James Okafor,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,31,0.03,5262.25,4288.37,122.7
+S0279,2024-10-12,October,Q4,Ontario West,ON,Kitchener,CLN1046,Hall Livestock Practice,Emily Chen,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,31,0.03,8960.86,8046.06,111.4
+S0361,2024-10-12,October,Q4,Atlantic Canada,NS,St. John's,CLN1098,Rice Animal Hospital,Fatima Hassan,Vetmedin 10mg,Cardiology,Companion,142.0,9,0.01,1265.22,1276.09,99.1
+S0824,2024-10-12,October,Q4,Quebec,QC,Quebec City,CLN1056,Lynch Animal Hospital,Marc Tremblay,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,37,0.14,5568.5,5237.16,106.3
+S0837,2024-10-12,October,Q4,Atlantic Canada,NS,Moncton,CLN1113,Mason Livestock Practice,Connor MacDonald,Zactran 150mg/mL,Antibiotics,Cattle,320.0,35,0.06,10528.0,12539.92,84.0
+S0020,2024-10-13,October,Q4,Atlantic Canada,NS,Halifax,CLN1116,Harrell Veterinary Clinic,Fatima Hassan,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,44,0.04,2312.64,1877.11,123.2
+S0196,2024-10-13,October,Q4,Ontario West,ON,London,CLN1040,Ray Farm Supply & Vet,Emily Chen,Clomicalm 20mg,Behaviour,Companion,67.0,39,0.11,2325.57,1862.39,124.9
+S0549,2024-10-13,October,Q4,Atlantic Canada,NS,Moncton,CLN1113,Mason Livestock Practice,Connor MacDonald,Nexgard Spectra M,Parasitology,Companion,38.9,7,0.07,253.24,302.51,83.7
+S0725,2024-10-13,October,Q4,Atlantic Canada,NS,Moncton,CLN1108,Graham Veterinary Clinic,Connor MacDonald,Ingelvac PRRS MLV,Vaccines,Swine,185.0,48,0.05,8436.0,8154.05,103.5
+S0137,2024-10-14,October,Q4,Quebec,QC,Quebec City,CLN1049,Reid Mixed Practice,Isabelle Roy,Vetmedin 10mg,Cardiology,Companion,142.0,44,0.04,5998.08,4588.62,130.7
+S0165,2024-10-14,October,Q4,Ontario West,ON,Windsor,CLN1048,Ramirez Animal Hospital,James Okafor,Nexgard Spectra M,Parasitology,Companion,38.9,37,0.03,1396.12,1406.55,99.3
+S0614,2024-10-14,October,Q4,Ontario East,ON,Toronto,CLN1005,Doyle Mixed Practice,David Park,Ingelvac PRRS MLV,Vaccines,Swine,185.0,7,0.09,1178.45,1361.48,86.6
+S0854,2024-10-14,October,Q4,Ontario East,ON,Kingston,CLN1021,Shaffer Veterinary Clinic,David Park,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,43,0.1,11532.6,12766.37,90.3
+S0184,2024-10-15,October,Q4,Ontario East,ON,Kingston,CLN1020,Smith Mixed Practice,Sarah Mitchell,Clomicalm 20mg,Behaviour,Companion,67.0,50,0.09,3048.5,3134.99,97.2
+S0304,2024-10-15,October,Q4,Atlantic Canada,NS,Fredericton,CLN1097,Ferrell Farm Supply & Vet,Connor MacDonald,Zactran 150mg/mL,Antibiotics,Cattle,320.0,29,0.08,8537.6,8256.46,103.4
+S0307,2024-10-15,October,Q4,Atlantic Canada,NS,Halifax,CLN1116,Harrell Veterinary Clinic,Fatima Hassan,Vetmedin 5mg,Cardiology,Companion,89.5,30,0.02,2631.3,2629.34,100.1
+S0333,2024-10-15,October,Q4,Ontario East,ON,Kingston,CLN1013,Johnson Veterinary Clinic,David Park,Nexgard Spectra L,Parasitology,Companion,44.5,14,0.06,585.62,584.66,100.2
+S0740,2024-10-15,October,Q4,Western Canada,AB,Calgary,CLN1090,Williams Mixed Practice,Ryan Nakamura,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,39,0.07,10808.46,12963.09,83.4
+S0120,2024-10-16,October,Q4,Ontario West,ON,Kitchener,CLN1038,Montgomery Livestock Practice,Emily Chen,Nexgard Spectra L,Parasitology,Companion,44.5,28,0.02,1221.08,1304.97,93.6
+S0167,2024-10-16,October,Q4,Ontario West,ON,Windsor,CLN1035,Gray Veterinary Clinic,Emily Chen,Nexgard Spectra L,Parasitology,Companion,44.5,23,0.0,1023.5,1301.81,78.6
+S0796,2024-10-16,October,Q4,Western Canada,AB,Vancouver,CLN1082,Baker Farm Supply & Vet,Priya Sharma,Vetmedin 5mg,Cardiology,Companion,89.5,20,0.08,1646.8,1550.61,106.2
+S0447,2024-10-17,October,Q4,Western Canada,AB,Calgary,CLN1074,Edwards Veterinary Clinic,Ryan Nakamura,Ingelvac PRRS MLV,Vaccines,Swine,185.0,30,0.08,5106.0,3999.34,127.7
+S0917,2024-10-17,October,Q4,Ontario West,ON,Windsor,CLN1035,Gray Veterinary Clinic,Emily Chen,Zactran 150mg/mL,Antibiotics,Cattle,320.0,37,0.06,11129.6,14879.61,74.8
+S0335,2024-10-18,October,Q4,Western Canada,AB,Edmonton,CLN1075,Rios Farm Supply & Vet,Priya Sharma,Nexgard Spectra M,Parasitology,Companion,38.9,10,0.03,377.33,335.07,112.6
+S0435,2024-10-18,October,Q4,Atlantic Canada,NS,Fredericton,CLN1114,White Veterinary Clinic,Connor MacDonald,Nexgard Spectra L,Parasitology,Companion,44.5,21,0.02,915.81,1159.86,79.0
+S0582,2024-10-18,October,Q4,Western Canada,AB,Calgary,CLN1090,Williams Mixed Practice,Ryan Nakamura,Clomicalm 20mg,Behaviour,Companion,67.0,7,0.06,440.86,486.91,90.5
+S0905,2024-10-18,October,Q4,Western Canada,AB,Saskatoon,CLN1079,Baker Veterinary Clinic,Priya Sharma,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,14,0.1,689.85,648.43,106.4
+S0536,2024-10-19,October,Q4,Western Canada,AB,Calgary,CLN1096,James Mixed Practice,Ryan Nakamura,Nexgard Spectra M,Parasitology,Companion,38.9,2,0.06,73.13,62.0,118.0
+S0494,2024-10-20,October,Q4,Western Canada,AB,Vancouver,CLN1094,Henderson Veterinary Clinic,Priya Sharma,Clomicalm 20mg,Behaviour,Companion,67.0,12,0.11,715.56,944.02,75.8
+S0591,2024-10-20,October,Q4,Ontario West,ON,Windsor,CLN1029,Abbott Veterinary Clinic,Emily Chen,Ingelvac CircoFLEX,Vaccines,Swine,210.0,16,0.01,3326.4,3381.33,98.4
+S0642,2024-10-20,October,Q4,Ontario West,ON,Windsor,CLN1048,Ramirez Animal Hospital,James Okafor,Zactran 150mg/mL,Antibiotics,Cattle,320.0,36,0.02,11289.6,8750.16,129.0
+S0885,2024-10-20,October,Q4,Quebec,QC,Laval,CLN1071,Clark Animal Hospital,Isabelle Roy,Nexgard Spectra M,Parasitology,Companion,38.9,10,0.14,334.54,412.29,81.1
+S0093,2024-10-21,October,Q4,Western Canada,AB,Calgary,CLN1078,Ellis Veterinary Clinic,Priya Sharma,Vetmedin 5mg,Cardiology,Companion,89.5,6,0.03,520.89,601.41,86.6
+S0319,2024-10-21,October,Q4,Ontario West,ON,Burlington,CLN1028,Davis Animal Hospital,James Okafor,Clomicalm 20mg,Behaviour,Companion,67.0,33,0.15,1879.35,1673.56,112.3
+S0711,2024-10-21,October,Q4,Ontario East,ON,Belleville,CLN1006,Rhodes Veterinary Clinic,David Park,Nexgard Spectra L,Parasitology,Companion,44.5,40,0.05,1691.0,2179.48,77.6
+S0719,2024-10-21,October,Q4,Atlantic Canada,NS,Fredericton,CLN1110,Mckay Mixed Practice,Fatima Hassan,Nexgard Spectra M,Parasitology,Companion,38.9,29,0.03,1094.26,906.8,120.7
+S0251,2024-10-22,October,Q4,Atlantic Canada,NS,Moncton,CLN1108,Graham Veterinary Clinic,Connor MacDonald,Vetmedin 5mg,Cardiology,Companion,89.5,6,0.01,531.63,603.33,88.1
+S0793,2024-10-22,October,Q4,Quebec,QC,Laval,CLN1063,Hawkins Farm Supply & Vet,Marc Tremblay,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,42,0.05,11890.2,14131.19,84.1
+S0003,2024-10-23,October,Q4,Western Canada,AB,Saskatoon,CLN1085,Ross Farm Supply & Vet,Priya Sharma,Clomicalm 20mg,Behaviour,Companion,67.0,13,0.04,836.16,1113.12,75.1
+S0006,2024-10-23,October,Q4,Ontario East,ON,Toronto,CLN1009,Henderson Mixed Practice,Sarah Mitchell,Ingelvac CircoFLEX,Vaccines,Swine,210.0,8,0.14,1444.8,1577.44,91.6
+S0107,2024-10-23,October,Q4,Atlantic Canada,NS,St. John's,CLN1120,Hernandez Animal Hospital,Fatima Hassan,Vetmedin 5mg,Cardiology,Companion,89.5,19,0.11,1513.44,1895.56,79.8
+S0272,2024-10-23,October,Q4,Ontario West,ON,London,CLN1040,Ray Farm Supply & Vet,James Okafor,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,31,0.04,8868.48,10139.82,87.5
+S0654,2024-10-23,October,Q4,Ontario East,ON,Ottawa,CLN1010,Johnson Mixed Practice,Sarah Mitchell,Vetmedin 5mg,Cardiology,Companion,89.5,33,0.09,2687.68,3326.23,80.8
+S0072,2024-10-24,October,Q4,Ontario East,ON,Belleville,CLN1012,Wagner Mixed Practice,David Park,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,26,0.1,1281.15,1196.24,107.1
+S0414,2024-10-24,October,Q4,Quebec,QC,Sherbrooke,CLN1066,Parsons Veterinary Clinic,Isabelle Roy,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,24,0.07,2990.88,3118.97,95.9
+S0018,2024-10-25,October,Q4,Ontario East,ON,Kingston,CLN1015,Santos Farm Supply & Vet,Sarah Mitchell,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,10,0.08,1232.8,1541.93,80.0
+S0271,2024-10-25,October,Q4,Quebec,QC,Laval,CLN1061,Mayo Mixed Practice,Marc Tremblay,Nexgard Spectra L,Parasitology,Companion,44.5,22,0.1,881.1,1178.86,74.7
+S0546,2024-10-25,October,Q4,Quebec,QC,Montreal,CLN1064,Cohen Farm Supply & Vet,Isabelle Roy,Nexgard Spectra M,Parasitology,Companion,38.9,27,0.06,987.28,1176.88,83.9
+S0698,2024-10-25,October,Q4,Ontario East,ON,Kingston,CLN1002,Johnson Animal Hospital,Sarah Mitchell,Vetmedin 10mg,Cardiology,Companion,142.0,36,0.04,4907.52,6123.89,80.1
+S0996,2024-10-25,October,Q4,Quebec,QC,Montreal,CLN1062,Bowman Veterinary Clinic,Isabelle Roy,Clomicalm 20mg,Behaviour,Companion,67.0,46,0.07,2866.26,3130.61,91.6
+S0136,2024-10-26,October,Q4,Quebec,QC,Montreal,CLN1069,Stewart Farm Supply & Vet,Marc Tremblay,Ingelvac PRRS MLV,Vaccines,Swine,185.0,24,0.1,3996.0,4609.0,86.7
+S0334,2024-10-26,October,Q4,Atlantic Canada,NS,St. John's,CLN1111,Liu Animal Hospital,Connor MacDonald,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,10,0.0,1340.0,1449.86,92.4
+S0464,2024-10-26,October,Q4,Ontario West,ON,Burlington,CLN1041,Bush Animal Hospital,Emily Chen,Nexgard Spectra M,Parasitology,Companion,38.9,15,0.01,577.66,503.5,114.7
+S0602,2024-10-26,October,Q4,Quebec,QC,Montreal,CLN1064,Cohen Farm Supply & Vet,Marc Tremblay,Zactran 150mg/mL,Antibiotics,Cattle,320.0,48,0.01,15206.4,19938.4,76.3
+S0490,2024-10-27,October,Q4,Atlantic Canada,NS,Fredericton,CLN1109,Chavez Animal Hospital,Fatima Hassan,Vetmedin 10mg,Cardiology,Companion,142.0,24,0.11,3033.12,3479.85,87.2
+S0732,2024-10-27,October,Q4,Ontario West,ON,Windsor,CLN1035,Gray Veterinary Clinic,Emily Chen,Nexgard Spectra M,Parasitology,Companion,38.9,29,0.12,992.73,1303.71,76.1
+S0083,2024-10-28,October,Q4,Western Canada,AB,Vancouver,CLN1077,Rocha Mixed Practice,Ryan Nakamura,Zactran 150mg/mL,Antibiotics,Cattle,320.0,25,0.07,7440.0,7556.31,98.5
+S0149,2024-10-28,October,Q4,Western Canada,AB,Saskatoon,CLN1085,Ross Farm Supply & Vet,Ryan Nakamura,Clomicalm 20mg,Behaviour,Companion,67.0,1,0.05,63.65,77.85,81.8
+S0180,2024-10-28,October,Q4,Quebec,QC,Sherbrooke,CLN1059,Martin Mixed Practice,Isabelle Roy,Vetmedin 10mg,Cardiology,Companion,142.0,28,0.13,3459.12,3099.34,111.6
+S0381,2024-10-28,October,Q4,Quebec,QC,Montreal,CLN1072,Hahn Mixed Practice,Marc Tremblay,Ingelvac PRRS MLV,Vaccines,Swine,185.0,24,0.06,4173.6,5064.27,82.4
+S0618,2024-10-28,October,Q4,Atlantic Canada,NS,Halifax,CLN1107,Rodriguez Livestock Practice,Connor MacDonald,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,46,0.11,7164.5,6954.18,103.0
+S0680,2024-10-28,October,Q4,Western Canada,AB,Calgary,CLN1090,Williams Mixed Practice,Priya Sharma,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,31,0.12,1493.58,1461.83,102.2
+S0484,2024-10-29,October,Q4,Ontario East,ON,Toronto,CLN1023,Peterson Livestock Practice,Sarah Mitchell,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,21,0.12,5507.04,6435.39,85.6
+S0898,2024-10-29,October,Q4,Ontario East,ON,Kingston,CLN1021,Shaffer Veterinary Clinic,David Park,Ingelvac CircoFLEX,Vaccines,Swine,210.0,5,0.05,997.5,1235.25,80.8
+S0991,2024-10-29,October,Q4,Western Canada,AB,Calgary,CLN1095,Brown Farm Supply & Vet,Ryan Nakamura,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,21,0.07,1069.27,944.64,113.2
+S0249,2024-10-30,October,Q4,Ontario East,ON,Kingston,CLN1017,Robinson Veterinary Clinic,David Park,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,35,0.01,10325.7,11715.46,88.1
+S0888,2024-10-30,October,Q4,Ontario East,ON,Toronto,CLN1007,Mcclain Veterinary Clinic,Sarah Mitchell,Ingelvac CircoFLEX,Vaccines,Swine,210.0,26,0.03,5296.2,5866.46,90.3
+S0900,2024-10-30,October,Q4,Western Canada,AB,Saskatoon,CLN1086,Robinson Mixed Practice,Ryan Nakamura,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,46,0.09,5609.24,5844.71,96.0
+S0958,2024-10-30,October,Q4,Quebec,QC,Sherbrooke,CLN1057,Jackson Mixed Practice,Marc Tremblay,Clomicalm 20mg,Behaviour,Companion,67.0,3,0.03,194.97,230.42,84.6
+S0005,2024-10-31,October,Q4,Atlantic Canada,NS,Fredericton,CLN1118,Fowler Animal Hospital,Connor MacDonald,Vetmedin 5mg,Cardiology,Companion,89.5,33,0.01,2923.97,2518.99,116.1
+S0147,2024-11-01,November,Q4,Ontario West,ON,London,CLN1027,Davis Veterinary Clinic,James Okafor,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,22,0.12,1059.96,1296.53,81.8
+S0201,2024-11-01,November,Q4,Atlantic Canada,NS,Halifax,CLN1107,Rodriguez Livestock Practice,Connor MacDonald,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,22,0.13,3349.5,3754.18,89.2
+S0362,2024-11-01,November,Q4,Quebec,QC,Montreal,CLN1072,Hahn Mixed Practice,Isabelle Roy,Vetmedin 10mg,Cardiology,Companion,142.0,2,0.01,281.16,304.36,92.4
+S0675,2024-11-01,November,Q4,Western Canada,AB,Vancouver,CLN1080,Wright Animal Hospital,Priya Sharma,Clomicalm 20mg,Behaviour,Companion,67.0,47,0.1,2834.1,3694.0,76.7
+S0744,2024-11-01,November,Q4,Atlantic Canada,NS,Fredericton,CLN1097,Ferrell Farm Supply & Vet,Fatima Hassan,Nexgard Spectra M,Parasitology,Companion,38.9,1,0.11,34.62,42.54,81.4
+S0375,2024-11-02,November,Q4,Western Canada,AB,Saskatoon,CLN1085,Ross Farm Supply & Vet,Ryan Nakamura,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,28,0.12,3301.76,2622.85,125.9
+S0431,2024-11-03,November,Q4,Atlantic Canada,NS,Fredericton,CLN1102,Le Veterinary Clinic,Connor MacDonald,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,18,0.1,886.95,797.28,111.2
+S0595,2024-11-03,November,Q4,Ontario West,ON,Kitchener,CLN1047,Garcia Animal Hospital,James Okafor,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,30,0.05,1560.38,1888.76,82.6
+S0183,2024-11-04,November,Q4,Western Canada,AB,Vancouver,CLN1094,Henderson Veterinary Clinic,Ryan Nakamura,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,7,0.02,375.58,326.14,115.2
+S0486,2024-11-04,November,Q4,Quebec,QC,Quebec City,CLN1070,Adams Animal Hospital,Isabelle Roy,Clomicalm 20mg,Behaviour,Companion,67.0,32,0.01,2122.56,1663.45,127.6
+S0156,2024-11-05,November,Q4,Western Canada,AB,Vancouver,CLN1082,Baker Farm Supply & Vet,Priya Sharma,Ingelvac CircoFLEX,Vaccines,Swine,210.0,39,0.08,7534.8,7702.29,97.8
+S0821,2024-11-05,November,Q4,Quebec,QC,Sherbrooke,CLN1054,Zuniga Veterinary Clinic,Marc Tremblay,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,10,0.06,2801.2,2625.93,106.7
+S0034,2024-11-06,November,Q4,Quebec,QC,Sherbrooke,CLN1052,Clark Farm Supply & Vet,Marc Tremblay,Nexgard Spectra M,Parasitology,Companion,38.9,19,0.03,716.93,875.7,81.9
+S0059,2024-11-06,November,Q4,Western Canada,AB,Edmonton,CLN1073,Walter Livestock Practice,Ryan Nakamura,Ingelvac PRRS MLV,Vaccines,Swine,185.0,45,0.04,7992.0,7762.93,103.0
+S0082,2024-11-06,November,Q4,Atlantic Canada,NS,Moncton,CLN1104,Herrera Livestock Practice,Fatima Hassan,Vetmedin 10mg,Cardiology,Companion,142.0,16,0.02,2226.56,2691.17,82.7
+S0523,2024-11-07,November,Q4,Atlantic Canada,NS,Moncton,CLN1113,Mason Livestock Practice,Fatima Hassan,Ingelvac CircoFLEX,Vaccines,Swine,210.0,17,0.06,3355.8,3494.57,96.0
+S0571,2024-11-07,November,Q4,Quebec,QC,Sherbrooke,CLN1066,Parsons Veterinary Clinic,Marc Tremblay,Nexgard Spectra M,Parasitology,Companion,38.9,8,0.12,273.86,287.18,95.4
+S0295,2024-11-08,November,Q4,Western Canada,AB,Calgary,CLN1095,Brown Farm Supply & Vet,Priya Sharma,Nexgard Spectra M,Parasitology,Companion,38.9,37,0.1,1295.37,1121.66,115.5
+S0237,2024-11-09,November,Q4,Quebec,QC,Laval,CLN1050,Diaz Mixed Practice,Marc Tremblay,Nexgard Spectra M,Parasitology,Companion,38.9,50,0.04,1867.2,1900.37,98.3
+S0495,2024-11-09,November,Q4,Quebec,QC,Sherbrooke,CLN1051,Wood Mixed Practice,Marc Tremblay,Clomicalm 20mg,Behaviour,Companion,67.0,39,0.05,2482.35,3066.41,81.0
+S0747,2024-11-09,November,Q4,Ontario West,ON,Windsor,CLN1029,Abbott Veterinary Clinic,Emily Chen,Vetmedin 10mg,Cardiology,Companion,142.0,28,0.09,3618.16,3835.13,94.3
+S0677,2024-11-10,November,Q4,Quebec,QC,Laval,CLN1067,Perez Mixed Practice,Isabelle Roy,Clomicalm 20mg,Behaviour,Companion,67.0,39,0.01,2586.87,2678.76,96.6
+S0695,2024-11-10,November,Q4,Ontario West,ON,London,CLN1037,Calderon Animal Hospital,James Okafor,Vetmedin 5mg,Cardiology,Companion,89.5,39,0.08,3211.26,3754.19,85.5
+S0644,2024-11-11,November,Q4,Ontario West,ON,Burlington,CLN1028,Davis Animal Hospital,Emily Chen,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,33,0.02,5659.5,4869.41,116.2
+S0801,2024-11-11,November,Q4,Quebec,QC,Montreal,CLN1062,Bowman Veterinary Clinic,Marc Tremblay,Ingelvac PRRS MLV,Vaccines,Swine,185.0,26,0.1,4329.0,3756.1,115.3
+S0179,2024-11-12,November,Q4,Quebec,QC,Sherbrooke,CLN1054,Zuniga Veterinary Clinic,Isabelle Roy,Vetmedin 10mg,Cardiology,Companion,142.0,26,0.0,3692.0,3488.43,105.8
+S0586,2024-11-12,November,Q4,Atlantic Canada,NS,Fredericton,CLN1099,Maddox Mixed Practice,Connor MacDonald,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,22,0.08,3542.0,4119.15,86.0
+S0637,2024-11-12,November,Q4,Ontario West,ON,Burlington,CLN1041,Bush Animal Hospital,James Okafor,Ingelvac CircoFLEX,Vaccines,Swine,210.0,44,0.02,9055.2,6823.45,132.7
+S0749,2024-11-12,November,Q4,Ontario West,ON,Windsor,CLN1025,Bernard Mixed Practice,James Okafor,Clomicalm 20mg,Behaviour,Companion,67.0,9,0.04,578.88,655.37,88.3
+S0036,2024-11-13,November,Q4,Atlantic Canada,NS,Fredericton,CLN1102,Le Veterinary Clinic,Connor MacDonald,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,6,0.04,1008.0,1157.5,87.1
+S0121,2024-11-13,November,Q4,Western Canada,AB,Vancouver,CLN1088,Hicks Animal Hospital,Ryan Nakamura,Clomicalm 20mg,Behaviour,Companion,67.0,12,0.01,795.96,1012.86,78.6
+S0552,2024-11-13,November,Q4,Atlantic Canada,NS,Fredericton,CLN1109,Chavez Animal Hospital,Connor MacDonald,Ingelvac PRRS MLV,Vaccines,Swine,185.0,4,0.13,643.8,708.27,90.9
+S0052,2024-11-14,November,Q4,Western Canada,AB,Saskatoon,CLN1087,Bright Veterinary Clinic,Priya Sharma,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,11,0.13,1282.38,1669.31,76.8
+S0114,2024-11-15,November,Q4,Quebec,QC,Quebec City,CLN1053,Adams Animal Hospital,Marc Tremblay,Vetmedin 10mg,Cardiology,Companion,142.0,31,0.12,3873.76,3521.3,110.0
+S0155,2024-11-15,November,Q4,Ontario East,ON,Ottawa,CLN1010,Johnson Mixed Practice,Sarah Mitchell,Nexgard Spectra L,Parasitology,Companion,44.5,39,0.02,1700.79,1404.37,121.1
+S0860,2024-11-15,November,Q4,Ontario West,ON,London,CLN1037,Calderon Animal Hospital,Emily Chen,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,21,0.04,6007.68,6578.92,91.3
+S0366,2024-11-16,November,Q4,Quebec,QC,Sherbrooke,CLN1054,Zuniga Veterinary Clinic,Isabelle Roy,Ingelvac PRRS MLV,Vaccines,Swine,185.0,5,0.05,878.75,1156.9,76.0
+S0622,2024-11-16,November,Q4,Quebec,QC,Sherbrooke,CLN1060,Gray Mixed Practice,Marc Tremblay,Vetmedin 5mg,Cardiology,Companion,89.5,10,0.14,769.7,852.93,90.2
+S0653,2024-11-16,November,Q4,Western Canada,AB,Saskatoon,CLN1083,Richards Animal Hospital,Ryan Nakamura,Nexgard Spectra M,Parasitology,Companion,38.9,9,0.13,304.59,264.34,115.2
+S0763,2024-11-16,November,Q4,Ontario East,ON,Kingston,CLN1021,Shaffer Veterinary Clinic,David Park,Vetmedin 10mg,Cardiology,Companion,142.0,44,0.09,5685.68,7439.76,76.4
+S0909,2024-11-16,November,Q4,Ontario East,ON,Kingston,CLN1015,Santos Farm Supply & Vet,David Park,Vetmedin 5mg,Cardiology,Companion,89.5,16,0.06,1346.08,1486.2,90.6
+S0061,2024-11-17,November,Q4,Western Canada,AB,Calgary,CLN1074,Edwards Veterinary Clinic,Priya Sharma,Ingelvac CircoFLEX,Vaccines,Swine,210.0,46,0.03,9370.2,10356.5,90.5
+S0220,2024-11-17,November,Q4,Ontario West,ON,London,CLN1033,Herrera Farm Supply & Vet,James Okafor,Nexgard Spectra L,Parasitology,Companion,44.5,5,0.05,211.38,251.49,84.1
+S0252,2024-11-17,November,Q4,Ontario West,ON,Windsor,CLN1034,Dudley Animal Hospital,James Okafor,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,27,0.09,7321.86,5624.44,130.2
+S0998,2024-11-17,November,Q4,Atlantic Canada,NS,Fredericton,CLN1102,Le Veterinary Clinic,Fatima Hassan,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,30,0.11,4672.5,3508.2,133.2
+S0101,2024-11-18,November,Q4,Ontario East,ON,Kingston,CLN1017,Robinson Veterinary Clinic,David Park,Ingelvac PRRS MLV,Vaccines,Swine,185.0,45,0.07,7742.25,5940.8,130.3
+S0273,2024-11-18,November,Q4,Western Canada,AB,Calgary,CLN1074,Edwards Veterinary Clinic,Ryan Nakamura,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,4,0.09,487.76,415.72,117.3
+S0670,2024-11-18,November,Q4,Ontario East,ON,Ottawa,CLN1003,Hill Animal Hospital,Sarah Mitchell,Vetmedin 5mg,Cardiology,Companion,89.5,9,0.09,733.0,620.61,118.1
+S0722,2024-11-18,November,Q4,Atlantic Canada,NS,Moncton,CLN1104,Herrera Livestock Practice,Connor MacDonald,Clomicalm 20mg,Behaviour,Companion,67.0,27,0.07,1682.37,2266.72,74.2
+S0858,2024-11-18,November,Q4,Quebec,QC,Quebec City,CLN1053,Adams Animal Hospital,Marc Tremblay,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,14,0.09,1707.16,1392.33,122.6
+S0957,2024-11-19,November,Q4,Ontario West,ON,Windsor,CLN1039,Hensley Mixed Practice,Emily Chen,Vetmedin 10mg,Cardiology,Companion,142.0,41,0.1,5239.8,5459.36,96.0
+S0533,2024-11-21,November,Q4,Western Canada,AB,Vancouver,CLN1091,Rodriguez Mixed Practice,Ryan Nakamura,Nexgard Spectra M,Parasitology,Companion,38.9,24,0.12,821.57,865.18,95.0
+S0016,2024-11-22,November,Q4,Ontario East,ON,Belleville,CLN1012,Wagner Mixed Practice,David Park,Nexgard Spectra M,Parasitology,Companion,38.9,3,0.0,116.7,141.52,82.5
+S0341,2024-11-22,November,Q4,Ontario East,ON,Kingston,CLN1020,Smith Mixed Practice,Sarah Mitchell,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,33,0.07,1680.28,1321.15,127.2
+S0377,2024-11-22,November,Q4,Quebec,QC,Quebec City,CLN1070,Adams Animal Hospital,Marc Tremblay,Nexgard Spectra L,Parasitology,Companion,44.5,45,0.13,1742.17,1867.86,93.3
+S0547,2024-11-22,November,Q4,Western Canada,AB,Vancouver,CLN1091,Rodriguez Mixed Practice,Ryan Nakamura,Nexgard Spectra L,Parasitology,Companion,44.5,47,0.11,1861.43,2162.59,86.1
+S0826,2024-11-22,November,Q4,Atlantic Canada,NS,St. John's,CLN1098,Rice Animal Hospital,Fatima Hassan,Ingelvac CircoFLEX,Vaccines,Swine,210.0,27,0.05,5386.5,6449.61,83.5
+S0864,2024-11-22,November,Q4,Atlantic Canada,NS,Halifax,CLN1103,Maldonado Livestock Practice,Fatima Hassan,Ingelvac CircoFLEX,Vaccines,Swine,210.0,3,0.05,598.5,650.12,92.1
+S0930,2024-11-22,November,Q4,Atlantic Canada,NS,Moncton,CLN1108,Graham Veterinary Clinic,Fatima Hassan,Ingelvac CircoFLEX,Vaccines,Swine,210.0,50,0.06,9870.0,11314.97,87.2
+S0988,2024-11-22,November,Q4,Ontario East,ON,Belleville,CLN1022,Wolfe Mixed Practice,David Park,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,19,0.09,946.63,1158.42,81.7
+S0178,2024-11-23,November,Q4,Quebec,QC,Sherbrooke,CLN1059,Martin Mixed Practice,Marc Tremblay,Nexgard Spectra L,Parasitology,Companion,44.5,37,0.06,1547.71,1536.34,100.7
+S0729,2024-11-23,November,Q4,Quebec,QC,Quebec City,CLN1049,Reid Mixed Practice,Isabelle Roy,Ingelvac PRRS MLV,Vaccines,Swine,185.0,41,0.14,6523.1,8290.56,78.7
+S0950,2024-11-23,November,Q4,Western Canada,AB,Calgary,CLN1074,Edwards Veterinary Clinic,Priya Sharma,Ingelvac PRRS MLV,Vaccines,Swine,185.0,2,0.13,321.9,270.17,119.1
+S0244,2024-11-24,November,Q4,Quebec,QC,Quebec City,CLN1068,Johnson Mixed Practice,Isabelle Roy,Ingelvac CircoFLEX,Vaccines,Swine,210.0,37,0.01,7692.3,10257.13,75.0
+S0627,2024-11-24,November,Q4,Quebec,QC,Montreal,CLN1072,Hahn Mixed Practice,Marc Tremblay,Vetmedin 10mg,Cardiology,Companion,142.0,43,0.05,5800.7,5187.04,111.8
+S0053,2024-11-25,November,Q4,Quebec,QC,Montreal,CLN1069,Stewart Farm Supply & Vet,Marc Tremblay,Ingelvac CircoFLEX,Vaccines,Swine,210.0,38,0.08,7341.6,5625.58,130.5
+S0221,2024-11-25,November,Q4,Ontario East,ON,Ottawa,CLN1014,Gonzalez Livestock Practice,David Park,Clomicalm 20mg,Behaviour,Companion,67.0,3,0.05,190.95,182.0,104.9
+S0322,2024-11-25,November,Q4,Western Canada,AB,Saskatoon,CLN1081,Hoffman Mixed Practice,Priya Sharma,Zactran 150mg/mL,Antibiotics,Cattle,320.0,32,0.01,10137.6,9698.12,104.5
+S0348,2024-11-26,November,Q4,Western Canada,AB,Vancouver,CLN1082,Baker Farm Supply & Vet,Ryan Nakamura,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,11,0.01,1459.26,1834.58,79.5
+S0396,2024-11-26,November,Q4,Western Canada,AB,Calgary,CLN1074,Edwards Veterinary Clinic,Priya Sharma,Ingelvac CircoFLEX,Vaccines,Swine,210.0,12,0.07,2343.6,2513.34,93.2
+S0473,2024-11-26,November,Q4,Western Canada,AB,Edmonton,CLN1075,Rios Farm Supply & Vet,Priya Sharma,Vetmedin 10mg,Cardiology,Companion,142.0,2,0.15,241.4,209.69,115.1
+S0385,2024-11-27,November,Q4,Ontario East,ON,Toronto,CLN1009,Henderson Mixed Practice,David Park,Vetmedin 5mg,Cardiology,Companion,89.5,46,0.02,4034.66,5081.69,79.4
+S0641,2024-11-27,November,Q4,Atlantic Canada,NS,Fredericton,CLN1102,Le Veterinary Clinic,Fatima Hassan,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,10,0.04,1680.0,2154.07,78.0
+S0954,2024-11-27,November,Q4,Ontario East,ON,Ottawa,CLN1016,Gardner Animal Hospital,David Park,Nexgard Spectra L,Parasitology,Companion,44.5,44,0.05,1860.1,1456.68,127.7
+S0065,2024-11-29,November,Q4,Western Canada,AB,Vancouver,CLN1082,Baker Farm Supply & Vet,Priya Sharma,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,10,0.07,1246.2,1483.32,84.0
+S0368,2024-11-29,November,Q4,Ontario West,ON,Kitchener,CLN1043,Perez Farm Supply & Vet,Emily Chen,Nexgard Spectra L,Parasitology,Companion,44.5,29,0.05,1225.97,1519.33,80.7
+S0537,2024-11-29,November,Q4,Atlantic Canada,NS,St. John's,CLN1100,Valencia Animal Hospital,Connor MacDonald,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,42,0.03,2230.51,1949.55,114.4
+S0565,2024-11-29,November,Q4,Ontario West,ON,Burlington,CLN1028,Davis Animal Hospital,James Okafor,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,33,0.03,9538.98,9252.38,103.1
+S0287,2024-11-30,November,Q4,Ontario East,ON,Kingston,CLN1013,Johnson Veterinary Clinic,Sarah Mitchell,Vetmedin 5mg,Cardiology,Companion,89.5,36,0.15,2738.7,2313.56,118.4
+S0592,2024-11-30,November,Q4,Quebec,QC,Montreal,CLN1058,Daniel Livestock Practice,Marc Tremblay,Ingelvac PRRS MLV,Vaccines,Swine,185.0,29,0.05,5096.75,6821.5,74.7
+S0141,2024-12-01,December,Q4,Western Canada,AB,Calgary,CLN1096,James Mixed Practice,Priya Sharma,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,48,0.11,12730.56,16311.01,78.0
+S0225,2024-12-01,December,Q4,Ontario East,ON,Toronto,CLN1005,Doyle Mixed Practice,Sarah Mitchell,Nexgard Spectra M,Parasitology,Companion,38.9,23,0.13,778.39,606.12,128.4
+S0545,2024-12-01,December,Q4,Atlantic Canada,NS,Moncton,CLN1104,Herrera Livestock Practice,Fatima Hassan,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,21,0.1,3307.5,3912.01,84.5
+S0936,2024-12-01,December,Q4,Western Canada,AB,Saskatoon,CLN1079,Baker Veterinary Clinic,Priya Sharma,Nexgard Spectra L,Parasitology,Companion,44.5,18,0.04,768.96,622.06,123.6
+S0548,2024-12-02,December,Q4,Atlantic Canada,NS,St. John's,CLN1101,Smith Livestock Practice,Fatima Hassan,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,23,0.08,3703.0,4655.6,79.5
+S0775,2024-12-02,December,Q4,Quebec,QC,Laval,CLN1063,Hawkins Farm Supply & Vet,Marc Tremblay,Vetmedin 10mg,Cardiology,Companion,142.0,3,0.09,387.66,485.26,79.9
+S0941,2024-12-02,December,Q4,Ontario West,ON,Windsor,CLN1025,Bernard Mixed Practice,James Okafor,Vetmedin 5mg,Cardiology,Companion,89.5,40,0.01,3544.2,4653.9,76.2
+S0152,2024-12-03,December,Q4,Quebec,QC,Montreal,CLN1058,Daniel Livestock Practice,Marc Tremblay,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,3,0.11,795.66,1030.58,77.2
+S0678,2024-12-03,December,Q4,Western Canada,AB,Vancouver,CLN1077,Rocha Mixed Practice,Ryan Nakamura,Zactran 150mg/mL,Antibiotics,Cattle,320.0,33,0.11,9398.4,7574.3,124.1
+S0812,2024-12-03,December,Q4,Quebec,QC,Sherbrooke,CLN1060,Gray Mixed Practice,Marc Tremblay,Vetmedin 10mg,Cardiology,Companion,142.0,25,0.1,3195.0,3667.19,87.1
+S0927,2024-12-03,December,Q4,Ontario East,ON,Kingston,CLN1002,Johnson Animal Hospital,Sarah Mitchell,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,12,0.14,3075.36,3670.07,83.8
+S0357,2024-12-04,December,Q4,Ontario West,ON,London,CLN1030,Munoz Veterinary Clinic,Emily Chen,Zactran 150mg/mL,Antibiotics,Cattle,320.0,25,0.06,7520.0,8706.78,86.4
+S0509,2024-12-04,December,Q4,Ontario East,ON,Belleville,CLN1011,Robinson Animal Hospital,David Park,Vetmedin 10mg,Cardiology,Companion,142.0,20,0.12,2499.2,2580.59,96.8
+S0569,2024-12-04,December,Q4,Ontario East,ON,Kingston,CLN1020,Smith Mixed Practice,Sarah Mitchell,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,44,0.09,5365.36,4993.38,107.4
+S0672,2024-12-04,December,Q4,Quebec,QC,Laval,CLN1067,Perez Mixed Practice,Isabelle Roy,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,37,0.1,9923.4,12673.23,78.3
+S0899,2024-12-05,December,Q4,Quebec,QC,Quebec City,CLN1056,Lynch Animal Hospital,Isabelle Roy,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,22,0.08,6031.52,5378.26,112.1
+S0173,2024-12-07,December,Q4,Quebec,QC,Quebec City,CLN1056,Lynch Animal Hospital,Marc Tremblay,Nexgard Spectra M,Parasitology,Companion,38.9,44,0.1,1540.44,1605.11,96.0
+S0239,2024-12-07,December,Q4,Atlantic Canada,NS,Halifax,CLN1116,Harrell Veterinary Clinic,Fatima Hassan,Vetmedin 10mg,Cardiology,Companion,142.0,44,0.15,5310.8,7126.8,74.5
+S0051,2024-12-08,December,Q4,Quebec,QC,Laval,CLN1063,Hawkins Farm Supply & Vet,Marc Tremblay,Nexgard Spectra M,Parasitology,Companion,38.9,28,0.07,1012.96,996.06,101.7
+S0339,2024-12-08,December,Q4,Western Canada,AB,Saskatoon,CLN1083,Richards Animal Hospital,Ryan Nakamura,Zactran 150mg/mL,Antibiotics,Cattle,320.0,3,0.13,835.2,663.65,125.8
+S0140,2024-12-09,December,Q4,Ontario East,ON,Kingston,CLN1015,Santos Farm Supply & Vet,Sarah Mitchell,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,35,0.02,1877.92,1919.58,97.8
+S0328,2024-12-09,December,Q4,Quebec,QC,Quebec City,CLN1049,Reid Mixed Practice,Marc Tremblay,Vetmedin 10mg,Cardiology,Companion,142.0,13,0.12,1624.48,1791.07,90.7
+S0317,2024-12-10,December,Q4,Ontario West,ON,Kitchener,CLN1031,Roman Farm Supply & Vet,James Okafor,Vetmedin 10mg,Cardiology,Companion,142.0,7,0.09,904.54,920.7,98.2
+S0937,2024-12-10,December,Q4,Western Canada,AB,Edmonton,CLN1075,Rios Farm Supply & Vet,Priya Sharma,Ingelvac PRRS MLV,Vaccines,Swine,185.0,50,0.1,8325.0,7451.53,111.7
+S0448,2024-12-11,December,Q4,Ontario East,ON,Belleville,CLN1022,Wolfe Mixed Practice,David Park,Clomicalm 20mg,Behaviour,Companion,67.0,17,0.12,1002.32,1289.55,77.7
+S0782,2024-12-11,December,Q4,Quebec,QC,Montreal,CLN1072,Hahn Mixed Practice,Isabelle Roy,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,7,0.11,834.82,914.91,91.2
+S0587,2024-12-12,December,Q4,Ontario East,ON,Kingston,CLN1013,Johnson Veterinary Clinic,David Park,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,47,0.04,7896.0,7560.02,104.4
+S0409,2024-12-13,December,Q4,Ontario West,ON,Burlington,CLN1042,Williams Farm Supply & Vet,Emily Chen,Nexgard Spectra M,Parasitology,Companion,38.9,37,0.04,1381.73,1747.63,79.1
+S0726,2024-12-13,December,Q4,Quebec,QC,Montreal,CLN1072,Hahn Mixed Practice,Isabelle Roy,Nexgard Spectra L,Parasitology,Companion,44.5,2,0.06,83.66,80.37,104.1
+S0934,2024-12-13,December,Q4,Quebec,QC,Quebec City,CLN1068,Johnson Mixed Practice,Isabelle Roy,Vetmedin 5mg,Cardiology,Companion,89.5,19,0.14,1462.43,1490.64,98.1
+S0961,2024-12-13,December,Q4,Quebec,QC,Sherbrooke,CLN1052,Clark Farm Supply & Vet,Marc Tremblay,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,42,0.1,2069.55,2121.33,97.6
+S0966,2024-12-13,December,Q4,Western Canada,AB,Vancouver,CLN1077,Rocha Mixed Practice,Ryan Nakamura,Vetmedin 10mg,Cardiology,Companion,142.0,13,0.06,1735.24,2146.34,80.8
+S0303,2024-12-14,December,Q4,Quebec,QC,Laval,CLN1071,Clark Animal Hospital,Isabelle Roy,Zactran 150mg/mL,Antibiotics,Cattle,320.0,43,0.12,12108.8,14616.72,82.8
+S0524,2024-12-14,December,Q4,Quebec,QC,Laval,CLN1061,Mayo Mixed Practice,Marc Tremblay,Clomicalm 20mg,Behaviour,Companion,67.0,18,0.06,1133.64,1270.75,89.2
+S0757,2024-12-14,December,Q4,Western Canada,AB,Calgary,CLN1095,Brown Farm Supply & Vet,Ryan Nakamura,Zactran 150mg/mL,Antibiotics,Cattle,320.0,43,0.15,11696.0,12090.1,96.7
+S0619,2024-12-15,December,Q4,Quebec,QC,Quebec City,CLN1070,Adams Animal Hospital,Marc Tremblay,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,13,0.04,1672.32,1432.27,116.8
+S0197,2024-12-16,December,Q4,Quebec,QC,Quebec City,CLN1049,Reid Mixed Practice,Isabelle Roy,Clomicalm 20mg,Behaviour,Companion,67.0,43,0.11,2564.09,3380.15,75.9
+S0253,2024-12-16,December,Q4,Quebec,QC,Quebec City,CLN1070,Adams Animal Hospital,Isabelle Roy,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,20,0.07,3255.0,4012.81,81.1
+S0399,2024-12-16,December,Q4,Ontario East,ON,Toronto,CLN1018,Lawrence Livestock Practice,Sarah Mitchell,Ingelvac CircoFLEX,Vaccines,Swine,210.0,36,0.08,6955.2,7281.97,95.5
+S0542,2024-12-16,December,Q4,Ontario East,ON,Toronto,CLN1001,Fowler Veterinary Clinic,David Park,Zactran 150mg/mL,Antibiotics,Cattle,320.0,42,0.09,12230.4,11247.15,108.7
+S0616,2024-12-16,December,Q4,Ontario West,ON,London,CLN1037,Calderon Animal Hospital,James Okafor,Ingelvac CircoFLEX,Vaccines,Swine,210.0,25,0.06,4935.0,6034.85,81.8
+S0632,2024-12-16,December,Q4,Ontario East,ON,Toronto,CLN1001,Fowler Veterinary Clinic,Sarah Mitchell,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,43,0.09,2142.37,1880.8,113.9
+S0802,2024-12-16,December,Q4,Western Canada,AB,Calgary,CLN1095,Brown Farm Supply & Vet,Ryan Nakamura,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,5,0.04,262.8,264.91,99.2
+S0816,2024-12-16,December,Q4,Ontario West,ON,London,CLN1040,Ray Farm Supply & Vet,Emily Chen,Ingelvac PRRS MLV,Vaccines,Swine,185.0,26,0.11,4280.9,3257.86,131.4
+S0920,2024-12-16,December,Q4,Ontario West,ON,Kitchener,CLN1032,Blair Farm Supply & Vet,Emily Chen,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,48,0.1,7560.0,8703.3,86.9
+S0014,2024-12-17,December,Q4,Ontario East,ON,Kingston,CLN1020,Smith Mixed Practice,David Park,Nexgard Spectra M,Parasitology,Companion,38.9,39,0.03,1471.59,1406.44,104.6
+S0127,2024-12-17,December,Q4,Western Canada,AB,Calgary,CLN1090,Williams Mixed Practice,Priya Sharma,Vetmedin 5mg,Cardiology,Companion,89.5,43,0.06,3617.59,2730.77,132.5
+S0866,2024-12-17,December,Q4,Ontario West,ON,London,CLN1040,Ray Farm Supply & Vet,Emily Chen,Zactran 150mg/mL,Antibiotics,Cattle,320.0,36,0.05,10944.0,8248.26,132.7
+S0353,2024-12-18,December,Q4,Western Canada,AB,Saskatoon,CLN1087,Bright Veterinary Clinic,Priya Sharma,Ingelvac CircoFLEX,Vaccines,Swine,210.0,49,0.11,9158.1,11212.25,81.7
+S0075,2024-12-19,December,Q4,Western Canada,AB,Calgary,CLN1093,Conner Veterinary Clinic,Ryan Nakamura,Nexgard Spectra L,Parasitology,Companion,44.5,8,0.11,316.84,418.4,75.7
+S0142,2024-12-19,December,Q4,Ontario East,ON,Kingston,CLN1013,Johnson Veterinary Clinic,David Park,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,27,0.14,6919.56,6351.08,109.0
+S0275,2024-12-19,December,Q4,Ontario East,ON,Kingston,CLN1015,Santos Farm Supply & Vet,Sarah Mitchell,Vetmedin 5mg,Cardiology,Companion,89.5,29,0.05,2465.72,2073.32,118.9
+S0567,2024-12-19,December,Q4,Western Canada,AB,Vancouver,CLN1077,Rocha Mixed Practice,Ryan Nakamura,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,7,0.1,1102.5,839.93,131.3
+S0373,2024-12-20,December,Q4,Western Canada,AB,Vancouver,CLN1094,Henderson Veterinary Clinic,Priya Sharma,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,14,0.07,1744.68,1613.48,108.1
+S0604,2024-12-20,December,Q4,Quebec,QC,Laval,CLN1050,Diaz Mixed Practice,Isabelle Roy,Zactran 150mg/mL,Antibiotics,Cattle,320.0,25,0.06,7520.0,8387.78,89.7
+S0972,2024-12-20,December,Q4,Western Canada,AB,Vancouver,CLN1091,Rodriguez Mixed Practice,Priya Sharma,Ingelvac CircoFLEX,Vaccines,Swine,210.0,45,0.12,8316.0,10091.78,82.4
+S0046,2024-12-21,December,Q4,Ontario West,ON,Kitchener,CLN1043,Perez Farm Supply & Vet,Emily Chen,Zactran 150mg/mL,Antibiotics,Cattle,320.0,6,0.02,1881.6,1672.28,112.5
+S0457,2024-12-21,December,Q4,Ontario East,ON,Kingston,CLN1020,Smith Mixed Practice,Sarah Mitchell,Ingelvac CircoFLEX,Vaccines,Swine,210.0,2,0.03,407.4,390.23,104.4
+S0492,2024-12-21,December,Q4,Atlantic Canada,NS,Fredericton,CLN1102,Le Veterinary Clinic,Fatima Hassan,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,21,0.03,3564.75,4745.56,75.1
+S0809,2024-12-21,December,Q4,Quebec,QC,Quebec City,CLN1070,Adams Animal Hospital,Isabelle Roy,Zactran 150mg/mL,Antibiotics,Cattle,320.0,31,0.09,9027.2,12145.03,74.3
+S0040,2024-12-22,December,Q4,Western Canada,AB,Vancouver,CLN1084,Hurst Farm Supply & Vet,Ryan Nakamura,Vetmedin 10mg,Cardiology,Companion,142.0,50,0.06,6674.0,5709.82,116.9
+S0048,2024-12-22,December,Q4,Ontario East,ON,Ottawa,CLN1008,Miller Animal Hospital,Sarah Mitchell,Ingelvac CircoFLEX,Vaccines,Swine,210.0,25,0.14,4515.0,4968.52,90.9
+S0615,2024-12-22,December,Q4,Atlantic Canada,NS,St. John's,CLN1111,Liu Animal Hospital,Connor MacDonald,Metacam 20mg/mL Inj,Pain & Inflammation,Cattle,134.0,42,0.08,5177.76,4621.45,112.0
+S0767,2024-12-22,December,Q4,Ontario West,ON,London,CLN1033,Herrera Farm Supply & Vet,James Okafor,Ingelvac PRRS MLV,Vaccines,Swine,185.0,46,0.07,7914.3,7335.2,107.9
+S0078,2024-12-23,December,Q4,Ontario East,ON,Kingston,CLN1002,Johnson Animal Hospital,Sarah Mitchell,Nexgard Spectra M,Parasitology,Companion,38.9,3,0.15,99.19,107.33,92.4
+S0890,2024-12-23,December,Q4,Atlantic Canada,NS,St. John's,CLN1098,Rice Animal Hospital,Connor MacDonald,Ingelvac PRRS MLV,Vaccines,Swine,185.0,37,0.02,6708.1,8302.69,80.8
+S0138,2024-12-24,December,Q4,Ontario West,ON,Burlington,CLN1042,Williams Farm Supply & Vet,James Okafor,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,5,0.1,787.5,809.99,97.2
+S0274,2024-12-24,December,Q4,Western Canada,AB,Calgary,CLN1093,Conner Veterinary Clinic,Priya Sharma,Clomicalm 20mg,Behaviour,Companion,67.0,44,0.04,2830.08,3094.81,91.4
+S0688,2024-12-24,December,Q4,Western Canada,AB,Calgary,CLN1095,Brown Farm Supply & Vet,Ryan Nakamura,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,8,0.11,1246.0,1268.37,98.2
+S0302,2024-12-25,December,Q4,Quebec,QC,Montreal,CLN1062,Bowman Veterinary Clinic,Marc Tremblay,Ingelvac PRRS MLV,Vaccines,Swine,185.0,48,0.15,7548.0,7353.07,102.7
+S0438,2024-12-25,December,Q4,Quebec,QC,Sherbrooke,CLN1065,Cameron Animal Hospital,Isabelle Roy,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,46,0.08,7406.0,7400.51,100.1
+S0568,2024-12-25,December,Q4,Ontario East,ON,Kingston,CLN1015,Santos Farm Supply & Vet,David Park,Ingelvac PRRS MLV,Vaccines,Swine,185.0,25,0.02,4532.5,4086.7,110.9
+S0280,2024-12-26,December,Q4,Ontario West,ON,Windsor,CLN1039,Hensley Mixed Practice,James Okafor,Nexgard Spectra M,Parasitology,Companion,38.9,50,0.04,1867.2,1632.62,114.4
+S0389,2024-12-26,December,Q4,Western Canada,AB,Vancouver,CLN1076,Foster Veterinary Clinic,Priya Sharma,Ingelvac CircoFLEX,Vaccines,Swine,210.0,1,0.11,186.9,163.25,114.5
+S0662,2024-12-26,December,Q4,Quebec,QC,Laval,CLN1061,Mayo Mixed Practice,Isabelle Roy,Vetmedin 5mg,Cardiology,Companion,89.5,3,0.15,228.22,215.54,105.9
+S0859,2024-12-27,December,Q4,Quebec,QC,Quebec City,CLN1068,Johnson Mixed Practice,Marc Tremblay,Ingelvac PRRS MLV,Vaccines,Swine,185.0,47,0.1,7825.5,10254.03,76.3
+S0324,2024-12-28,December,Q4,Quebec,QC,Quebec City,CLN1049,Reid Mixed Practice,Marc Tremblay,Zactran 150mg/mL,Antibiotics,Cattle,320.0,31,0.04,9523.2,8430.0,113.0
+S0340,2024-12-28,December,Q4,Ontario East,ON,Toronto,CLN1007,Mcclain Veterinary Clinic,Sarah Mitchell,Ingelvac CircoFLEX,Vaccines,Swine,210.0,9,0.13,1644.3,1461.55,112.5
+S0623,2024-12-28,December,Q4,Western Canada,AB,Saskatoon,CLN1079,Baker Veterinary Clinic,Priya Sharma,Ingelvac PRRS MLV,Vaccines,Swine,185.0,37,0.08,6297.4,4998.43,126.0
+S0530,2024-12-29,December,Q4,Atlantic Canada,NS,St. John's,CLN1098,Rice Animal Hospital,Fatima Hassan,Vetmedin 5mg,Cardiology,Companion,89.5,33,0.12,2599.08,2051.64,126.7
+S0608,2024-12-29,December,Q4,Ontario West,ON,London,CLN1027,Davis Veterinary Clinic,Emily Chen,Bovilis Bovipast RSP,Vaccines,Cattle,175.0,23,0.14,3461.5,2871.67,120.5
+S0610,2024-12-29,December,Q4,Atlantic Canada,NS,St. John's,CLN1098,Rice Animal Hospital,Fatima Hassan,Zactran 150mg/mL,Antibiotics,Cattle,320.0,31,0.09,9027.2,11876.22,76.0
+S0731,2024-12-29,December,Q4,Ontario East,ON,Belleville,CLN1011,Robinson Animal Hospital,Sarah Mitchell,Nexgard Spectra L,Parasitology,Companion,44.5,15,0.05,634.12,724.04,87.6
+S0446,2024-12-30,December,Q4,Atlantic Canada,NS,Fredericton,CLN1099,Maddox Mixed Practice,Connor MacDonald,Nexgard Spectra L,Parasitology,Companion,44.5,28,0.04,1196.16,942.96,126.9
+S0539,2024-12-30,December,Q4,Western Canada,AB,Vancouver,CLN1077,Rocha Mixed Practice,Ryan Nakamura,Metacam Oral 1.5mg,Pain & Inflammation,Companion,54.75,17,0.09,846.98,1114.46,76.0
+S0842,2024-12-30,December,Q4,Western Canada,AB,Vancouver,CLN1076,Foster Veterinary Clinic,Ryan Nakamura,Ingelvac PRRS MLV,Vaccines,Swine,185.0,6,0.04,1065.6,1241.46,85.8
+S0515,2024-12-31,December,Q4,Western Canada,AB,Calgary,CLN1074,Edwards Veterinary Clinic,Ryan Nakamura,Ingelvac PRRS MLV,Vaccines,Swine,185.0,20,0.01,3663.0,4731.37,77.4
+S0755,2024-12-31,December,Q4,Ontario East,ON,Toronto,CLN1024,Moore Mixed Practice,Sarah Mitchell,Nexgard Spectra M,Parasitology,Companion,38.9,25,0.12,855.8,704.47,121.5
+S0889,2024-12-31,December,Q4,Western Canada,AB,Saskatoon,CLN1081,Hoffman Mixed Practice,Priya Sharma,Draxxin 100mg/mL,Antibiotics,Cattle,298.0,23,0.05,6511.3,8077.04,80.6
