@@ -3,6 +3,8 @@ clean.py
 --------
 Cleans and standardizes the raw sales DataFrame produced by ingest.py.
 Handles nulls, type casting, duplicates, and basic outlier flagging.
+
+Improve Efficiency - TODO
 """
 
 import pandas as pd
