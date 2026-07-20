@@ -3,4 +3,4 @@ A Commercial Excellence toolkit for Animal Health sales analytics; combining Exc
 
 ** In Progress **
 
-Apart of the AHCEE EDP group
+This is proj in part of the AHCEE EDP group
