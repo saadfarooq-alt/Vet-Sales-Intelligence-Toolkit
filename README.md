@@ -3,4 +3,4 @@ A Commercial Excellence toolkit for Animal Health sales analytics; combining Exc
 
 ** In Progress **
 
-This is proj in part of the AHCEE EDP group
+Maybe create something that can use snowflake data and create something meaningful for the team like analytics
