@@ -3,4 +3,4 @@ A Commercial Excellence toolkit for Animal Health sales analytics; combining Exc
 
 ** In Progress **
 
-Maybe create something that can use snowflake data and create something meaningful for the team like analytics
+Maybe create something that can use snowflake data and create something meaningful for the team like analytics, add the web scraping projects.
