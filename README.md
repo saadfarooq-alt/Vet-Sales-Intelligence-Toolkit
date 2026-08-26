@@ -6,3 +6,5 @@ A Commercial Excellence toolkit for Animal Health sales analytics; combining Exc
 Maybe create something that can use snowflake data and create something meaningful for the team like analytics, add the web scraping projects.
 
 Currently all projects are based on bitbucket and not on github
+
+Clean repo
